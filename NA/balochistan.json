@@ -3579,5 +3579,161 @@
       "NA Form-33_page-0040.jpg",
       "NA Form-33_page-0041.jpg"
     ]
+  },
+  "NA-258": {
+    "Constituency No": "NA-258",
+    "Constituency Name": "Panjgur-cum-Kech",
+    "Returning Officer": "Saeed Ali",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Pullain",
+        "Name in Urdu": "پلین",
+        "Address": "Tasp Panjgur",
+        "Symbol": "Saw (230)",
+        "Party": "National Party"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Jassim",
+        "Name in Urdu": "جاسم",
+        "Address": "Pisharaj tangran Tump Dist Kech",
+        "Symbol": "Cow (70)",
+        "Party": "Balochistan Awami Party"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Zahid Hussain",
+        "Name in Urdu": "زاہد حسین",
+        "Address": "Grankan District Panjgur",
+        "Symbol": "Axe (14)",
+        "Party": "Balochistan National Party"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Saeedullah",
+        "Name in Urdu": "سعیداللہ",
+        "Address": "Sand e sar Essai Chitkan Panjgur",
+        "Symbol": "Table (271)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Shabbir Ahmed",
+        "Name in Urdu": "شبیر احمد",
+        "Address": "Keel Kore Teshil Gowargo",
+        "Symbol": "Rabab (212)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Shey Naseem Buledi",
+        "Name in Urdu": "شی نسیم بلیدی",
+        "Address": "Buleda Menaz",
+        "Symbol": "Clock (60)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Sabir Ali Baloch",
+        "Name in Urdu": "صابر علی بلوچ",
+        "Address": "Kahan e Zangi Essai District Panjgur",
+        "Symbol": "Arrow (12)",
+        "Party": "Pakistan Peoples Party Parliamentarians"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Zafarullah",
+        "Name in Urdu": "ظفراللہ",
+        "Address": "Khudabadan Panjgur",
+        "Symbol": "Human Eye (142)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Zafarullah Khan Gichki",
+        "Name in Urdu": "ظفراللہ خان گچکی",
+        "Address": "Sordo Panjgur",
+        "Symbol": "Book (31)",
+        "Party": "Jamiat Ulema-e-Islam Pakistan"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Mohammad Aslam Buledi",
+        "Name in Urdu": "محمد اسلم بلیدی",
+        "Address": "Buleda Menaz",
+        "Symbol": "Tiger (284)",
+        "Party": "Pakistan Muslim League (N)"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Mohammad Ismail Buledi",
+        "Name in Urdu": "محمد اسماعیل بلیدی",
+        "Address": "Buleda solo",
+        "Symbol": "Ring (220)",
+        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Muhammad Ayub",
+        "Name in Urdu": "محمد ایوب",
+        "Address": "Diz Paroom Teshil Jeaen Paroom",
+        "Symbol": "Peacock (194)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Javed",
+        "Name in Urdu": "محمد جاوید",
+        "Address": "Bat Alandoor Buleda District Kech",
+        "Symbol": "Chair (55)",
+        "Party": "Pakistan Markazi Muslim League"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Muhammad Noor",
+        "Name in Urdu": "محمد نور",
+        "Address": "Garib Abad Chitkan",
+        "Symbol": "Hen (135)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Muhammad Yaseen",
+        "Name in Urdu": "محمد یاسین",
+        "Address": "gharib Abad Chitkan",
+        "Symbol": "Sickle (246)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Mir Chakar Peral",
+        "Name in Urdu": "میر چاکر پرال",
+        "Address": "Shay tagar Ghoarna khana Kech Turbat",
+        "Symbol": "Chapral (56)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Noor Ahmed Adil",
+        "Name in Urdu": "نور احمد عادل",
+        "Address": "Tar Office Chitkan",
+        "Symbol": "Camel (49)",
+        "Party": "Balochistan National Party (Awami)"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Hidayat Ur Rehman",
+        "Name in Urdu": "ہدایت الرحمن",
+        "Address": "Ward No.5 Dak Khana Gawadar suburban Gawadar",
+        "Symbol": "Rabbit (213)",
+        "Party": "Haq Do Tehreek Balochistan"
+      }
+    ],
+    "PageFiles": [
+      "NA Form-33_page-0020.jpg",
+      "NA Form-33_page-0021.jpg"
+    ]
   }
 }

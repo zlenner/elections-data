@@ -90,8 +90,8 @@
       "KP_Form-33_NAs (13-01-2024)_page-0001.jpg"
     ]
   },
-  "NA-2": {
-    "Constituency No": "NA-2",
+  "NA-42": {
+    "Constituency No": "NA-42",
     "Constituency Name": "SOUTH WAZIRISTAN UPPER-CUM-SOUTH WAZIRISTAN LOWER",
     "Returning Officer": "Ijaz Akhtar",
     "NumPages": 2,
@@ -6329,6 +6329,89 @@
     ],
     "PageFiles": [
       "KP_Form-33_NAs (13-01-2024)_page-0069.jpg"
+    ]
+  },
+  "NA-2": {
+    "Constituency No": "NA-2",
+    "Constituency Name": "Swat-I",
+    "Returning Officer": "Sohail Ahmad",
+    "NumPages": 1,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Amjad Ali Khan",
+        "Name in Urdu": "امجد علی خان",
+        "Address": "Khwazakhela",
+        "Symbol": "Kettle (153)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Amir Muqam",
+        "Name in Urdu": "امیر مقام",
+        "Address": "Puran Shangla",
+        "Symbol": "Tiger (284)",
+        "Party": "Pakistan Muslim League (N)"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Haider Ali Khan",
+        "Name in Urdu": "حیدر علی خان",
+        "Address": "Kuzkalay tehsil Khwazakhela",
+        "Symbol": "Arrow (12)",
+        "Party": "Pakistan Peoples Party Parliamentarians"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Syed Iqbal Hussain",
+        "Name in Urdu": "سید اقبال حسین",
+        "Address": "Shahgram Madyan tehsil Bahrain Swat",
+        "Symbol": "Crane (71)",
+        "Party": "Tehreek Labbaik Pakistan"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Abdul Ghafoor",
+        "Name in Urdu": "عبدالغفور",
+        "Address": "Charbagh",
+        "Symbol": "Book (31)",
+        "Party": "Jamiat Ulema-e-Islam Pakistan"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Muhammad Ayub Khan",
+        "Name in Urdu": "محمد ایوب خان",
+        "Address": "Asharay tehsil Matta",
+        "Symbol": "Lantern (162)",
+        "Party": "Awami National Party"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Muhammad Mukhtar",
+        "Name in Urdu": "محمد مختار",
+        "Address": "Sheen Khwazakhela",
+        "Symbol": "Bunch of Grapes (42)",
+        "Party": "Pashtoonkhwa National Awami Party"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Naveed Iqbal",
+        "Name in Urdu": "نوید اقبال",
+        "Address": "Moh Cham tehsil Charbagh",
+        "Symbol": "Scale (232)",
+        "Party": "Jamaat-e-Islami Pakistan"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Naveed Ur Rahman",
+        "Name in Urdu": "نوید الرحمن",
+        "Address": "Khwazakhela",
+        "Symbol": "Bee (24)",
+        "Party": "Independent"
+      }
+    ],
+    "PageFiles": [
+      "KP_Form-33_NAs (13-01-2024)_page-0002.jpg"
     ]
   }
 }

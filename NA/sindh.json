@@ -9984,5 +9984,121 @@
       "NA-116.jpg",
       "NA-117.jpg"
     ]
+  },
+  "NA-196": {
+    "Constituency No": "NA-196",
+    "Constituency Name": "Kamber Shahdadkot-I",
+    "Returning Officer": "Mohsin Ali Shaikh",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Ajaz Ali",
+        "Name in Urdu": "اعجاز علی",
+        "Address": "Village Saeed Khan Panhawar Muhalla Thappa Char Nasirabad Taluka Nasirabad District Kamber Shahdadkot @Kamber",
+        "Symbol": "Kite (159)",
+        "Party": "Muttahida Qaumi Movement Pakistan"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Bilawal Bhutto Zardari",
+        "Name in Urdu": "بلاول بھٹو زرداری",
+        "Address": "Naudero House Nauodero Taluka Rato Dero District Larkana",
+        "Symbol": "Arrow (12)",
+        "Party": "Pakistan Peoples Party Parliamentarians"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Khurshed Ahmed Junejo",
+        "Name in Urdu": "خورشید احمد جنیجو",
+        "Address": "Village Damraha P/O Damraha District Larkana",
+        "Symbol": "Kettle (153)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Sultan Ahmed Khan Khuhawar",
+        "Name in Urdu": "سلطان احمد خان کھوھار",
+        "Address": "House No. 205 Mohalla Haji Safar Ali Khohawar Road Shahdadkot District Kamber Shahdadkot @Kamber",
+        "Symbol": "Fork (109)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Sohail Nazir Magssi",
+        "Name in Urdu": "سہیل نذیر مگسی",
+        "Address": "Village Sahib Khan Magssi District Kamber Shahdad Kot",
+        "Symbol": "Peacock (194)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Sadam Hussain",
+        "Name in Urdu": "سدام حسین",
+        "Address": "Village Qutub Khan Brohi Allah Abad P/O Gari Khairo Taluka Gari Khairo District Jacobabad",
+        "Symbol": "Crane (71)",
+        "Party": "Tehreek-e-Labbaik Pakistan"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Muhammad Ibrahim",
+        "Name in Urdu": "محمد ابراھیم",
+        "Address": "Muhalla Masan Shahdadkot Taluka Shahdadkot District Kamber Shahdadkot @Kamber",
+        "Symbol": "Scale (232)",
+        "Party": "Jamiat-e-Islami Pakistan"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Muhammad Ishaque",
+        "Name in Urdu": "محمد اسحاق",
+        "Address": "Village Channa P/O Miro Khan Koor Sahib Taluka Sijawal Junejo District Kamber Shahdadkot",
+        "Symbol": "Iron (147)",
+        "Party": "Pakistan Rah-e-Haq"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Mahmood Ul Hassan",
+        "Name in Urdu": "محمود الحسن",
+        "Address": "Dodal Road Muhalla Siddiqui Colony Larkana District Larkana",
+        "Symbol": "Air Conditioner (3)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Muneer Ahmed",
+        "Name in Urdu": "منیر احمد",
+        "Address": "Village Channa P/O Miro Khan Koor Sahib Taluka Sijawal Junejo District Kamber Shahdadkot",
+        "Symbol": "Tooth Brush (287)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Nasir Mahmood",
+        "Name in Urdu": "ناصر محمود",
+        "Address": "Nasir Manzil Mgaran No: 013 Gali No:01-41 Muhalla Siddiqi Colony Larkana District Larkana",
+        "Symbol": "Book (31)",
+        "Party": "Jamiat Ulama-e-Islam"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Naheed",
+        "Name in Urdu": "ناہید",
+        "Address": "Muhalla Ferozabad Shahdadkot Taluka Shahdadkot District Kamber Shahdadkot",
+        "Symbol": "Aeroplane (2)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Nawabuddin",
+        "Name in Urdu": "",
+        "Address": "Village Datu Ji Wandh Po Esso Taluka kamber District kamber shahdadkot",
+        "Symbol": "Fist (105)",
+        "Party": "Pakistan Peoples Party (Shaheed Bhutto)"
+      }
+    ],
+    "PageFiles": [
+      "NA-010.jpg",
+      "NA-011.jpg"
+    ]
   }
 }

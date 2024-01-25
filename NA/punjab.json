@@ -1215,7 +1215,7 @@
   "NA-78": {
     "Constituency No": "NA-78",
     "Constituency Name": "GUJRANWALA-II",
-    "Returning Officer": "",
+    "Returning Officer": "M. Numan Azam Hayat Wattoo",
     "NumPages": 2,
     "Candidates": [
       {
@@ -1489,11 +1489,20 @@
         "Address": "Mohallah Bhindran P/O Khas Aroop Gujranwala",
         "Symbol": "Tower (291)",
         "Party": "Independent"
+      },
+      {
+        "SerialNo": 35,
+        "Name in English": "Narjis Siddique",
+        "Name in Urdu": "نرجس صدیق",
+        "Address": "Chaudhry House, House 35-A, Satellite Town Gujranwala",
+        "Symbol": "Laptop (163)",
+        "Party": "Independent"
       }
     ],
     "PageFiles": [
       "NA_Form-33-066.jpg",
-      "NA_Form-33-067.jpg"
+      "NA_Form-33-067.jpg",
+      "NA_Form-33-068.jpg"
     ]
   },
   "NA-87": {
@@ -9290,8 +9299,8 @@
       "NA_Form-33-247.jpg"
     ]
   },
-  "NA-190": {
-    "Constituency No": "NA-190",
+  "NA-180": {
+    "Constituency No": "NA-180",
     "Constituency Name": "Kot Addu II",
     "Returning Officer": "",
     "NumPages": 1,
@@ -16045,8 +16054,8 @@
       "NA_Form-33-065.jpg"
     ]
   },
-  "NA-29": {
-    "Constituency No": "NA-29",
+  "NA-79": {
+    "Constituency No": "NA-79",
     "Constituency Name": "GUJRANWALA-III",
     "Returning Officer": "Khurram Mukhtar Bhangoo",
     "NumPages": 2,
@@ -24427,6 +24436,291 @@
     "PageFiles": [
       "NA_Form-33-195.jpg",
       "NA_Form-33-196.jpg"
+    ]
+  },
+  "NA-80": {
+    "Constituency No": "NA-80",
+    "Constituency Name": "GUJRANWALA-IV",
+    "Returning Officer": "Asad Ali",
+    "NumPages": 3,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Iftikhar Ahmed Cheema",
+        "Name in Urdu": "افتخار احمد چیمہ",
+        "Address": "H. # 340-A Model Town, Gujranwala",
+        "Symbol": "Brush (38)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Ihsan Ullah Cheema",
+        "Name in Urdu": "احسان اللہ چیمہ",
+        "Address": "MOH. ABDI ILMI DEEN, KACHA KHIALI ROAD, GUJRANWALA",
+        "Symbol": "Clock (60)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Aurangzaib Cheema",
+        "Name in Urdu": "اورنگ زیب چیمہ",
+        "Address": "H. No. 64, Moh. Wapda Town, Block A-2, Gujranwala",
+        "Symbol": "Bear (22)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Awais Shabbir",
+        "Name in Urdu": "اویس شبیر",
+        "Address": "H. No. 567, St. No. 28, Neelum Block, DC Colony, Gujranwala",
+        "Symbol": "Duck (92)",
+        "Party": "Jamaat-e-Islami Pakistan"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Bilal Qudrat Butt",
+        "Name in Urdu": "بلال قدرت بٹ",
+        "Address": "Jaleel Town, Chand Da Qila, Gujranwala",
+        "Symbol": "Scale (232)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Ch Imran Ullah",
+        "Name in Urdu": "چ امران اللہ",
+        "Address": "SHEIKHUPURA ROAD, MOH. MADINA COLONY, GUJRANWALA",
+        "Symbol": "Stapler (258)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Ch Liaqat Ali Toor",
+        "Name in Urdu": "چ لیاقت علی تُور",
+        "Address": "St. No. 4, Main Bazzar, Moh. Ramzan Pura, Gujranwala",
+        "Symbol": "Peacock (194)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Chaudhry Muhammad Saeed",
+        "Name in Urdu": "چوہدری محمد سعید",
+        "Address": "Dhullay Main Bazzar, Said Pak Unchi abadi, Saddique Akbar Town, Gujranwala",
+        "Symbol": "Medal (173)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Chaudhry Muhammad Tariq",
+        "Name in Urdu": "چوہدری محمد طارق",
+        "Address": "Main Bazzar, Qonchi abadi, dhullay Moh. Said Park Gujranwala",
+        "Symbol": "Screw Driver (237)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Harris Chohan",
+        "Name in Urdu": "حارث چوہان",
+        "Address": "H. No. 94/4, X/09-X/94, ST. NO. 1, MOHALLA SHAMS ABAD GUJRANWALA",
+        "Symbol": "Door (87)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Zeeshan Ilyas",
+        "Name in Urdu": "زیشان الیاس",
+        "Address": "H. No. 6, St. No. 6, Bazzar Ghulam Muhammad Thakidar, Mohalla Bakhtai wala Gujranwala",
+        "Symbol": "Hand Pump (130)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Rizwan Mustafa Sian",
+        "Name in Urdu": "رضوان مصطفی سیان",
+        "Address": "H. No. 350, Moh. Wapda Town, Gujranwala",
+        "Symbol": "Emergency Light (98)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Saif Ullah",
+        "Name in Urdu": "سیف اللہ",
+        "Address": "St. No. 7, Gali mehr Bagoo Wala, Moh. Muslim Nagar Bakhtaiy wala, Gujranwala",
+        "Symbol": "Chair (55)",
+        "Party": "Pakistan Markazi Muslim League"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Shahid Usman",
+        "Name in Urdu": "شاہد عثمان",
+        "Address": "Street Haji Ibrahim Wali, Gulshan abad, Gujranwala",
+        "Symbol": "Tiger (284)",
+        "Party": "Pakistan Muslim League (N)"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Aqeel Anwar Dar",
+        "Name in Urdu": "عقیل انور ڈار",
+        "Address": "ST. NO. 7, AHMAD PURA, GUJRANWALA",
+        "Symbol": "Swallow (267)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Ali Ashraf",
+        "Name in Urdu": "علی اشرف",
+        "Address": "H. No. 3, Gulshan Amin, G.T. Road, Moh. Super Asia Colony, Gujranwala",
+        "Symbol": "Transformer (294)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Umar Ashraf",
+        "Name in Urdu": "عمر",
+        "Address": "Bangla No. 3, Gulshan Amin, Moh. Super Asia Colony, Gujranwala",
+        "Symbol": "Air Cooler (4)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Imran",
+        "Name in Urdu": "عمران",
+        "Address": "Moh. Ujala Bannu Masjid Anwar e Madina Garjakh, Gujranwala",
+        "Symbol": "Arrow (12)",
+        "Party": "Pakistan Peoples Party Parliamentarians"
+      },
+      {
+        "SerialNo": 19,
+        "Name in English": "Lala Asad Ullah",
+        "Name in Urdu": "لالہ اسد اللہ",
+        "Address": "St. Munshi Abdul Wahid Wali, Moh. Chak Banwala, Gujranwala",
+        "Symbol": "Cage (45)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 20,
+        "Name in English": "Lala Shakeel Ur Rehman",
+        "Name in Urdu": "لالہ شکیل الرحمان",
+        "Address": "House Lala House, St. Nathe Jutt wali, Chah Banwala, P.O Sagher shaheed, Gujranwala",
+        "Symbol": "Owl (34)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 21,
+        "Name in English": "Muhammad Asif",
+        "Name in Urdu": "محمد آصف",
+        "Address": "NEAR GOVT. BOYS SCHOOL, MAIN BAZAR, MOH. MURALI WALA, GUJRANWALA",
+        "Symbol": "Typewriter (308)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 22,
+        "Name in English": "Muhammad Afzal Cheema",
+        "Name in Urdu": "محمد افضل چیمہ",
+        "Address": "H. no. 21 D, Moh. Mohafiz Town, Gujranwala",
+        "Symbol": "Trolley (297)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 23,
+        "Name in English": "Muhammad Ikram",
+        "Name in Urdu": "محمد اکرم",
+        "Address": "Noshehra Road, St. No. 1, Moh. Salvi Town, Gujranwala",
+        "Symbol": "Calculator (47)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 24,
+        "Name in English": "Muhammad Hassan",
+        "Name in Urdu": "محمد حسن",
+        "Address": "St. No. 7, Gala Hameed wala, Jinnah Road, Dhullay, Moh. Islam Pura, Gujranwala",
+        "Symbol": "Laptop (163)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 25,
+        "Name in English": "Muhammad Rafiq",
+        "Name in Urdu": "محمد رفیق",
+        "Address": "Siddique Akbar Town, Masjid Saddiqa, Sialk Pura, Gujranwala",
+        "Symbol": "Crane (71)",
+        "Party": "Tehreek Labbaik Pakistan"
+      },
+      {
+        "SerialNo": 26,
+        "Name in English": "Muhammad Shahzad",
+        "Name in Urdu": "محمد شہزاد",
+        "Address": "Moh. Ali Pura, G.T Road, Gujranwala",
+        "Symbol": "Motorcycle (179)",
+        "Party": "Pakistan Awami Tehreek"
+      },
+      {
+        "SerialNo": 27,
+        "Name in English": "Muhammad Arfan",
+        "Name in Urdu": "محمد ارفان",
+        "Address": "ST. NO. 1, MAIN BAZAAR DHULLEY, MOH. SAID PUR UNCHI BEG, GUJRANWALA",
+        "Symbol": "MIC (174)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 28,
+        "Name in English": "Muhammad Farooq",
+        "Name in Urdu": "محمد فاروق",
+        "Address": "St. No. 3, Bazaar No. 1, Noshehra Road, Mohalla Abedi Mehar wazir, Gujranwala",
+        "Symbol": "Match Box (172)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 29,
+        "Name in English": "Muhammad Faisal Ikram",
+        "Name in Urdu": "محمد فیصل اکرم",
+        "Address": "St. No. 1, Noshehra Road, Moh. Salvi Town, Gujranwala",
+        "Symbol": "Bee (24)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 30,
+        "Name in English": "Muhammad Naseem Sadiq",
+        "Name in Urdu": "محمد نسیم صادق",
+        "Address": "St. No. 1, Muhammad Pura, Gujranwala",
+        "Symbol": "Hut (144)",
+        "Party": "Aam Log Party Pakistan"
+      },
+      {
+        "SerialNo": 31,
+        "Name in English": "Mehar Muhammad Sarfraz",
+        "Name in Urdu": "مہر محمد سرفراز",
+        "Address": "St. Mehar Muhammad Shafi Wali, Mohalla Baghban pura, Gujranwala",
+        "Symbol": "Key Chain (155)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 32,
+        "Name in English": "Nasir Khan",
+        "Name in Urdu": "ناصر خان",
+        "Address": "H. No. XV-4/5-2/3, ST. NO. 1, MOH. RATANWALA, GUJRANWALA",
+        "Symbol": "Oil Stove (184)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 33,
+        "Name in English": "Waqar Ahmad Cheema",
+        "Name in Urdu": "وقار احمد چیمہ",
+        "Address": "H. No. 21, Cheema House, Moh. Muhafiz Town, B Block Gujranwala",
+        "Symbol": "Wall (321)",
+        "Party": "Independent"
+      },
+      {
+        "SerialNo": 34,
+        "Name in English": "Yahya Butt",
+        "Name in Urdu": "یحییٰ بٹ",
+        "Address": "St. No. 2, Khalil Moh, Madina Colony, Gujranwala",
+        "Symbol": "Water Cooler (317)",
+        "Party": "Independent"
+      }
+    ],
+    "PageFiles": [
+      "NA_Form-33-071.jpg",
+      "NA_Form-33-072.jpg",
+      "NA_Form-33-073.jpg"
     ]
   }
 }
