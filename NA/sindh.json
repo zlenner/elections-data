@@ -7371,7 +7371,7 @@
         "Name in English": "Syed Azhar Fakhar Uddin",
         "Name in Urdu": "سید اظہر فخرالدین",
         "Address": "Syed Ahmed Fakhar Uddin",
-        "Symbol": "AEROPLAN",
+        "Symbol": "AEROPLANE",
         "Party": "Independent Candidate",
         "SymbolNo": 2
       },
@@ -7515,7 +7515,7 @@
         "Name in English": "Shafiq Naseem",
         "Name in Urdu": "شفیق نسیم",
         "Address": "Muhammad Naseem Ansari",
-        "Symbol": "A SYMBOL 'A'",
+        "Symbol": "ALPHABET 'A'",
         "Party": "Independent Candidate",
         "SymbolNo": 5
       },
@@ -7770,7 +7770,7 @@
         "Name in English": "Syed Akif Uddin",
         "Name in Urdu": "سید عاکف الدین",
         "Address": "House No. R-12, Sector 22, Piner Cottage, University Road, Karachi",
-        "Symbol": "ALPHABET “S”",
+        "Symbol": "ALPHABET 'S'",
         "Party": "Independent",
         "SymbolNo": 10
       },
@@ -9504,7 +9504,7 @@
         "Name in English": "Syed Muhammad Rehmat Ali Rehmani",
         "Name in Urdu": "سید محمد رحمت علی رحمانی",
         "Address": "House No. R-248, Sector Z-6, Gulshan-e-Maymar Karachi",
-        "Symbol": "ALPHABATE \"A\"",
+        "Symbol": "ALPHABET 'A'",
         "Party": "Independent",
         "SymbolNo": 5
       },
@@ -10206,7 +10206,7 @@
         "Name in English": "Syed Muhammad Asif Raza",
         "Name in Urdu": "سید محمد آصف رضا",
         "Address": "House No. R-115, Sector 9, North Karachi",
-        "Symbol": "ALPHABET A",
+        "Symbol": "ALPHABET 'A'",
         "Party": "Independent",
         "SymbolNo": 5
       },
@@ -10269,7 +10269,7 @@
         "Name in English": "Qazi Saleem Haider",
         "Name in Urdu": "قاضی سلیم حیدر",
         "Address": "House No. A-213, Block 10/A, Gulshan-e-Iqbal",
-        "Symbol": "ALPHABET X",
+        "Symbol": "ALPHABET 'X'",
         "Party": "Independent",
         "SymbolNo": 6
       },
@@ -10305,7 +10305,7 @@
         "Name in English": "Muhammad Tehamas Ali Khan",
         "Name in Urdu": "محمد تہامس علی خان",
         "Address": "House No. R-145, Muhajir Society Sector 52-A Scheme-33",
-        "Symbol": "ALPHABET P",
+        "Symbol": "ALPHABET 'P'",
         "Party": "Independent",
         "SymbolNo": 9
       },
@@ -10497,9 +10497,9 @@
         "Name in English": "Sheikh Muhammad Owais Qarni",
         "Name in Urdu": "شیخ محمد اویس قرنی",
         "Address": "House No. 115/545, Bandhani Colony, Liaquatabad No. 10, Karachi",
-        "Symbol": "ALPHABET 'N/A'",
+        "Symbol": "ALPHABET 'A'",
         "Party": "Independent",
-        "SymbolNo": ""
+        "SymbolNo": 5
       },
       {
         "SerialNo": 16,
@@ -11116,7 +11116,7 @@
         "Name in English": "Marium Salman",
         "Name in Urdu": "ماریم سلمان",
         "Address": "Defence College Staff Houses, Flat No. 10, Khayaban e Ghalli Phase VIII, Karachi",
-        "Symbol": "ALPHABET \"A\"",
+        "Symbol": "ALPHABET 'A'",
         "Party": "Independent",
         "SymbolNo": 5
       },
