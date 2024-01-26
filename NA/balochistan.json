@@ -265,7 +265,10 @@
         "Symbol": "FRIDGE",
         "Party": "Independent",
         "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKUOnu7tkj8sopORl24"
+        }
       },
       {
         "SerialNo": 9,
@@ -817,7 +820,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFzsGpGpLHJCJJJWw3z"
+        }
       },
       {
         "SerialNo": 33,
@@ -1558,7 +1564,10 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG2WK51SWsujPKiw50g"
+        }
       },
       {
         "SerialNo": 12,
@@ -2849,7 +2858,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKetvt8kyyPNW43Q83z"
+        }
       },
       {
         "SerialNo": 11,
@@ -3252,7 +3264,10 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKslTB0LKZ5w7TJRl3u"
+        }
       },
       {
         "SerialNo": 12,
@@ -3715,7 +3730,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKBhtwCxoAxt6DcDm3M"
+        }
       },
       {
         "SerialNo": 11,
@@ -4078,7 +4096,10 @@
         "Symbol": "TABLE TENNIS BAT",
         "Party": "Independent",
         "SymbolNo": 273,
-        "symbol_url": "https://symbols.azaadvote.com/table-tennis-bat.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/table-tennis-bat.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKex019MF8xSGP4vE3R"
+        }
       },
       {
         "SerialNo": 11,

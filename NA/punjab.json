@@ -203,7 +203,10 @@
         "Symbol": "BRINJAL",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKiGoXFcovyGPa4Qp23"
+        }
       },
       {
         "SerialNo": 21,
@@ -716,7 +719,10 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGUg6nLI8YZw540dm0t"
+        }
       },
       {
         "SerialNo": 27,
@@ -979,7 +985,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaG6CSH2UPBCRkU0Yq1S"
+        }
       },
       {
         "SerialNo": 15,
@@ -1066,9 +1075,9 @@
       "NA_Form-33-031.jpg"
     ]
   },
-  "NA-65 Gujrat-IV": {
-    "Constituency No": "NA-65 Gujrat-IV",
-    "Constituency Name": "National Assembly of Pakistan",
+  "NA-65": {
+    "Constituency No": "NA-65",
+    "Constituency Name": "Gujrat-IV",
     "Returning Officer": "",
     "NumPages": 2,
     "Candidates": [
@@ -1442,7 +1451,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFo7YxKwqSKMkmKB033"
+        }
       },
       {
         "SerialNo": 16,
@@ -1834,7 +1846,10 @@
         "Symbol": "RADIO",
         "Party": "Independent",
         "SymbolNo": 215,
-        "symbol_url": "https://symbols.azaadvote.com/radio.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/radio.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLSPuDChq6LYqIai40O"
+        }
       },
       {
         "SerialNo": 34,
@@ -1957,7 +1972,10 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKtAJN7oQhcvui5ls1P"
+        }
       },
       {
         "SerialNo": 10,
@@ -2078,7 +2096,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 66,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKYjymDTkK7UUyBl13e"
+        }
       },
       {
         "SerialNo": 9,
@@ -2309,7 +2330,10 @@
         "Symbol": "LETTER BOX",
         "Party": "Independent",
         "SymbolNo": 165,
-        "symbol_url": "https://symbols.azaadvote.com/letter-box.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/letter-box.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLKroCF6smweHNs7a2V"
+        }
       },
       {
         "SerialNo": 17,
@@ -2451,7 +2475,10 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": 32,
-        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFrXCL8qIzz22Kk850c"
+        }
       },
       {
         "SerialNo": 11,
@@ -2612,7 +2639,10 @@
         "Symbol": "WATER COOLER",
         "Party": "Independent",
         "SymbolNo": 317,
-        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKuijT11ulWyk0vBu2O"
+        }
       },
       {
         "SerialNo": 12,
@@ -2814,7 +2844,10 @@
         "Symbol": "RADIO",
         "Party": "Save Judiciary Party",
         "SymbolNo": 215,
-        "symbol_url": "https://symbols.azaadvote.com/radio.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/radio.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKlWqWKQuJTg18LnP3x"
+        }
       },
       {
         "SerialNo": 6,
@@ -3186,7 +3219,10 @@
         "Symbol": "SOFA",
         "Party": "Independent",
         "SymbolNo": 249,
-        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL32WR6GcG94WWL5J3e"
+        }
       },
       {
         "SerialNo": 18,
@@ -3499,7 +3535,10 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": 32,
-        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGvLJBLY6d8SKx5Ob3A"
+        }
       },
       {
         "SerialNo": 6,
@@ -3931,7 +3970,10 @@
         "Symbol": "TOWER",
         "Party": "Independent",
         "SymbolNo": 291,
-        "symbol_url": "https://symbols.azaadvote.com/tower.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/tower.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKmDI630LKFWq33u41r"
+        }
       },
       {
         "SerialNo": 15,
@@ -4203,7 +4245,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "INDEPENDENT",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKJxRLFHWq3v4N3Qq0C"
+        }
       },
       {
         "SerialNo": 12,
@@ -4355,7 +4400,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG5qYBC1FuAXraORq14"
+        }
       },
       {
         "SerialNo": 11,
@@ -4507,7 +4555,10 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLPeZ7JENy2b6BgZf1u"
+        }
       },
       {
         "SerialNo": 4,
@@ -4698,7 +4749,10 @@
         "Symbol": "DHOL",
         "Party": "Independent",
         "SymbolNo": 81,
-        "symbol_url": "https://symbols.azaadvote.com/dhol.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/dhol.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL6TOOADTOMDVKfYu0o"
+        }
       },
       {
         "SerialNo": 8,
@@ -5060,7 +5114,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKNu7IAe5VgxArLlm2g"
+        }
       },
       {
         "SerialNo": 16,
@@ -5343,7 +5400,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKiWIF3WHTS4gjl5R3H"
+        }
       },
       {
         "SerialNo": 8,
@@ -5757,7 +5817,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGTuVL6rsQqjmeZwb0W"
+        }
       },
       {
         "SerialNo": 5,
@@ -6039,7 +6102,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLCkL1LY6dCIGNPXT0k"
+        }
       }
     ],
     "PageFiles": [
@@ -6201,7 +6267,10 @@
         "Symbol": "SHOES",
         "Party": "Independent",
         "SymbolNo": 243,
-        "symbol_url": "https://symbols.azaadvote.com/shoes.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/shoes.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFdiKxCsU9QRwJzlm1t"
+        }
       },
       {
         "SerialNo": 16,
@@ -6323,7 +6392,10 @@
         "Symbol": "TONGS",
         "Party": "Independent",
         "SymbolNo": 286,
-        "symbol_url": "https://symbols.azaadvote.com/tongs.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/tongs.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKYJZpBlHpgfbyplK3g"
+        }
       },
       {
         "SerialNo": 11,
@@ -6504,7 +6576,10 @@
         "Symbol": "TUNNEL",
         "Party": "Independent",
         "SymbolNo": 304,
-        "symbol_url": "https://symbols.azaadvote.com/tunnel.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/tunnel.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL1YPy89inm8OwPKl0I"
+        }
       }
     ],
     "PageFiles": [
@@ -6605,7 +6680,10 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGihbfE50UajutCLC2l"
+        }
       },
       {
         "SerialNo": 10,
@@ -6747,7 +6825,10 @@
         "Symbol": "DOLPHIN",
         "Party": "Independent",
         "SymbolNo": 85,
-        "symbol_url": "https://symbols.azaadvote.com/dolphin.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/dolphin.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLM8sxIiRolxQW2Sl2h"
+        }
       },
       {
         "SerialNo": 4,
@@ -6918,7 +6999,10 @@
         "Symbol": "SHUTTLE COCK",
         "Party": "",
         "SymbolNo": 245,
-        "symbol_url": "https://symbols.azaadvote.com/shuttle-cock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/shuttle-cock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGHQ1XHltYEKlE8a30t"
+        }
       },
       {
         "SerialNo": 10,
@@ -7110,7 +7194,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL6HXVGOj9ev676Hk0Y"
+        }
       },
       {
         "SerialNo": 11,
@@ -7211,7 +7298,10 @@
         "Symbol": "WATER COOLER",
         "Party": "Independent",
         "SymbolNo": 317,
-        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKOqFdICVfijxMsm71x"
+        }
       },
       {
         "SerialNo": 5,
@@ -7413,7 +7503,10 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFTiwz23n3cj4VUew1Q"
+        }
       },
       {
         "SerialNo": 9,
@@ -7515,7 +7608,10 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFSmgB6BIErOVvdLu2z"
+        }
       },
       {
         "SerialNo": 3,
@@ -7766,7 +7862,10 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKXKyQLCoX4TVts0Q3N"
+        }
       }
     ],
     "PageFiles": [
@@ -8271,7 +8370,10 @@
         "Symbol": "SHOES",
         "Party": "Independent",
         "SymbolNo": 243,
-        "symbol_url": "https://symbols.azaadvote.com/shoes.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/shoes.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKAL11GpLHVYoycV63d"
+        }
       },
       {
         "SerialNo": 8,
@@ -8503,7 +8605,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 50,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKrBLh8qJ01FCwAP92E"
+        }
       },
       {
         "SerialNo": 12,
@@ -8554,7 +8659,10 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKkLMH3LdQOe6h5991l"
+        }
       },
       {
         "SerialNo": 3,
@@ -8766,7 +8874,10 @@
         "Symbol": "ROLLER COASTER",
         "Party": "INDEPENDENT",
         "SymbolNo": 222,
-        "symbol_url": "https://symbols.azaadvote.com/roller-coaster.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/roller-coaster.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKc20bDzgTIExm7bK0L"
+        }
       },
       {
         "SerialNo": 8,
@@ -8887,7 +8998,10 @@
         "Symbol": "WASH BASIN",
         "Party": "Independent",
         "SymbolNo": 316,
-        "symbol_url": "https://symbols.azaadvote.com/wash-basin.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/wash-basin.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGFKOZGOj9h9LAPAy3T"
+        }
       },
       {
         "SerialNo": 7,
@@ -9260,7 +9374,10 @@
         "Symbol": "SAXOPHONE",
         "Party": "Independent",
         "SymbolNo": 231,
-        "symbol_url": "https://symbols.azaadvote.com/saxophone.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/saxophone.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG9mziCsU9VbZdLk843"
+        }
       },
       {
         "SerialNo": 5,
@@ -9532,7 +9649,10 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKN5Pk3LdQW8rBtj02E"
+        }
       }
     ],
     "PageFiles": [
@@ -9654,7 +9774,10 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKi1i017Emxue57Du3q"
+        }
       }
     ],
     "PageFiles": [
@@ -9976,7 +10099,10 @@
         "Symbol": "GREEN CHILLI",
         "Party": "Independent",
         "SymbolNo": 126,
-        "symbol_url": "https://symbols.azaadvote.com/green-chilli.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/green-chilli.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKt2V2A2pLF3SYwSp0j"
+        }
       },
       {
         "SerialNo": 19,
@@ -10058,7 +10184,10 @@
         "Symbol": "BRINJAL",
         "Party": "Independent",
         "SymbolNo": 37,
-        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKYBT6IXnlqpo6Z342D"
+        }
       },
       {
         "SerialNo": 7,
@@ -10190,7 +10319,10 @@
         "Symbol": "HARMONIUM",
         "Party": "Independent",
         "SymbolNo": 133,
-        "symbol_url": "https://symbols.azaadvote.com/harmonium.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/harmonium.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFeuks2UPBPxNtyAr26"
+        }
       },
       {
         "SerialNo": 3,
@@ -10642,7 +10774,10 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKfozKLSmbeuSmRuS0m"
+        }
       },
       {
         "SerialNo": 21,
@@ -10873,7 +11008,10 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKyOgh6WaKluVtax40V"
+        }
       },
       {
         "SerialNo": 22,
@@ -10955,7 +11093,10 @@
         "Symbol": "FEATHER",
         "Party": "Independent",
         "SymbolNo": 102,
-        "symbol_url": "https://symbols.azaadvote.com/feather.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/feather.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLFP3DHrDZawODxkt1S"
+        }
       },
       {
         "SerialNo": 6,
@@ -11216,7 +11357,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKSOpzIXnlkHvATSn3s"
+        }
       },
       {
         "SerialNo": 21,
@@ -11388,7 +11532,10 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFkJwq6LwHrLeAmu52v"
+        }
       },
       {
         "SerialNo": 14,
@@ -11579,7 +11726,10 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaJvREEL2AU0PIqk0r3K"
+        }
       },
       {
         "SerialNo": 5,
@@ -11730,7 +11880,10 @@
         "Symbol": "SPOON",
         "Party": "Independent",
         "SymbolNo": 255,
-        "symbol_url": "https://symbols.azaadvote.com/spoon.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/spoon.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFy6ZWJUM2SOZwmRt0f"
+        }
       },
       {
         "SerialNo": 3,
@@ -12032,7 +12185,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG1xPW5q08h85SVvp3i"
+        }
       },
       {
         "SerialNo": 12,
@@ -12133,7 +12289,10 @@
         "Symbol": "BENCH",
         "Party": "Independent",
         "SymbolNo": 26,
-        "symbol_url": "https://symbols.azaadvote.com/bench.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bench.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKHOR8GZNCuoH2uyM1S"
+        }
       },
       {
         "SerialNo": 8,
@@ -12315,7 +12474,10 @@
         "Symbol": "BRINJAL",
         "Party": "Independent",
         "SymbolNo": 37,
-        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGIzLoF6smvSGJkfE34"
+        }
       },
       {
         "SerialNo": 3,
@@ -12557,7 +12719,10 @@
         "Symbol": "MIC",
         "Party": "Independent",
         "SymbolNo": 174,
-        "symbol_url": "https://symbols.azaadvote.com/mic.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/mic.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG81qVGufIyOAPq0n2E"
+        }
       },
       {
         "SerialNo": 9,
@@ -12709,7 +12874,10 @@
         "Symbol": "HUKKAH",
         "Party": "INDEPENDENT",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG1TtM7tkjDzCKuJA3s"
+        }
       },
       {
         "SerialNo": 3,
@@ -12820,7 +12988,10 @@
         "Symbol": "STETHOSCOPE",
         "Party": "Independent",
         "SymbolNo": 260,
-        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGTkI69RZAfFOg8RA1q"
+        }
       },
       {
         "SerialNo": 3,
@@ -13091,7 +13262,10 @@
         "Symbol": "PARACHUTE",
         "Party": "INDEPENDENT",
         "SymbolNo": 192,
-        "symbol_url": "https://symbols.azaadvote.com/parachute.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/parachute.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKrS4MBadmf6fK6As45"
+        }
       },
       {
         "SerialNo": 17,
@@ -13393,7 +13567,10 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL8e6S7z4kn1xaH5g0M"
+        }
       },
       {
         "SerialNo": 9,
@@ -13505,7 +13682,10 @@
         "Symbol": "WATER TURBINE",
         "Party": "Independent",
         "SymbolNo": 320,
-        "symbol_url": "https://symbols.azaadvote.com/water-turbine.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/water-turbine.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGykknDp2QBzlJa2J2V"
+        }
       },
       {
         "SerialNo": 4,
@@ -14089,7 +14269,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaK6oVI6hENqba9eJF0f"
+        }
       },
       {
         "SerialNo": 12,
@@ -14593,7 +14776,10 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaFuSniJP212v1S4D21D"
+        }
       },
       {
         "SerialNo": 20,
@@ -14956,7 +15142,10 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaL6RuW9MF90C1THhQ17"
+        }
       },
       {
         "SerialNo": 25,
@@ -15179,7 +15368,10 @@
         "Symbol": "TOWER",
         "Party": "INDEPENDENT",
         "SymbolNo": 291,
-        "symbol_url": "https://symbols.azaadvote.com/tower.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/tower.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaG89Ex6hENnsPV7pt1c"
+        }
       },
       {
         "SerialNo": 14,
@@ -15501,7 +15693,10 @@
         "Symbol": "QUEEN",
         "Party": "Independent",
         "SymbolNo": 211,
-        "symbol_url": "https://symbols.azaadvote.com/queen.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/queen.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaLJuLDKrWQxQpNvwW2C"
+        }
       },
       {
         "SerialNo": 14,
@@ -15663,7 +15858,10 @@
         "Symbol": "SAXOPHONE",
         "Party": "Independent",
         "SymbolNo": 231,
-        "symbol_url": "https://symbols.azaadvote.com/saxophone.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/saxophone.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaG1BsRElagzW2nCnA0G"
+        }
       },
       {
         "SerialNo": 3,
@@ -15925,7 +16123,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaKmvDi7z4knAzjJoC3Q"
+        }
       },
       {
         "SerialNo": 7,
@@ -16531,7 +16732,10 @@
         "Symbol": "BRINJAL",
         "Party": "Independent",
         "SymbolNo": 37,
-        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://www.whatsapp.com/channel/0029VaKc4OQ1NCraWPtLn00s"
+        }
       },
       {
         "SerialNo": 6,
@@ -16993,7 +17197,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKIbTl0LKZEIqB6i62O"
+        }
       },
       {
         "SerialNo": 20,
@@ -17135,7 +17342,10 @@
         "Symbol": "RADIO",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/radio.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/radio.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGJyDBF6sn3AkFnWx2o"
+        }
       },
       {
         "SerialNo": 6,
@@ -17417,7 +17627,10 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGPKsjKWEKvlolQug2c"
+        }
       },
       {
         "SerialNo": 8,
@@ -17629,7 +17842,10 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKxjIUG3R3qbGCckd36"
+        }
       },
       {
         "SerialNo": 4,
@@ -17921,7 +18137,10 @@
         "Symbol": "BABY COT",
         "Party": "Independent",
         "SymbolNo": 15,
-        "symbol_url": "https://symbols.azaadvote.com/baby-cot.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/baby-cot.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFkh562phHG58yKmt06"
+        }
       },
       {
         "SerialNo": 8,
@@ -18083,7 +18302,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFvtRq5a24716K46G26"
+        }
       },
       {
         "SerialNo": 5,
@@ -18425,7 +18647,10 @@
         "Symbol": "WELL",
         "Party": "Independent",
         "SymbolNo": 321,
-        "symbol_url": "https://symbols.azaadvote.com/well.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/well.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGAurV3AzNXh92MIU3S"
+        }
       },
       {
         "SerialNo": 15,
@@ -18727,7 +18952,10 @@
         "Symbol": "BRINJAL",
         "Party": "Independent",
         "SymbolNo": 37,
-        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL0S2qIt5s4cZCDA80n"
+        }
       },
       {
         "SerialNo": 18,
@@ -18879,7 +19107,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKOA845fM5cfsRa771h"
+        }
       },
       {
         "SerialNo": 14,
@@ -19031,7 +19262,10 @@
         "Symbol": "BRINJAL",
         "Party": "Independent",
         "SymbolNo": 37,
-        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/brinjal.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFjXAjGJP8G5F4knt0F"
+        }
       },
       {
         "SerialNo": 8,
@@ -19455,7 +19689,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKXzI6E50Um6l4DjV1d"
+        }
       },
       {
         "SerialNo": 2,
@@ -19897,7 +20134,10 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKqYQyKQuJIHAgNxq0G"
+        }
       },
       {
         "SerialNo": 16,
@@ -19988,7 +20228,10 @@
         "Symbol": "PLUG",
         "Party": "Independent",
         "SymbolNo": 207,
-        "symbol_url": "https://symbols.azaadvote.com/plug.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/plug.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG8YDW9cDDbMjY6yw0h"
+        }
       },
       {
         "SerialNo": 7,
@@ -20230,7 +20473,10 @@
         "Symbol": "HAND PUMP",
         "Party": "INDEPENDENT",
         "SymbolNo": 130,
-        "symbol_url": "https://symbols.azaadvote.com/hand-pump.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hand-pump.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKjFKl2kNFnNSmREc34"
+        }
       }
     ],
     "PageFiles": [
@@ -20271,7 +20517,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGDlI0LCoWtmbVz5K3Z"
+        }
       },
       {
         "SerialNo": 4,
@@ -20503,7 +20752,10 @@
         "Symbol": "DOOR",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/door.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/door.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKSkJlFi8xgxI7deL40"
+        }
       },
       {
         "SerialNo": 12,
@@ -20745,7 +20997,10 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGwr8F4IBhH9PU45m1O"
+        }
       },
       {
         "SerialNo": 8,
@@ -21037,7 +21292,10 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGBoQzKbYMNV60vIe2x"
+        }
       },
       {
         "SerialNo": 15,
@@ -21159,7 +21417,10 @@
         "Symbol": "DOOR",
         "Party": "Independent",
         "SymbolNo": 87,
-        "symbol_url": "https://symbols.azaadvote.com/door.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/door.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFnLAI9mrGU2MkCpe20"
+        }
       },
       {
         "SerialNo": 10,
@@ -21310,7 +21571,10 @@
         "Symbol": "DOOR",
         "Party": "INDEPENDENT",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/door.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/door.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL03JN8F2p6WimqqQ0w"
+        }
       },
       {
         "SerialNo": 8,
@@ -21562,7 +21826,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKz9fUInlqOYxnjDn2x"
+        }
       },
       {
         "SerialNo": 18,
@@ -21754,7 +22021,10 @@
         "Symbol": "PRESSURE COOKER",
         "Party": "Independent",
         "SymbolNo": 209,
-        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFjzG1IyPtUSOlahw45"
+        }
       },
       {
         "SerialNo": 14,
@@ -22088,7 +22358,10 @@
         "Symbol": "SHUTTLE COCK",
         "Party": "Independent",
         "SymbolNo": 245,
-        "symbol_url": "https://symbols.azaadvote.com/shuttle-cock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/shuttle-cock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGLIirBfxoCbTxBlG08"
+        }
       },
       {
         "SerialNo": 7,
@@ -22811,7 +23084,10 @@
         "Symbol": "SHUTTLE COCK",
         "Party": "Independent",
         "SymbolNo": 245,
-        "symbol_url": "https://symbols.azaadvote.com/shuttle-cock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/shuttle-cock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKn1rBLCoWz8jTBHw2j"
+        }
       },
       {
         "SerialNo": 38,
@@ -22924,7 +23200,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLWZuN4IBhInXUTOF0Y"
+        }
       },
       {
         "SerialNo": 3,
@@ -23126,7 +23405,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLGzAvLikgFeV1f5D3W"
+        }
       },
       {
         "SerialNo": 5,
@@ -23498,7 +23780,10 @@
         "Symbol": "STUDY TABLE WITH CHAIR",
         "Party": "Independent",
         "SymbolNo": 263,
-        "symbol_url": "https://symbols.azaadvote.com/study-table-with-chair.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/study-table-with-chair.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFap12CXC3NubgP1Q1G"
+        }
       },
       {
         "SerialNo": 25,
@@ -23650,7 +23935,10 @@
         "Symbol": "CHAPRAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLEWKqHFxP3czMkhS0x"
+        }
       },
       {
         "SerialNo": 13,
@@ -23922,7 +24210,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKz2DOG3R3m8NxcQ60s"
+        }
       }
     ],
     "PageFiles": [
@@ -23984,7 +24275,10 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKzdbVBVJl7XmqLyM1l"
+        }
       },
       {
         "SerialNo": 6,
@@ -24126,7 +24420,10 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": 168,
-        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKidAlKQuJO1YYryH3n"
+        }
       },
       {
         "SerialNo": 4,
@@ -24398,7 +24695,10 @@
         "Symbol": "PRESSURE COOKER",
         "Party": "Independent",
         "SymbolNo": 209,
-        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFjLeSCxoAqgTZJSO2Z"
+        }
       },
       {
         "SerialNo": 8,
@@ -24720,7 +25020,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKgDlkFHWq6to7x8K03"
+        }
       },
       {
         "SerialNo": 13,
@@ -24862,7 +25165,10 @@
         "Symbol": "DICE",
         "Party": "Independent",
         "SymbolNo": 83,
-        "symbol_url": "https://symbols.azaadvote.com/dice.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/dice.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKfy0JLI8YRB9M8Ua1B"
+        }
       },
       {
         "SerialNo": 6,
@@ -25054,7 +25360,10 @@
         "Symbol": "TRICYCLE",
         "Party": "Independent",
         "SymbolNo": 296,
-        "symbol_url": "https://symbols.azaadvote.com/tricycle.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/tricycle.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKvVg7AInPhZIi2za3o"
+        }
       },
       {
         "SerialNo": 11,
@@ -25306,7 +25615,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKSbEJ8PgsLaMNJwR1o"
+        }
       },
       {
         "SerialNo": 16,
@@ -25588,7 +25900,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKetfUBA1exVF1Rky2h"
+        }
       }
     ],
     "PageFiles": [
@@ -25730,7 +26045,10 @@
         "Symbol": "ALPHABET 'K'",
         "Party": "Independent",
         "SymbolNo": 8,
-        "symbol_url": "https://symbols.azaadvote.com/alphabet-k.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/alphabet-k.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGSRvI2Jl8MDRFFBc3T"
+        }
       },
       {
         "SerialNo": 14,
@@ -25842,7 +26160,10 @@
         "Symbol": "RADIO",
         "Party": "Independent",
         "SymbolNo": 215,
-        "symbol_url": "https://symbols.azaadvote.com/radio.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/radio.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG5nfg5a247xYaF4J1m"
+        }
       },
       {
         "SerialNo": 3,
@@ -26024,7 +26345,10 @@
         "Symbol": "DOLPHIN",
         "Party": "Independent",
         "SymbolNo": 85,
-        "symbol_url": "https://symbols.azaadvote.com/dolphin.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/dolphin.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGL92mAO7RLrvzqE82h"
+        }
       },
       {
         "SerialNo": 4,
@@ -26175,7 +26499,10 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLMmfAI1rcjVRA4h938"
+        }
       },
       {
         "SerialNo": 5,
@@ -26457,7 +26784,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGLaUlGpLHTFmbfPj0w"
+        }
       },
       {
         "SerialNo": 13,
@@ -26609,7 +26939,10 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGRwbIKAwEfegGu010J"
+        }
       },
       {
         "SerialNo": 8,
@@ -26961,7 +27294,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLE4gnHrDZdAvGndx1n"
+        }
       }
     ],
     "PageFiles": [
@@ -27153,7 +27489,10 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKqqLl5K3zXZQqg3z2i"
+        }
       }
     ],
     "PageFiles": [
@@ -27255,7 +27594,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGMHqF5PO16Btrij91W"
+        }
       },
       {
         "SerialNo": 10,
@@ -27497,7 +27839,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKr3NaA89MqAdllbU0Q"
+        }
       },
       {
         "SerialNo": 12,
@@ -27881,7 +28226,10 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLMTFXJENy5XECSza3P"
+        }
       },
       {
         "SerialNo": 7,
@@ -28133,7 +28481,10 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG4pTp30LKUk4f32p3n"
+        }
       },
       {
         "SerialNo": 12,
@@ -28416,7 +28767,10 @@
         "Symbol": "BENCH",
         "Party": "Independent",
         "SymbolNo": 26,
-        "symbol_url": "https://symbols.azaadvote.com/bench.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bench.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKwWkh2P59nmXMuLJ2K"
+        }
       },
       {
         "SerialNo": 5,
@@ -28658,7 +29012,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG7C07KrWR1ZWznNr15"
+        }
       },
       {
         "SerialNo": 8,
@@ -28860,7 +29217,10 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKoJNdBFLgRX2XRKP1O"
+        }
       },
       {
         "SerialNo": 8,
@@ -29081,7 +29441,10 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGF6if59PwUeGZnuj35"
+        }
       },
       {
         "SerialNo": 7,
@@ -29202,7 +29565,10 @@
         "Symbol": "MIC",
         "Party": "Independent",
         "SymbolNo": 174,
-        "symbol_url": "https://symbols.azaadvote.com/mic.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/mic.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLFOWvKrWQw904rm22E"
+        }
       },
       {
         "SerialNo": 6,
@@ -29535,7 +29901,10 @@
         "Symbol": "CALCULATOR",
         "Party": "Independent",
         "SymbolNo": 47,
-        "symbol_url": "https://symbols.azaadvote.com/calculator.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/calculator.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFzT2lGzzKP9X5j1W3Z"
+        }
       },
       {
         "SerialNo": 7,
@@ -29757,7 +30126,10 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaL0gCt2P59nJWvubU18"
+        }
       },
       {
         "SerialNo": 14,
@@ -29969,7 +30341,10 @@
         "Symbol": "CAGE",
         "Party": "Independent",
         "SymbolNo": 45,
-        "symbol_url": "https://symbols.azaadvote.com/cage.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/cage.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGCWfTISTkTYdMqH03z"
+        }
       },
       {
         "SerialNo": 20,
@@ -30453,7 +30828,10 @@
         "Symbol": "DUCK",
         "Party": "Independent",
         "SymbolNo": 92,
-        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
+        "symbol_url": "https://symbols.azaadvote.com/duck.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG742nDOQIbfWQu672U"
+        }
       },
       {
         "SerialNo": 9,
