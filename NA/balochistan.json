@@ -13,7 +13,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 2,
@@ -23,7 +23,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhawa National Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 3,
@@ -33,7 +33,7 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_file": "racket"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
       },
       {
         "SerialNo": 4,
@@ -43,7 +43,7 @@
         "Symbol": "BED",
         "Party": "Independent",
         "SymbolNo": 23,
-        "symbol_file": "bed"
+        "symbol_url": "https://symbols.azaadvote.com/bed.jpg"
       },
       {
         "SerialNo": 5,
@@ -53,7 +53,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 6,
@@ -63,7 +63,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 7,
@@ -73,7 +73,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 8,
@@ -83,7 +83,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_file": "matchbox"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 9,
@@ -93,7 +93,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e- Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 10,
@@ -103,7 +103,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulema e Islam",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 11,
@@ -113,7 +113,7 @@
         "Symbol": "GATE",
         "Party": "Sulaiman Khel Qabail Movement Pakistan",
         "SymbolNo": 117,
-        "symbol_file": "gate"
+        "symbol_url": "https://symbols.azaadvote.com/gate.jpg"
       },
       {
         "SerialNo": 12,
@@ -123,7 +123,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_file": "cricket-stumps"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 13,
@@ -133,7 +133,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_file": "laptop"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 14,
@@ -143,7 +143,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 15,
@@ -153,7 +153,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_file": "Swallow"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       },
       {
         "SerialNo": 16,
@@ -163,7 +163,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 17,
@@ -173,7 +173,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhawa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       }
     ],
     "PageFiles": [
@@ -195,7 +195,7 @@
         "Symbol": "MOUNTAIN",
         "Party": "National Democratic Movement",
         "SymbolNo": 180,
-        "symbol_file": "mountain"
+        "symbol_url": "https://symbols.azaadvote.com/mountain.jpg"
       },
       {
         "SerialNo": 2,
@@ -205,7 +205,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_file": "cricket-stumps"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 3,
@@ -215,7 +215,7 @@
         "Symbol": "CARROM BOARD",
         "Party": "Independent",
         "SymbolNo": 54,
-        "symbol_file": "carrom-board"
+        "symbol_url": "https://symbols.azaadvote.com/carrom-board.jpg"
       },
       {
         "SerialNo": 4,
@@ -225,7 +225,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 5,
@@ -235,7 +235,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 6,
@@ -245,7 +245,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_file": "dove"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 7,
@@ -255,7 +255,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 8,
@@ -265,7 +265,7 @@
         "Symbol": "FRIDGE",
         "Party": "Independent",
         "SymbolNo": 113,
-        "symbol_file": "fridge"
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
       },
       {
         "SerialNo": 9,
@@ -275,7 +275,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 10,
@@ -285,7 +285,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 11,
@@ -295,7 +295,7 @@
         "Symbol": "ELECTRIC HEATER",
         "Party": "Independent",
         "SymbolNo": 94,
-        "symbol_file": "electric-heater"
+        "symbol_url": "https://symbols.azaadvote.com/electric-heater.jpg"
       },
       {
         "SerialNo": 12,
@@ -305,7 +305,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 13,
@@ -315,7 +315,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 14,
@@ -325,7 +325,7 @@
         "Symbol": "HAND BAG",
         "Party": "Independent",
         "SymbolNo": 131,
-        "symbol_file": "hand-bag"
+        "symbol_url": "https://symbols.azaadvote.com/hand-bag.jpg"
       },
       {
         "SerialNo": 15,
@@ -335,7 +335,7 @@
         "Symbol": "STILL CAMERA",
         "Party": "Independent",
         "SymbolNo": 261,
-        "symbol_file": "still-camera"
+        "symbol_url": "https://symbols.azaadvote.com/still-camera.jpg"
       },
       {
         "SerialNo": 16,
@@ -345,7 +345,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 17,
@@ -355,7 +355,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qomi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_file": "Kite"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 18,
@@ -365,7 +365,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 19,
@@ -375,7 +375,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_file": "goat"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 20,
@@ -385,7 +385,7 @@
         "Symbol": "KEY WITH LOCK",
         "Party": "Independent",
         "SymbolNo": 156,
-        "symbol_file": "key-with-lock"
+        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.jpg"
       },
       {
         "SerialNo": 21,
@@ -395,7 +395,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_file": "sheep"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 22,
@@ -405,7 +405,7 @@
         "Symbol": "TYPEWRITER",
         "Party": "Independent",
         "SymbolNo": 308,
-        "symbol_file": "type-writter"
+        "symbol_url": "https://symbols.azaadvote.com/type-writter.jpg"
       },
       {
         "SerialNo": 23,
@@ -415,7 +415,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 24,
@@ -425,7 +425,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 25,
@@ -435,7 +435,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 26,
@@ -445,7 +445,7 @@
         "Symbol": "DISH ANTENNA",
         "Party": "Independent",
         "SymbolNo": 84,
-        "symbol_file": "dish-antenna"
+        "symbol_url": "https://symbols.azaadvote.com/dish-antenna.jpg"
       },
       {
         "SerialNo": 27,
@@ -455,7 +455,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 28,
@@ -465,7 +465,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 29,
@@ -475,7 +475,7 @@
         "Symbol": "WHEEL",
         "Party": "Jamhoori Watan Party",
         "SymbolNo": 323,
-        "symbol_file": "wheel"
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
       },
       {
         "SerialNo": 30,
@@ -485,7 +485,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       }
     ],
     "PageFiles": [
@@ -507,7 +507,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 2,
@@ -517,7 +517,7 @@
         "Symbol": "FIRE ENGINE",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "fire-engine"
+        "symbol_url": "https://symbols.azaadvote.com/fire-engine.jpg"
       },
       {
         "SerialNo": 3,
@@ -527,7 +527,7 @@
         "Symbol": "BENCH",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "bench"
+        "symbol_url": "https://symbols.azaadvote.com/bench.jpg"
       },
       {
         "SerialNo": 4,
@@ -537,7 +537,7 @@
         "Symbol": "CARROM BOARD",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "carrom-board"
+        "symbol_url": "https://symbols.azaadvote.com/carrom-board.jpg"
       },
       {
         "SerialNo": 5,
@@ -547,7 +547,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "sickle"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 6,
@@ -557,7 +557,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": "",
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 7,
@@ -567,7 +567,7 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "lotus"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
       },
       {
         "SerialNo": 8,
@@ -577,7 +577,7 @@
         "Symbol": "ALPHABET 'B'",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "alphabet-b"
+        "symbol_url": "https://symbols.azaadvote.com/alphabet-b.jpg"
       },
       {
         "SerialNo": 9,
@@ -587,7 +587,7 @@
         "Symbol": "WHEEL",
         "Party": "Jamhoori Wattan Party",
         "SymbolNo": 323,
-        "symbol_file": "wheel"
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
       },
       {
         "SerialNo": 10,
@@ -597,7 +597,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_file": "dove"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 11,
@@ -607,7 +607,7 @@
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
         "SymbolNo": 282,
-        "symbol_file": "tent"
+        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
       },
       {
         "SerialNo": 12,
@@ -617,7 +617,7 @@
         "Symbol": "CHAIR",
         "Party": "Pakistan Markazi Muslim League",
         "SymbolNo": 55,
-        "symbol_file": "chair"
+        "symbol_url": "https://symbols.azaadvote.com/chair.jpg"
       },
       {
         "SerialNo": 13,
@@ -627,7 +627,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 14,
@@ -637,7 +637,7 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_file": "charpai"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
       },
       {
         "SerialNo": 15,
@@ -647,7 +647,7 @@
         "Symbol": "PARROT",
         "Party": "Independent",
         "SymbolNo": 193,
-        "symbol_file": "Parrot"
+        "symbol_url": "https://symbols.azaadvote.com/Parrot.jpg"
       },
       {
         "SerialNo": 16,
@@ -657,7 +657,7 @@
         "Symbol": "FRIDGE",
         "Party": "Independent",
         "SymbolNo": 113,
-        "symbol_file": "fridge"
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
       },
       {
         "SerialNo": 17,
@@ -667,7 +667,7 @@
         "Symbol": "EMERGENCY LIGHT",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "emergency-light"
+        "symbol_url": "https://symbols.azaadvote.com/emergency-light.jpg"
       },
       {
         "SerialNo": 18,
@@ -677,7 +677,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qaumi Movement Pakistan",
         "SymbolNo": "",
-        "symbol_file": "Kite"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 19,
@@ -687,7 +687,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": "",
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 20,
@@ -697,7 +697,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": "",
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 21,
@@ -707,7 +707,7 @@
         "Symbol": "TOWER",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "tower"
+        "symbol_url": "https://symbols.azaadvote.com/tower.jpg"
       },
       {
         "SerialNo": 22,
@@ -717,7 +717,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": "",
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 23,
@@ -727,7 +727,7 @@
         "Symbol": "WHEEL CHAIR",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "wheel-chair"
+        "symbol_url": "https://symbols.azaadvote.com/wheel-chair.jpg"
       },
       {
         "SerialNo": 24,
@@ -737,7 +737,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 25,
@@ -747,7 +747,7 @@
         "Symbol": "RABAB",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "Rabab"
+        "symbol_url": "https://symbols.azaadvote.com/Rabab.jpg"
       },
       {
         "SerialNo": 26,
@@ -757,7 +757,7 @@
         "Symbol": "TABLE",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_file": "table"
+        "symbol_url": "https://symbols.azaadvote.com/table.jpg"
       },
       {
         "SerialNo": 27,
@@ -767,7 +767,7 @@
         "Symbol": "ELECTRIC POLE",
         "Party": "Jamote Qaumi Movement",
         "SymbolNo": 95,
-        "symbol_file": "electric-pole"
+        "symbol_url": "https://symbols.azaadvote.com/electric-pole.jpg"
       },
       {
         "SerialNo": 28,
@@ -777,7 +777,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 29,
@@ -787,7 +787,7 @@
         "Symbol": "WIND MILL",
         "Party": "Independent",
         "SymbolNo": 327,
-        "symbol_file": "Wind-Mill"
+        "symbol_url": "https://symbols.azaadvote.com/Wind-Mill.jpg"
       },
       {
         "SerialNo": 30,
@@ -797,7 +797,7 @@
         "Symbol": "KEY",
         "Party": "Jamiat Ulema-e-Pakistan (Noorani)",
         "SymbolNo": 154,
-        "symbol_file": "Key"
+        "symbol_url": "https://symbols.azaadvote.com/Key.jpg"
       },
       {
         "SerialNo": 31,
@@ -807,7 +807,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 32,
@@ -817,7 +817,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_file": "cricket-stumps"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 33,
@@ -827,7 +827,7 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_file": "bowl"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
       },
       {
         "SerialNo": 34,
@@ -837,7 +837,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 35,
@@ -847,7 +847,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_file": "tap"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 36,
@@ -857,7 +857,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_file": "matchbox"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 37,
@@ -867,7 +867,7 @@
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
         "SymbolNo": 287,
-        "symbol_file": "Tooth-Brush"
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
       },
       {
         "SerialNo": 38,
@@ -877,7 +877,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 39,
@@ -887,7 +887,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 40,
@@ -897,7 +897,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 41,
@@ -907,7 +907,7 @@
         "Symbol": "WATER COOLER",
         "Party": "Independent",
         "SymbolNo": 317,
-        "symbol_file": "water-cooler"
+        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg"
       },
       {
         "SerialNo": 42,
@@ -917,7 +917,7 @@
         "Symbol": "FORK",
         "Party": "Independent",
         "SymbolNo": 109,
-        "symbol_file": "fork"
+        "symbol_url": "https://symbols.azaadvote.com/fork.jpg"
       },
       {
         "SerialNo": 43,
@@ -927,7 +927,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 44,
@@ -937,7 +937,7 @@
         "Symbol": "SCREW DRIVER",
         "Party": "Independent",
         "SymbolNo": 237,
-        "symbol_file": "screw-driver"
+        "symbol_url": "https://symbols.azaadvote.com/screw-driver.jpg"
       },
       {
         "SerialNo": 45,
@@ -947,7 +947,7 @@
         "Symbol": "PRESSURE COOKER",
         "Party": "Independent",
         "SymbolNo": 209,
-        "symbol_file": "pressure-cooker"
+        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.jpg"
       },
       {
         "SerialNo": 46,
@@ -957,7 +957,7 @@
         "Symbol": "SUIT CASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       }
     ],
     "PageFiles": [
@@ -983,7 +983,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 2,
@@ -993,7 +993,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_file": "goat"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 3,
@@ -1003,7 +1003,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qomi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_file": "Kite"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 4,
@@ -1013,7 +1013,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 5,
@@ -1023,7 +1023,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_file": "Slate"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 6,
@@ -1033,7 +1033,7 @@
         "Symbol": "HAND PUMP",
         "Party": "Independent",
         "SymbolNo": 130,
-        "symbol_file": "hand-pump"
+        "symbol_url": "https://symbols.azaadvote.com/hand-pump.jpg"
       },
       {
         "SerialNo": 7,
@@ -1043,7 +1043,7 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_file": "charpai"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
       },
       {
         "SerialNo": 8,
@@ -1053,7 +1053,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 9,
@@ -1063,7 +1063,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_file": "sheep"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 10,
@@ -1073,7 +1073,7 @@
         "Symbol": "BED",
         "Party": "Independent",
         "SymbolNo": 23,
-        "symbol_file": "bed"
+        "symbol_url": "https://symbols.azaadvote.com/bed.jpg"
       },
       {
         "SerialNo": 11,
@@ -1083,7 +1083,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 12,
@@ -1093,7 +1093,7 @@
         "Symbol": "SOFA",
         "Party": "Independent",
         "SymbolNo": 249,
-        "symbol_file": "sofa"
+        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
       },
       {
         "SerialNo": 13,
@@ -1103,7 +1103,7 @@
         "Symbol": "BRUSH",
         "Party": "Independent",
         "SymbolNo": 38,
-        "symbol_file": "brush"
+        "symbol_url": "https://symbols.azaadvote.com/brush.jpg"
       },
       {
         "SerialNo": 14,
@@ -1113,7 +1113,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 15,
@@ -1123,7 +1123,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 16,
@@ -1133,7 +1133,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 17,
@@ -1143,7 +1143,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 18,
@@ -1153,7 +1153,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_file": "Swallow"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       }
     ],
     "PageFiles": [
@@ -1175,7 +1175,7 @@
         "Symbol": "BRICK",
         "Party": "Independent",
         "SymbolNo": 35,
-        "symbol_file": "brick"
+        "symbol_url": "https://symbols.azaadvote.com/brick.jpg"
       },
       {
         "SerialNo": 2,
@@ -1185,7 +1185,7 @@
         "Symbol": "COW",
         "Party": "BAP",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 3,
@@ -1195,7 +1195,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_file": "laptop"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 4,
@@ -1205,7 +1205,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_file": "Slate"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 5,
@@ -1215,7 +1215,7 @@
         "Symbol": "PEACOCK",
         "Party": "independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 6,
@@ -1225,7 +1225,7 @@
         "Symbol": "STETHO SCOPE",
         "Party": "Independent",
         "SymbolNo": 260,
-        "symbol_file": "Stethoscope"
+        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.jpg"
       },
       {
         "SerialNo": 7,
@@ -1235,7 +1235,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_file": "tap"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 8,
@@ -1245,7 +1245,7 @@
         "Symbol": "ARROW",
         "Party": "PPPP",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 9,
@@ -1255,7 +1255,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 10,
@@ -1265,7 +1265,7 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_file": "hukkah"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
       },
       {
         "SerialNo": 11,
@@ -1275,7 +1275,7 @@
         "Symbol": "CAMEL",
         "Party": "BNP (Awami)",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 12,
@@ -1285,7 +1285,7 @@
         "Symbol": "TAKHTI",
         "Party": "JUI (Nazriati)",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 13,
@@ -1295,7 +1295,7 @@
         "Symbol": "AXE",
         "Party": "BNP",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 14,
@@ -1305,7 +1305,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 15,
@@ -1315,7 +1315,7 @@
         "Symbol": "MEDAL",
         "Party": "Independent",
         "SymbolNo": 173,
-        "symbol_file": "medal"
+        "symbol_url": "https://symbols.azaadvote.com/medal.jpg"
       },
       {
         "SerialNo": 16,
@@ -1325,7 +1325,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_file": "pomegranate"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 17,
@@ -1335,7 +1335,7 @@
         "Symbol": "CANNON",
         "Party": "TLI",
         "SymbolNo": 51,
-        "symbol_file": "Cannon"
+        "symbol_url": "https://symbols.azaadvote.com/Cannon.jpg"
       },
       {
         "SerialNo": 18,
@@ -1345,7 +1345,7 @@
         "Symbol": "KEY",
         "Party": "JUP-(Noorani)",
         "SymbolNo": 154,
-        "symbol_file": "Key"
+        "symbol_url": "https://symbols.azaadvote.com/Key.jpg"
       },
       {
         "SerialNo": 19,
@@ -1355,7 +1355,7 @@
         "Symbol": "HUMAN EYE",
         "Party": "Independent",
         "SymbolNo": 142,
-        "symbol_file": "Human-Eye"
+        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.jpg"
       },
       {
         "SerialNo": 20,
@@ -1365,7 +1365,7 @@
         "Symbol": "BOOK",
         "Party": "JUI (Pakistan)",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 21,
@@ -1375,7 +1375,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_file": "Swallow"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       },
       {
         "SerialNo": 22,
@@ -1385,7 +1385,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_file": "sheep"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 23,
@@ -1395,7 +1395,7 @@
         "Symbol": "TIGER",
         "Party": "PML QN",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 24,
@@ -1405,7 +1405,7 @@
         "Symbol": "SAW",
         "Party": "NP",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 25,
@@ -1415,7 +1415,7 @@
         "Symbol": "CRANE",
         "Party": "TLP",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 26,
@@ -1425,7 +1425,7 @@
         "Symbol": "KITE",
         "Party": "MQM",
         "SymbolNo": 159,
-        "symbol_file": "Kite"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 27,
@@ -1435,7 +1435,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       }
     ],
     "PageFiles": [
@@ -1458,7 +1458,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_file": "sickle"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 2,
@@ -1468,7 +1468,7 @@
         "Symbol": "FRIDGE",
         "Party": "Independent",
         "SymbolNo": 113,
-        "symbol_file": "fridge"
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
       },
       {
         "SerialNo": 3,
@@ -1478,7 +1478,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_file": "tap"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 4,
@@ -1488,7 +1488,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 5,
@@ -1498,7 +1498,7 @@
         "Symbol": "MOUNTAIN",
         "Party": "National Democratic Movement",
         "SymbolNo": 180,
-        "symbol_file": "mountain"
+        "symbol_url": "https://symbols.azaadvote.com/mountain.jpg"
       },
       {
         "SerialNo": 6,
@@ -1508,7 +1508,7 @@
         "Symbol": "GAS CYLINDER",
         "Party": "Independent",
         "SymbolNo": 116,
-        "symbol_file": "gas-cylinder"
+        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.jpg"
       },
       {
         "SerialNo": 7,
@@ -1518,7 +1518,7 @@
         "Symbol": "EAGLE",
         "Party": "Istehkam-e-Pakistan",
         "SymbolNo": 93,
-        "symbol_file": "eagle"
+        "symbol_url": "https://symbols.azaadvote.com/eagle.jpg"
       },
       {
         "SerialNo": 8,
@@ -1528,7 +1528,7 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": 32,
-        "symbol_file": "bottle"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
       },
       {
         "SerialNo": 9,
@@ -1538,7 +1538,7 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_file": "hen"
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
       },
       {
         "SerialNo": 10,
@@ -1548,7 +1548,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 11,
@@ -1558,7 +1558,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 12,
@@ -1568,7 +1568,7 @@
         "Symbol": "PARROT",
         "Party": "Independent",
         "SymbolNo": 193,
-        "symbol_file": "Parrot"
+        "symbol_url": "https://symbols.azaadvote.com/Parrot.jpg"
       },
       {
         "SerialNo": 13,
@@ -1578,7 +1578,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 14,
@@ -1588,7 +1588,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_file": "matchbox"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 15,
@@ -1598,7 +1598,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 16,
@@ -1608,7 +1608,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_file": "goat"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 17,
@@ -1618,7 +1618,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_file": "pomegranate"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 18,
@@ -1628,7 +1628,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 19,
@@ -1638,7 +1638,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 20,
@@ -1648,7 +1648,7 @@
         "Symbol": "COMPUTER",
         "Party": "Independent",
         "SymbolNo": 67,
-        "symbol_file": "computer"
+        "symbol_url": "https://symbols.azaadvote.com/computer.jpg"
       },
       {
         "SerialNo": 21,
@@ -1658,7 +1658,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 22,
@@ -1668,7 +1668,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_file": "sheep"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 23,
@@ -1678,7 +1678,7 @@
         "Symbol": "BRICK",
         "Party": "Independent",
         "SymbolNo": 35,
-        "symbol_file": "brick"
+        "symbol_url": "https://symbols.azaadvote.com/brick.jpg"
       },
       {
         "SerialNo": 24,
@@ -1688,7 +1688,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 25,
@@ -1698,7 +1698,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 26,
@@ -1708,7 +1708,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 27,
@@ -1718,7 +1718,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_file": "Slate"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 28,
@@ -1728,7 +1728,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 29,
@@ -1738,7 +1738,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_file": "cricket-stumps"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 30,
@@ -1748,7 +1748,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 31,
@@ -1758,7 +1758,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_file": "transformer"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 32,
@@ -1768,7 +1768,7 @@
         "Symbol": "TABLE",
         "Party": "Independent",
         "SymbolNo": 271,
-        "symbol_file": "table"
+        "symbol_url": "https://symbols.azaadvote.com/table.jpg"
       },
       {
         "SerialNo": 33,
@@ -1778,7 +1778,7 @@
         "Symbol": "MIC",
         "Party": "Independent",
         "SymbolNo": 174,
-        "symbol_file": "mic"
+        "symbol_url": "https://symbols.azaadvote.com/mic.jpg"
       },
       {
         "SerialNo": 34,
@@ -1788,7 +1788,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 35,
@@ -1798,7 +1798,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 36,
@@ -1808,7 +1808,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_file": "laptop"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 37,
@@ -1818,7 +1818,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qoumi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_file": "Kite"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       }
     ],
     "PageFiles": [
@@ -1841,7 +1841,7 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_file": "hen"
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
       },
       {
         "SerialNo": 2,
@@ -1851,7 +1851,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 3,
@@ -1861,7 +1861,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 4,
@@ -1871,7 +1871,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 5,
@@ -1881,7 +1881,7 @@
         "Symbol": "WHEEL CHAIR",
         "Party": "Independent",
         "SymbolNo": 325,
-        "symbol_file": "wheel-chair"
+        "symbol_url": "https://symbols.azaadvote.com/wheel-chair.jpg"
       },
       {
         "SerialNo": 6,
@@ -1891,7 +1891,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_file": "sickle"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 7,
@@ -1901,7 +1901,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qoumi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_file": "Kite"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 8,
@@ -1911,7 +1911,7 @@
         "Symbol": "CHAPRAL",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_file": "charpai"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
       },
       {
         "SerialNo": 9,
@@ -1921,7 +1921,7 @@
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
         "SymbolNo": 287,
-        "symbol_file": "Tooth-Brush"
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
       },
       {
         "SerialNo": 10,
@@ -1931,7 +1931,7 @@
         "Symbol": "SCALE",
         "Party": "Jamat-e-Islami",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 11,
@@ -1941,7 +1941,7 @@
         "Symbol": "MIC",
         "Party": "Independent",
         "SymbolNo": 174,
-        "symbol_file": "mic"
+        "symbol_url": "https://symbols.azaadvote.com/mic.jpg"
       },
       {
         "SerialNo": 12,
@@ -1951,7 +1951,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 13,
@@ -1961,7 +1961,7 @@
         "Symbol": "ELECTRIC POLE",
         "Party": "Jamote Qomi Movement",
         "SymbolNo": 95,
-        "symbol_file": "electric-pole"
+        "symbol_url": "https://symbols.azaadvote.com/electric-pole.jpg"
       },
       {
         "SerialNo": 14,
@@ -1971,7 +1971,7 @@
         "Symbol": "WHEEL BARROW",
         "Party": "Independent",
         "SymbolNo": 324,
-        "symbol_file": "wheel-barrow"
+        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.jpg"
       },
       {
         "SerialNo": 15,
@@ -1981,7 +1981,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_file": "transformer"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 16,
@@ -1991,7 +1991,7 @@
         "Symbol": "TEAPOT",
         "Party": "Independent",
         "SymbolNo": 279,
-        "symbol_file": "teapot"
+        "symbol_url": "https://symbols.azaadvote.com/teapot.jpg"
       },
       {
         "SerialNo": 17,
@@ -2001,7 +2001,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 18,
@@ -2011,7 +2011,7 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_file": "bowl"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
       },
       {
         "SerialNo": 19,
@@ -2021,7 +2021,7 @@
         "Symbol": "FEATHER",
         "Party": "Independent",
         "SymbolNo": 102,
-        "symbol_file": "feather"
+        "symbol_url": "https://symbols.azaadvote.com/feather.jpg"
       },
       {
         "SerialNo": 20,
@@ -2031,7 +2031,7 @@
         "Symbol": "HUKKA",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_file": "hukkah"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
       },
       {
         "SerialNo": 21,
@@ -2041,7 +2041,7 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": 168,
-        "symbol_file": "lotus"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
       },
       {
         "SerialNo": 22,
@@ -2051,7 +2051,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan People Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 23,
@@ -2061,7 +2061,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_file": "pomegranate"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 24,
@@ -2071,7 +2071,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 25,
@@ -2081,7 +2081,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 26,
@@ -2091,7 +2091,7 @@
         "Symbol": "RADIO",
         "Party": "Independent",
         "SymbolNo": 215,
-        "symbol_file": "radio"
+        "symbol_url": "https://symbols.azaadvote.com/radio.jpg"
       },
       {
         "SerialNo": 27,
@@ -2101,7 +2101,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       }
     ],
     "PageFiles": [
@@ -2123,7 +2123,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rahe-Haq Party",
         "SymbolNo": 147,
-        "symbol_file": "Iron"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 2,
@@ -2133,7 +2133,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 3,
@@ -2143,7 +2143,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 4,
@@ -2153,7 +2153,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 5,
@@ -2163,7 +2163,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 6,
@@ -2173,7 +2173,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_file": "sickle"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 7,
@@ -2183,7 +2183,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 8,
@@ -2193,7 +2193,7 @@
         "Symbol": "SCALE",
         "Party": "Jamiat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 9,
@@ -2203,7 +2203,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamul Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 10,
@@ -2213,7 +2213,7 @@
         "Symbol": "DUCK",
         "Party": "Independent",
         "SymbolNo": 92,
-        "symbol_file": "duck"
+        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
       },
       {
         "SerialNo": 11,
@@ -2223,7 +2223,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_file": "Slate"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 12,
@@ -2233,7 +2233,7 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_file": "bowl"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
       },
       {
         "SerialNo": 13,
@@ -2243,7 +2243,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_file": "sheep"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 14,
@@ -2253,7 +2253,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 15,
@@ -2263,7 +2263,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       }
     ],
     "PageFiles": [
@@ -2285,7 +2285,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 2,
@@ -2295,7 +2295,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_file": "Swallow"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       },
       {
         "SerialNo": 3,
@@ -2305,7 +2305,7 @@
         "Symbol": "RABBIT",
         "Party": "Haq Do Tehreek Balochistan",
         "SymbolNo": 213,
-        "symbol_file": "rabbit"
+        "symbol_url": "https://symbols.azaadvote.com/rabbit.jpg"
       },
       {
         "SerialNo": 4,
@@ -2315,7 +2315,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_file": "dove"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 5,
@@ -2325,7 +2325,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 6,
@@ -2335,7 +2335,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 7,
@@ -2345,7 +2345,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 8,
@@ -2355,7 +2355,7 @@
         "Symbol": "SPECTACLES",
         "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
         "SymbolNo": 252,
-        "symbol_file": "spectacles"
+        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
       },
       {
         "SerialNo": 9,
@@ -2365,7 +2365,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 10,
@@ -2375,7 +2375,7 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": 168,
-        "symbol_file": "lotus"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
       },
       {
         "SerialNo": 11,
@@ -2385,7 +2385,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 12,
@@ -2395,7 +2395,7 @@
         "Symbol": "DUCK",
         "Party": "Independent",
         "SymbolNo": 92,
-        "symbol_file": "duck"
+        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
       },
       {
         "SerialNo": 13,
@@ -2405,7 +2405,7 @@
         "Symbol": "WATER COOLER",
         "Party": "Independent",
         "SymbolNo": 317,
-        "symbol_file": "water-cooler"
+        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg"
       },
       {
         "SerialNo": 14,
@@ -2415,7 +2415,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 15,
@@ -2425,7 +2425,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_file": "sheep"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 16,
@@ -2435,7 +2435,7 @@
         "Symbol": "CHAPRAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_file": "charpai"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
       },
       {
         "SerialNo": 17,
@@ -2445,7 +2445,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 18,
@@ -2455,7 +2455,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 19,
@@ -2465,7 +2465,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_file": "sickle"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 20,
@@ -2475,7 +2475,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_file": "tap"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       }
     ],
     "PageFiles": [
@@ -2497,7 +2497,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_file": "matchbox"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 2,
@@ -2507,7 +2507,7 @@
         "Symbol": "WHEEL BARROW",
         "Party": "Independent",
         "SymbolNo": 324,
-        "symbol_file": "wheel-barrow"
+        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.jpg"
       },
       {
         "SerialNo": 3,
@@ -2517,7 +2517,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 4,
@@ -2527,7 +2527,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_file": "pomegranate"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 5,
@@ -2537,7 +2537,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 6,
@@ -2547,7 +2547,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_file": "dove"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 7,
@@ -2557,7 +2557,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_file": "goat"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 8,
@@ -2567,7 +2567,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 9,
@@ -2577,7 +2577,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 10,
@@ -2587,7 +2587,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 11,
@@ -2597,7 +2597,7 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": 168,
-        "symbol_file": "lotus"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
       },
       {
         "SerialNo": 12,
@@ -2607,7 +2607,7 @@
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
         "SymbolNo": 287,
-        "symbol_file": "Tooth-Brush"
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
       },
       {
         "SerialNo": 13,
@@ -2617,7 +2617,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 14,
@@ -2627,7 +2627,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 15,
@@ -2637,7 +2637,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 16,
@@ -2647,7 +2647,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_file": "sickle"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 17,
@@ -2657,7 +2657,7 @@
         "Symbol": "PLUG",
         "Party": "Independent",
         "SymbolNo": 207,
-        "symbol_file": "plug"
+        "symbol_url": "https://symbols.azaadvote.com/plug.jpg"
       },
       {
         "SerialNo": 18,
@@ -2667,7 +2667,7 @@
         "Symbol": "KEY WITH LOCK",
         "Party": "Independent",
         "SymbolNo": 156,
-        "symbol_file": "key-with-lock"
+        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.jpg"
       },
       {
         "SerialNo": 19,
@@ -2677,7 +2677,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 20,
@@ -2687,7 +2687,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 21,
@@ -2697,7 +2697,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 22,
@@ -2707,7 +2707,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 23,
@@ -2717,7 +2717,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 24,
@@ -2727,7 +2727,7 @@
         "Symbol": "CANNON",
         "Party": "Tehreek-e-Labbaik Islam",
         "SymbolNo": 51,
-        "symbol_file": "Cannon"
+        "symbol_url": "https://symbols.azaadvote.com/Cannon.jpg"
       },
       {
         "SerialNo": 25,
@@ -2737,7 +2737,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       }
     ],
     "PageFiles": [
@@ -2759,7 +2759,7 @@
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
         "SymbolNo": 282,
-        "symbol_file": "tent"
+        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
       },
       {
         "SerialNo": 2,
@@ -2769,7 +2769,7 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": 32,
-        "symbol_file": "bottle"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
       },
       {
         "SerialNo": 3,
@@ -2779,7 +2779,7 @@
         "Symbol": "HORSE SHOE",
         "Party": "Independent",
         "SymbolNo": 138,
-        "symbol_file": "horse-shoe"
+        "symbol_url": "https://symbols.azaadvote.com/horse-shoe.jpg"
       },
       {
         "SerialNo": 4,
@@ -2789,7 +2789,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 5,
@@ -2799,7 +2799,7 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_file": "hen"
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
       },
       {
         "SerialNo": 6,
@@ -2809,7 +2809,7 @@
         "Symbol": "GAS CYLINDER",
         "Party": "Independent",
         "SymbolNo": 116,
-        "symbol_file": "gas-cylinder"
+        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.jpg"
       },
       {
         "SerialNo": 7,
@@ -2819,7 +2819,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_file": "printer"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 8,
@@ -2829,7 +2829,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_file": "cricket-stumps"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 9,
@@ -2839,7 +2839,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 10,
@@ -2849,7 +2849,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 11,
@@ -2859,7 +2859,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e- Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 12,
@@ -2869,7 +2869,7 @@
         "Symbol": "DUCK",
         "Party": "Independent",
         "SymbolNo": 92,
-        "symbol_file": "duck"
+        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
       },
       {
         "SerialNo": 13,
@@ -2879,7 +2879,7 @@
         "Symbol": "LADDER",
         "Party": "Jamiat Ulama-e-Islam Pakistan (S)",
         "SymbolNo": 161,
-        "symbol_file": "Ladder"
+        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
       },
       {
         "SerialNo": 14,
@@ -2889,7 +2889,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 15,
@@ -2899,7 +2899,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 16,
@@ -2909,7 +2909,7 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_file": "racket"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
       },
       {
         "SerialNo": 17,
@@ -2919,7 +2919,7 @@
         "Symbol": "PITCHER",
         "Party": "Mazdoor Olsi Tehreek Pakistan",
         "SymbolNo": 204,
-        "symbol_file": "pitcher"
+        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
       },
       {
         "SerialNo": 18,
@@ -2929,7 +2929,7 @@
         "Symbol": "CRESCENT",
         "Party": "Hazara Democratic Party",
         "SymbolNo": 72,
-        "symbol_file": "crescent"
+        "symbol_url": "https://symbols.azaadvote.com/crescent.jpg"
       },
       {
         "SerialNo": 19,
@@ -2939,7 +2939,7 @@
         "Symbol": "SPECTACLES",
         "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
         "SymbolNo": 252,
-        "symbol_file": "spectacles"
+        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
       },
       {
         "SerialNo": 20,
@@ -2949,7 +2949,7 @@
         "Symbol": "ORANGE",
         "Party": "Independent",
         "SymbolNo": 188,
-        "symbol_file": "orange"
+        "symbol_url": "https://symbols.azaadvote.com/orange.jpg"
       },
       {
         "SerialNo": 21,
@@ -2959,7 +2959,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_file": "laptop"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 22,
@@ -2969,7 +2969,7 @@
         "Symbol": "REVOLVER",
         "Party": "Tehreek-e-Tahafuz-e-Pakistan",
         "SymbolNo": 218,
-        "symbol_file": "revolver"
+        "symbol_url": "https://symbols.azaadvote.com/revolver.jpg"
       },
       {
         "SerialNo": 23,
@@ -2979,7 +2979,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_file": "tap"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 24,
@@ -2989,7 +2989,7 @@
         "Symbol": "ROOTS",
         "Party": "Independent",
         "SymbolNo": 224,
-        "symbol_file": "Roots"
+        "symbol_url": "https://symbols.azaadvote.com/Roots.jpg"
       },
       {
         "SerialNo": 25,
@@ -2999,7 +2999,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_file": "pomegranate"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 26,
@@ -3009,7 +3009,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 27,
@@ -3019,7 +3019,7 @@
         "Symbol": "SOFA",
         "Party": "Independent",
         "SymbolNo": 249,
-        "symbol_file": "sofa"
+        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
       },
       {
         "SerialNo": 28,
@@ -3029,7 +3029,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 29,
@@ -3039,7 +3039,7 @@
         "Symbol": "TABLE LAMP",
         "Party": "Independent",
         "SymbolNo": 272,
-        "symbol_file": "lamp"
+        "symbol_url": "https://symbols.azaadvote.com/lamp.jpg"
       },
       {
         "SerialNo": 30,
@@ -3049,7 +3049,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 31,
@@ -3059,7 +3059,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 32,
@@ -3069,7 +3069,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 33,
@@ -3079,7 +3079,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 34,
@@ -3089,7 +3089,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 35,
@@ -3099,7 +3099,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 36,
@@ -3109,7 +3109,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 37,
@@ -3119,7 +3119,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 38,
@@ -3129,7 +3129,7 @@
         "Symbol": "BATTERY",
         "Party": "Independent",
         "SymbolNo": 21,
-        "symbol_file": "battery"
+        "symbol_url": "https://symbols.azaadvote.com/battery.jpg"
       }
     ],
     "PageFiles": [
@@ -3152,7 +3152,7 @@
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
         "SymbolNo": 282,
-        "symbol_file": "tent"
+        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
       },
       {
         "SerialNo": 2,
@@ -3162,7 +3162,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_file": "transformer"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 3,
@@ -3172,7 +3172,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 4,
@@ -3182,7 +3182,7 @@
         "Symbol": "PHOTOSTAT MACHINE",
         "Party": "Independent",
         "SymbolNo": 200,
-        "symbol_file": "Photostat-Machine"
+        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.jpg"
       },
       {
         "SerialNo": 5,
@@ -3192,7 +3192,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 6,
@@ -3202,7 +3202,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 7,
@@ -3212,7 +3212,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 8,
@@ -3222,7 +3222,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_file": "tap"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 9,
@@ -3232,7 +3232,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 10,
@@ -3242,7 +3242,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 11,
@@ -3252,7 +3252,7 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_file": "hukkah"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
       },
       {
         "SerialNo": 12,
@@ -3262,7 +3262,7 @@
         "Symbol": "SAXOPHONE",
         "Party": "Independent",
         "SymbolNo": 231,
-        "symbol_file": "saxophone"
+        "symbol_url": "https://symbols.azaadvote.com/saxophone.jpg"
       },
       {
         "SerialNo": 13,
@@ -3272,7 +3272,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 14,
@@ -3282,7 +3282,7 @@
         "Symbol": "SOFA",
         "Party": "Independent",
         "SymbolNo": 249,
-        "symbol_file": "sofa"
+        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
       },
       {
         "SerialNo": 15,
@@ -3292,7 +3292,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_file": "Slate"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 16,
@@ -3302,7 +3302,7 @@
         "Symbol": "DHOL",
         "Party": "Independent",
         "SymbolNo": 81,
-        "symbol_file": "dhol"
+        "symbol_url": "https://symbols.azaadvote.com/dhol.jpg"
       },
       {
         "SerialNo": 17,
@@ -3312,7 +3312,7 @@
         "Symbol": "TRACTOR",
         "Party": "Pakistan Muslim League",
         "SymbolNo": 292,
-        "symbol_file": "tractor"
+        "symbol_url": "https://symbols.azaadvote.com/tractor.jpg"
       },
       {
         "SerialNo": 18,
@@ -3322,7 +3322,7 @@
         "Symbol": "NAIL CUTTER",
         "Party": "Independent",
         "SymbolNo": 182,
-        "symbol_file": "nail-cutter"
+        "symbol_url": "https://symbols.azaadvote.com/nail-cutter.jpg"
       },
       {
         "SerialNo": 19,
@@ -3332,7 +3332,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_file": "Swallow"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       },
       {
         "SerialNo": 20,
@@ -3342,7 +3342,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 21,
@@ -3352,7 +3352,7 @@
         "Symbol": "CALCULATOR",
         "Party": "Independent",
         "SymbolNo": 47,
-        "symbol_file": "calculator"
+        "symbol_url": "https://symbols.azaadvote.com/calculator.jpg"
       },
       {
         "SerialNo": 22,
@@ -3362,7 +3362,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_file": "goat"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 23,
@@ -3372,7 +3372,7 @@
         "Symbol": "PARROT",
         "Party": "Independent",
         "SymbolNo": 193,
-        "symbol_file": "Parrot"
+        "symbol_url": "https://symbols.azaadvote.com/Parrot.jpg"
       },
       {
         "SerialNo": 24,
@@ -3382,7 +3382,7 @@
         "Symbol": "LADDER",
         "Party": "Jamiat Ulama-e-Islam Pakistan (5)",
         "SymbolNo": 161,
-        "symbol_file": "Ladder"
+        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
       },
       {
         "SerialNo": 25,
@@ -3392,7 +3392,7 @@
         "Symbol": "BATTERY",
         "Party": "Independent",
         "SymbolNo": 21,
-        "symbol_file": "battery"
+        "symbol_url": "https://symbols.azaadvote.com/battery.jpg"
       },
       {
         "SerialNo": 26,
@@ -3402,7 +3402,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 27,
@@ -3412,7 +3412,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 28,
@@ -3422,7 +3422,7 @@
         "Symbol": "AIR COOLER",
         "Party": "Independent",
         "SymbolNo": 4,
-        "symbol_file": "air-cooler"
+        "symbol_url": "https://symbols.azaadvote.com/air-cooler.jpg"
       },
       {
         "SerialNo": 29,
@@ -3432,7 +3432,7 @@
         "Symbol": "WHEEL",
         "Party": "Jamhoori Watan Party",
         "SymbolNo": 323,
-        "symbol_file": "wheel"
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
       },
       {
         "SerialNo": 30,
@@ -3442,7 +3442,7 @@
         "Symbol": "GARLAND",
         "Party": "Independent",
         "SymbolNo": 115,
-        "symbol_file": "garland"
+        "symbol_url": "https://symbols.azaadvote.com/garland.jpg"
       },
       {
         "SerialNo": 31,
@@ -3452,7 +3452,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Raba-e-Haq Party",
         "SymbolNo": 147,
-        "symbol_file": "Iron"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 32,
@@ -3462,7 +3462,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_file": "printer"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 33,
@@ -3472,7 +3472,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 34,
@@ -3482,7 +3482,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 35,
@@ -3492,7 +3492,7 @@
         "Symbol": "QUEEN",
         "Party": "Independent",
         "SymbolNo": 211,
-        "symbol_file": "queen"
+        "symbol_url": "https://symbols.azaadvote.com/queen.jpg"
       },
       {
         "SerialNo": 36,
@@ -3502,7 +3502,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_file": "pomegranate"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 37,
@@ -3512,7 +3512,7 @@
         "Symbol": "CRESCENT",
         "Party": "Hazara Democratic Party",
         "SymbolNo": 72,
-        "symbol_file": "crescent"
+        "symbol_url": "https://symbols.azaadvote.com/crescent.jpg"
       },
       {
         "SerialNo": 38,
@@ -3522,7 +3522,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_file": "dove"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 39,
@@ -3532,7 +3532,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_file": "laptop"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 40,
@@ -3542,7 +3542,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 41,
@@ -3552,7 +3552,7 @@
         "Symbol": "TRICYCLE",
         "Party": "Independent",
         "SymbolNo": 296,
-        "symbol_file": "tricycle"
+        "symbol_url": "https://symbols.azaadvote.com/tricycle.jpg"
       },
       {
         "SerialNo": 42,
@@ -3562,7 +3562,7 @@
         "Symbol": "DOLPHIN",
         "Party": "Independent",
         "SymbolNo": 85,
-        "symbol_file": "dolphin"
+        "symbol_url": "https://symbols.azaadvote.com/dolphin.jpg"
       },
       {
         "SerialNo": 43,
@@ -3572,7 +3572,7 @@
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
         "SymbolNo": 287,
-        "symbol_file": "Tooth-Brush"
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
       },
       {
         "SerialNo": 44,
@@ -3582,7 +3582,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 45,
@@ -3592,7 +3592,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 46,
@@ -3602,7 +3602,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       }
     ],
     "PageFiles": [
@@ -3625,7 +3625,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 2,
@@ -3635,7 +3635,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_file": "Slate"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 3,
@@ -3645,7 +3645,7 @@
         "Symbol": "COMPUTER",
         "Party": "Independent",
         "SymbolNo": 67,
-        "symbol_file": "computer"
+        "symbol_url": "https://symbols.azaadvote.com/computer.jpg"
       },
       {
         "SerialNo": 4,
@@ -3655,7 +3655,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 5,
@@ -3665,7 +3665,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 6,
@@ -3675,7 +3675,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 7,
@@ -3685,7 +3685,7 @@
         "Symbol": "LADDER",
         "Party": "Jamiat Ulama-e-Islam Pakistan (S)",
         "SymbolNo": 161,
-        "symbol_file": "Ladder"
+        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
       },
       {
         "SerialNo": 8,
@@ -3695,7 +3695,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 9,
@@ -3705,7 +3705,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_file": "tap"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 10,
@@ -3715,7 +3715,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_file": "cricket-stumps"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 11,
@@ -3725,7 +3725,7 @@
         "Symbol": "HUMAN EYE",
         "Party": "Independent",
         "SymbolNo": 142,
-        "symbol_file": "Human-Eye"
+        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.jpg"
       },
       {
         "SerialNo": 12,
@@ -3735,7 +3735,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_file": "dove"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 13,
@@ -3745,7 +3745,7 @@
         "Symbol": "TOWER",
         "Party": "Independent",
         "SymbolNo": 291,
-        "symbol_file": "tower"
+        "symbol_url": "https://symbols.azaadvote.com/tower.jpg"
       },
       {
         "SerialNo": 14,
@@ -3755,7 +3755,7 @@
         "Symbol": "CALCULATOR",
         "Party": "Independent",
         "SymbolNo": 47,
-        "symbol_file": "calculator"
+        "symbol_url": "https://symbols.azaadvote.com/calculator.jpg"
       },
       {
         "SerialNo": 15,
@@ -3765,7 +3765,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 16,
@@ -3775,7 +3775,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_file": "kettle"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 17,
@@ -3785,7 +3785,7 @@
         "Symbol": "FRIDGE",
         "Party": "Independent",
         "SymbolNo": 113,
-        "symbol_file": "fridge"
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
       },
       {
         "SerialNo": 18,
@@ -3795,7 +3795,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (FURQ)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 19,
@@ -3805,7 +3805,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_file": "crane"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 20,
@@ -3815,7 +3815,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 21,
@@ -3825,7 +3825,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_file": "printer"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 22,
@@ -3835,7 +3835,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qomi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_file": "Kite"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 23,
@@ -3845,7 +3845,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 24,
@@ -3855,7 +3855,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rah-e-Haq Party",
         "SymbolNo": 147,
-        "symbol_file": "Iron"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 25,
@@ -3865,7 +3865,7 @@
         "Symbol": "PINEAPPLE",
         "Party": "Independent",
         "SymbolNo": 203,
-        "symbol_file": "Pineapple"
+        "symbol_url": "https://symbols.azaadvote.com/Pineapple.jpg"
       },
       {
         "SerialNo": 26,
@@ -3875,7 +3875,7 @@
         "Symbol": "STETHOSCOPE",
         "Party": "Independent",
         "SymbolNo": 260,
-        "symbol_file": "Stethoscope"
+        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.jpg"
       },
       {
         "SerialNo": 27,
@@ -3885,7 +3885,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 28,
@@ -3895,7 +3895,7 @@
         "Symbol": "CHAIR",
         "Party": "Pakistan Muslim League",
         "SymbolNo": 55,
-        "symbol_file": "chair"
+        "symbol_url": "https://symbols.azaadvote.com/chair.jpg"
       },
       {
         "SerialNo": 29,
@@ -3905,7 +3905,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_file": "goat"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 30,
@@ -3915,7 +3915,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 31,
@@ -3925,7 +3925,7 @@
         "Symbol": "WHEEL",
         "Party": "Jamhoori Wattan Party",
         "SymbolNo": 323,
-        "symbol_file": "wheel"
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
       },
       {
         "SerialNo": 32,
@@ -3935,7 +3935,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 33,
@@ -3945,7 +3945,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 34,
@@ -3955,7 +3955,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 35,
@@ -3965,7 +3965,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_file": "pomegranate"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       }
     ],
     "PageFiles": [
@@ -3988,7 +3988,7 @@
         "Symbol": "FRAME",
         "Party": "Independent",
         "SymbolNo": 112,
-        "symbol_file": "frame"
+        "symbol_url": "https://symbols.azaadvote.com/frame.jpg"
       },
       {
         "SerialNo": 2,
@@ -3998,7 +3998,7 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_file": "bowl"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
       },
       {
         "SerialNo": 3,
@@ -4008,7 +4008,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_file": "laptop"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 4,
@@ -4018,7 +4018,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 5,
@@ -4028,7 +4028,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 6,
@@ -4038,7 +4038,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 7,
@@ -4048,7 +4048,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_file": "dove"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 8,
@@ -4058,7 +4058,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 9,
@@ -4068,7 +4068,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_file": "Slate"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 10,
@@ -4078,7 +4078,7 @@
         "Symbol": "TABLE TENNIS BAT",
         "Party": "Independent",
         "SymbolNo": 273,
-        "symbol_file": "table-tennis-bat"
+        "symbol_url": "https://symbols.azaadvote.com/table-tennis-bat.jpg"
       },
       {
         "SerialNo": 11,
@@ -4088,7 +4088,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 12,
@@ -4098,7 +4098,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rahe-Haq Party",
         "SymbolNo": 147,
-        "symbol_file": "Iron"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 13,
@@ -4108,7 +4108,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 14,
@@ -4118,7 +4118,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 15,
@@ -4128,7 +4128,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 16,
@@ -4138,7 +4138,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 17,
@@ -4148,7 +4148,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_file": "matchbox"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 18,
@@ -4158,7 +4158,7 @@
         "Symbol": "NEWSPAPER",
         "Party": "Independent",
         "SymbolNo": 183,
-        "symbol_file": "newspaper"
+        "symbol_url": "https://symbols.azaadvote.com/newspaper.jpg"
       },
       {
         "SerialNo": 19,
@@ -4168,7 +4168,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 20,
@@ -4178,7 +4178,7 @@
         "Symbol": "SPECTACLES",
         "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
         "SymbolNo": 252,
-        "symbol_file": "spectacles"
+        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
       },
       {
         "SerialNo": 21,
@@ -4188,7 +4188,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_file": "Suitcase"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 22,
@@ -4198,7 +4198,7 @@
         "Symbol": "BRICK",
         "Party": "Independent",
         "SymbolNo": 35,
-        "symbol_file": "brick"
+        "symbol_url": "https://symbols.azaadvote.com/brick.jpg"
       },
       {
         "SerialNo": 23,
@@ -4208,7 +4208,7 @@
         "Symbol": "PITCHER",
         "Party": "Mazloom Olsi Tehreek Pakistan",
         "SymbolNo": 204,
-        "symbol_file": "pitcher"
+        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
       }
     ],
     "PageFiles": [
@@ -4230,7 +4230,7 @@
         "Symbol": "TABLE LAMP",
         "Party": "Independent",
         "SymbolNo": 272,
-        "symbol_file": "lamp"
+        "symbol_url": "https://symbols.azaadvote.com/lamp.jpg"
       },
       {
         "SerialNo": 2,
@@ -4240,7 +4240,7 @@
         "Symbol": "PHOTOSTAT MACHINE",
         "Party": "Independent",
         "SymbolNo": 200,
-        "symbol_file": "Photostat-Machine"
+        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.jpg"
       },
       {
         "SerialNo": 3,
@@ -4250,7 +4250,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_file": "scale"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 4,
@@ -4260,7 +4260,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_file": "transformer"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 5,
@@ -4270,7 +4270,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 6,
@@ -4280,7 +4280,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_file": "cricket-stumps"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 7,
@@ -4290,7 +4290,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rah-e-Haq Party",
         "SymbolNo": 147,
-        "symbol_file": "Iron"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 8,
@@ -4300,7 +4300,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 9,
@@ -4310,7 +4310,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 10,
@@ -4320,7 +4320,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_file": "takhti"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 11,
@@ -4330,7 +4330,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 12,
@@ -4340,7 +4340,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulema-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 13,
@@ -4350,7 +4350,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_file": "bunch-of-grapes"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 14,
@@ -4360,7 +4360,7 @@
         "Symbol": "PITCHER",
         "Party": "Mazloom Olsi Tehreek Pakistan",
         "SymbolNo": 204,
-        "symbol_file": "pitcher"
+        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
       },
       {
         "SerialNo": 15,
@@ -4370,7 +4370,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_file": "tree"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 16,
@@ -4380,7 +4380,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_file": "Chiragh (Lamp)"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 17,
@@ -4390,7 +4390,7 @@
         "Symbol": "PARACHUTE",
         "Party": "Independent",
         "SymbolNo": 192,
-        "symbol_file": "parachute"
+        "symbol_url": "https://symbols.azaadvote.com/parachute.jpg"
       },
       {
         "SerialNo": 18,
@@ -4400,7 +4400,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_file": "printer"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 19,
@@ -4410,7 +4410,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_file": "aeroplane"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 20,
@@ -4420,7 +4420,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       }
     ],
     "PageFiles": [
@@ -4442,7 +4442,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_file": "saw"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 2,
@@ -4452,7 +4452,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_file": "cow"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 3,
@@ -4462,7 +4462,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_file": "axe"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 4,
@@ -4472,7 +4472,7 @@
         "Symbol": "TABLE",
         "Party": "Independent",
         "SymbolNo": 271,
-        "symbol_file": "table"
+        "symbol_url": "https://symbols.azaadvote.com/table.jpg"
       },
       {
         "SerialNo": 5,
@@ -4482,7 +4482,7 @@
         "Symbol": "RABAB",
         "Party": "Independent",
         "SymbolNo": 212,
-        "symbol_file": "Rabab"
+        "symbol_url": "https://symbols.azaadvote.com/Rabab.jpg"
       },
       {
         "SerialNo": 6,
@@ -4492,7 +4492,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_file": "clock"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 7,
@@ -4502,7 +4502,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_file": "arrow"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 8,
@@ -4512,7 +4512,7 @@
         "Symbol": "HUMAN EYE",
         "Party": "Independent",
         "SymbolNo": 142,
-        "symbol_file": "Human-Eye"
+        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.jpg"
       },
       {
         "SerialNo": 9,
@@ -4522,7 +4522,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_file": "book"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 10,
@@ -4532,7 +4532,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_file": "tiger"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 11,
@@ -4542,7 +4542,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_file": "ring"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 12,
@@ -4552,7 +4552,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_file": "peacock"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 13,
@@ -4562,7 +4562,7 @@
         "Symbol": "CHAIR",
         "Party": "Pakistan Markazi Muslim League",
         "SymbolNo": 55,
-        "symbol_file": "chair"
+        "symbol_url": "https://symbols.azaadvote.com/chair.jpg"
       },
       {
         "SerialNo": 14,
@@ -4572,7 +4572,7 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_file": "hen"
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
       },
       {
         "SerialNo": 15,
@@ -4582,7 +4582,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_file": "sickle"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 16,
@@ -4592,7 +4592,7 @@
         "Symbol": "CHAPRAL",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_file": "charpai"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
       },
       {
         "SerialNo": 17,
@@ -4602,7 +4602,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_file": "Camel"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 18,
@@ -4612,7 +4612,7 @@
         "Symbol": "RABBIT",
         "Party": "Haq Do Tehreek Balochistan",
         "SymbolNo": 213,
-        "symbol_file": "rabbit"
+        "symbol_url": "https://symbols.azaadvote.com/rabbit.jpg"
       }
     ],
     "PageFiles": [
