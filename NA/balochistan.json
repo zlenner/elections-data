@@ -13,7 +13,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 2,
@@ -23,7 +23,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhawa National Awami Party",
         "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 3,
@@ -33,7 +33,7 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.png"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
       },
       {
         "SerialNo": 4,
@@ -43,7 +43,7 @@
         "Symbol": "BED",
         "Party": "Independent",
         "SymbolNo": 23,
-        "symbol_url": "https://symbols.azaadvote.com/bed.png"
+        "symbol_url": "https://symbols.azaadvote.com/bed.jpg"
       },
       {
         "SerialNo": 5,
@@ -53,7 +53,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 6,
@@ -63,7 +63,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 7,
@@ -73,7 +73,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 8,
@@ -83,7 +83,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 9,
@@ -93,7 +93,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e- Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 10,
@@ -103,7 +103,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulema e Islam",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 11,
@@ -113,7 +113,7 @@
         "Symbol": "GATE",
         "Party": "Sulaiman Khel Qabail Movement Pakistan",
         "SymbolNo": 117,
-        "symbol_url": "https://symbols.azaadvote.com/gate.png"
+        "symbol_url": "https://symbols.azaadvote.com/gate.jpg"
       },
       {
         "SerialNo": 12,
@@ -123,7 +123,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 13,
@@ -133,7 +133,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 14,
@@ -143,7 +143,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 15,
@@ -153,7 +153,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       },
       {
         "SerialNo": 16,
@@ -163,7 +163,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 17,
@@ -173,1281 +173,12 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhawa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       }
     ],
     "PageFiles": [
       "NA Form-33_page-0001.jpg",
       "NA Form-33_page-0002.jpg"
-    ]
-  },
-  "NA-253": {
-    "Constituency No": "NA-253",
-    "Constituency Name": "Ziarat-cum-Harnai-Sibi-cum-Kohlu-cum-Dera Bugti",
-    "Returning Officer": "Abdul Hameed Abro",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Ahmed Jan",
-        "Name in Urdu": "احمد جان",
-        "Address": "P.O Box Khost ,Tehsil Shahrag, District Harnai",
-        "Symbol": "MOUNTAIN",
-        "Party": "National Democratic Movement",
-        "SymbolNo": 180,
-        "symbol_url": "https://symbols.azaadvote.com/mountain.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Babar Marghazani",
-        "Name in Urdu": "بابر مرغزانی",
-        "Address": "Marghazani House House #3, District Sibi",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Jaleel Ahmed",
-        "Name in Urdu": "جلیل احمد",
-        "Address": "Kili Mir Noor Ahmed , Karam Khan Shaher P.O Box Kohlu , District Kohlu",
-        "Symbol": "CARROM BOARD",
-        "Party": "Independent",
-        "SymbolNo": 54,
-        "symbol_url": "https://symbols.azaadvote.com/carrom-board.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Habib Ur Rehman",
-        "Name in Urdu": "حبیب الرحمن",
-        "Address": "P.O Box Chalez Mir Haji , Sinjavi , District Ziarat",
-        "Symbol": "TREE",
-        "Party": "Pashtoonkhwa Milli Awami Party",
-        "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Khuda E Dad Khan",
-        "Name in Urdu": "خدائے داد خان",
-        "Address": "P.O Box Nazai , DistrictHarnai",
-        "Symbol": "SUITCASE",
-        "Party": "Independent",
-        "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Khudai Dost Kakar",
-        "Name in Urdu": "خدائی دوست کاکڑ",
-        "Address": "Ahmedon, Tehsil/District Ziarat",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Sardarzada Akbar Khan",
-        "Name in Urdu": "سردارزادہ اکبر خان",
-        "Address": "P.O Box Warekha Kalan , District Harnai",
-        "Symbol": "KETTLE",
-        "Party": "Independent",
-        "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Saddam",
-        "Name in Urdu": "صدام",
-        "Address": "Mohala Main Bazar , DistrictHarnai",
-        "Symbol": "FRIDGE",
-        "Party": "Independent",
-        "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png",
-        "pti_backed": {
-          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKUOnu7tkj8sopORl24"
-        }
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Abdul Baqi Tareen",
-        "Name in Urdu": "عبدالباقی ترین",
-        "Address": "Mohala Near Mill Colony , District Harnai",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Abdul Jabbar",
-        "Name in Urdu": "عبدالجبار",
-        "Address": "P.O Box Shahanzai, Chandia , District Sibi.",
-        "Symbol": "CAMEL",
-        "Party": "Balochistan National Party (Awami)",
-        "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Attaullah",
-        "Name in Urdu": "عطاءالله",
-        "Address": "Mohala Kalpar Colony,P.O BoxSui, Town Sui, District Dera Bugti",
-        "Symbol": "ELECTRIC HEATER",
-        "Party": "Independent",
-        "SymbolNo": 94,
-        "symbol_url": "https://symbols.azaadvote.com/electric-heater.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Farid Ullah Dumar",
-        "Name in Urdu": "فرید الله دمار",
-        "Address": "P.O Box Sinjavi,Chalez Kahli, District Ziarat",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Faisal Bashir",
-        "Name in Urdu": "فیصل بشیر",
-        "Address": "Iqbal road, House #154 , District Sibi",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Kalsoom Panezai",
-        "Name in Urdu": "کلثوم پانزئی",
-        "Address": "Zinda , P.O Box Kawas, District Ziarat",
-        "Symbol": "HAND BAG",
-        "Party": "Independent",
-        "SymbolNo": 131,
-        "symbol_url": "https://symbols.azaadvote.com/hand-bag.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Kohda Yar Marri",
-        "Name in Urdu": "کوہدا یار مری",
-        "Address": "Mohala Marri House Saryabroad Quetta.",
-        "Symbol": "STILL CAMERA",
-        "Party": "Independent",
-        "SymbolNo": 261,
-        "symbol_url": "https://symbols.azaadvote.com/still-camera.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Gaman Khan",
-        "Name in Urdu": "گمن خان",
-        "Address": "Kili Malik Ghulam BakhshTambo District Kohlu",
-        "Symbol": "AXE",
-        "Party": "Balochistan National Party",
-        "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
-      },
-      {
-        "SerialNo": 17,
-        "Name in English": "Muhammad Saleem",
-        "Name in Urdu": "محمد سلیم",
-        "Address": "Sohbat Sarai Road, Mohalla Marghzani, District Sibi",
-        "Symbol": "KITE",
-        "Party": "Muttahida Qomi Movement Pakistan",
-        "SymbolNo": 159,
-        "symbol_url": "https://symbols.azaadvote.com/Kite.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Mahr Ullah",
-        "Name in Urdu": "مہر اللہ",
-        "Address": "Killi Charhi, P.O Box Warchaom, Wam District Ziarat",
-        "Symbol": "BUNCH OF GRAPES",
-        "Party": "Pashtoonkhwa National Awami Party",
-        "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
-      },
-      {
-        "SerialNo": 19,
-        "Name in English": "Mian Khan",
-        "Name in Urdu": "میان خان",
-        "Address": "P.O Box Mat,Sui,Thoni,TehsilSui, District Dera Bugti.",
-        "Symbol": "GOAT",
-        "Party": "Independent",
-        "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
-      },
-      {
-        "SerialNo": 20,
-        "Name in English": "Mir Balach Khan Domki",
-        "Name in Urdu": "میر بلاتچ خان ڈومکی",
-        "Address": "Lehri , District Sibi",
-        "Symbol": "KEY WITH LOCK",
-        "Party": "Independent",
-        "SymbolNo": 156,
-        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png"
-      },
-      {
-        "SerialNo": 21,
-        "Name in English": "Mir Bangul Marri",
-        "Name in Urdu": "میر بنگل مری",
-        "Address": "P.O Box Pazza, District Kohlu",
-        "Symbol": "SHEEP",
-        "Party": "Independent",
-        "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
-      },
-      {
-        "SerialNo": 22,
-        "Name in English": "Mir Durakh Khan Domki",
-        "Name in Urdu": "میر درخ خان ڈومکی",
-        "Address": "Mohala Sardar Chakar Khan Domki House Lehri, District Sibi",
-        "Symbol": "TYPEWRITER",
-        "Party": "Independent",
-        "SymbolNo": 308,
-        "symbol_url": "https://symbols.azaadvote.com/type-writter.png"
-      },
-      {
-        "SerialNo": 23,
-        "Name in English": "Mir Dostain Khan Domki",
-        "Name in Urdu": "میر دوستین خان ڈومکی",
-        "Address": "Mohala Sardar Chakar Khan Domki Lehri , District Sibi",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 24,
-        "Name in English": "Mir Sardar Khan Rind",
-        "Name in Urdu": "میر سردار خان رند",
-        "Address": "Mohala Rind , P.O Box Khas Shoran, Tehsil Sanni ,District Kachhi",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 25,
-        "Name in English": "Mir Abdul Nabi Khan",
-        "Name in Urdu": "میر عبدالنبی خان",
-        "Address": "Killi Mir Jalal Khan Rahzanai, P.O Box Tambo, basti MirHazara, District Kohlu",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 26,
-        "Name in English": "Mir Liyaqat Ali Khan",
-        "Name in Urdu": "میر لیاقت علی خان",
-        "Address": "Ward No.02, Mohala Koho,District Dera Bugti",
-        "Symbol": "DISH ANTENNA",
-        "Party": "Independent",
-        "SymbolNo": 84,
-        "symbol_url": "https://symbols.azaadvote.com/dish-antenna.png"
-      },
-      {
-        "SerialNo": 27,
-        "Name in English": "Naseer Ahmed Kakar",
-        "Name in Urdu": "نصیر احمد کاکڑ",
-        "Address": "Ahmedon ,Tehsil District Ziarat",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 28,
-        "Name in English": "Naqeeb Ullah",
-        "Name in Urdu": "نقیب اللہ",
-        "Address": "Uz Liaz , P.O Box Sinjavi,District Ziarat",
-        "Symbol": "RING",
-        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
-        "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
-      },
-      {
-        "SerialNo": 29,
-        "Name in English": "Nawabzada Shazain Bugti",
-        "Name in Urdu": "نوابزادہ شازین بگٹی",
-        "Address": "Dera Bugti House, Tehsil /District Dera Bugti",
-        "Symbol": "WHEEL",
-        "Party": "Jamhoori Watan Party",
-        "SymbolNo": 323,
-        "symbol_url": "https://symbols.azaadvote.com/wheel.png"
-      },
-      {
-        "SerialNo": 30,
-        "Name in English": "Yar Muhammad",
-        "Name in Urdu": "یار محمد",
-        "Address": "P.O Box Qaiser Ghostranzai Talli , District Sibi",
-        "Symbol": "SAW",
-        "Party": "National Party",
-        "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
-      }
-    ],
-    "PageFiles": [
-      "NA Form-33_page-0006.jpg",
-      "NA Form-33_page-0007.jpg"
-    ]
-  },
-  "NA-255": {
-    "Constituency No": "NA-255",
-    "Constituency Name": "Sohbatpur-Cum-Jaffarabad-Cum-Usta Muhammad-Cum-Naseerabad",
-    "Returning Officer": "",
-    "NumPages": 6,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Adam Khan",
-        "Name in Urdu": "آدم خان",
-        "Address": "Village Bahadur Khan PO Rohjan Jamali, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "KETTLE",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Asif Hussain",
-        "Name in Urdu": "آصف حسین",
-        "Address": "Mohallah Shaheed Murad Colony Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "FIRE ENGINE",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/fire-engine.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Ahmed Nawaz",
-        "Name in Urdu": "احمد نواز",
-        "Address": "Goth Sakhi Sikandar Khan, Dhanda PO Naseer Khan Tehsil & District Sohbatpur",
-        "Symbol": "BENCH",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/bench.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Asadullah Khan",
-        "Name in Urdu": "اسداللہ خان",
-        "Address": "Village Behram Khan, Sohri Ali abad Janoobi, Tehsil Tamboo District Naseerabad",
-        "Symbol": "CARROM BOARD",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/carrom-board.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Izhar Hussain",
-        "Name in Urdu": "اضہر حسین",
-        "Address": "Izhar Hussain Khosa, PO Naseer KhanDhanda, Tehsil & District Sohbatpur",
-        "Symbol": "SICKLE",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Azhar Hussain",
-        "Name in Urdu": "اضہر حسین",
-        "Address": "Goth Abdul Hameed Khosa, Jhatpat Dera Murad Jamali, District Naseerabad",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Ameer Zadi",
-        "Name in Urdu": "امیر زادی",
-        "Address": "Village Izhar Hussain Khosa, PO Naseer Khan, Tehsil and district Sohbatpur",
-        "Symbol": "LOTUS",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/lotus.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Javed Jamali",
-        "Name in Urdu": "جاوید جمالی",
-        "Address": "PO Rojhan Jamali, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "ALPHABET 'B'",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/alphabet-b.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Hazoor Bakhsh",
-        "Name in Urdu": "حضور بخش",
-        "Address": "Horan Khan Jakhrani, Jhudher, Dera Murad Jamali, District Nasirabad",
-        "Symbol": "WHEEL",
-        "Party": "Jamhoori Wattan Party",
-        "SymbolNo": 323,
-        "symbol_url": "https://symbols.azaadvote.com/wheel.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Khurram Fattah",
-        "Name in Urdu": "خرم فتح",
-        "Address": "Khuramabad Near Village Kandhi, Mir Hassan Shahpur, Tehsil Chattar District Naseerabad",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Ruqia Sultana",
-        "Name in Urdu": "رقیہ سلطانہ",
-        "Address": "PO Bakhtiarabad, Tehsil Lehri, District Sibi",
-        "Symbol": "TENT",
-        "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
-        "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Sardar Abdul Sattar Khan",
-        "Name in Urdu": "سردار عبدل ستار خان",
-        "Address": "Sardar Abdul Sattar Khan Sohri, Darabi androon, PO Sardar Allah Waraya Tehsil Chattar, District Naseerabad",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Markazi Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Syed Akbar Shah",
-        "Name in Urdu": "سید اکبر شاہ",
-        "Address": "Goth Qadirabad Balan Shakih PO Majhoorshoribad, Tehsil Tamboo District Naseerabad",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Shakir Hussain",
-        "Name in Urdu": "شاکر حسین",
-        "Address": "Village Haji Sardar Khan Khosa, PO Mir Hassan Dolat, Ghari Androon, Tehsil Chattar, district Naseerabad.",
-        "Symbol": "CHARPAI",
-        "Party": "Independent",
-        "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Sabir Hussain",
-        "Name in Urdu": "صابر حسین",
-        "Address": "Ward No.2 Mohallah Bugti, Dera Murad Jamali District Naseerabad",
-        "Symbol": "PARROT",
-        "Party": "Independent",
-        "SymbolNo": 193,
-        "symbol_url": "https://symbols.azaadvote.com/Parrot.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Sahib Jan",
-        "Name in Urdu": "صاحب جان",
-        "Address": "Village Abdul Hameed Khosa, Tehsil Jhatpat District Naseerabad",
-        "Symbol": "FRIDGE",
-        "Party": "Independent",
-        "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
-      },
-      {
-        "SerialNo": 17,
-        "Name in English": "Zameer Hussain",
-        "Name in Urdu": "ظمیر حسین",
-        "Address": "Sobdar Khan Jamali, PO Rojhan Jamali, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "EMERGENCY LIGHT",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/emergency-light.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Abdul Sattar",
-        "Name in Urdu": "عبدالستار",
-        "Address": "Village Haji Ilahi Bakhsh Jamali, Usta Muhammad District Jaffarabad",
-        "Symbol": "KITE",
-        "Party": "Muttahida Qaumi Movement Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/Kite.png"
-      },
-      {
-        "SerialNo": 19,
-        "Name in English": "Abdul Latif",
-        "Name in Urdu": "عبداللطیف",
-        "Address": "Village Mir Hassan, PO Mir Hassan Dolat, Ghari Androon, Tehsil Chattar, District Jaffarabad.",
-        "Symbol": "TAKHTI",
-        "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
-      },
-      {
-        "SerialNo": 20,
-        "Name in English": "Abdul Ghafoor",
-        "Name in Urdu": "عبدالغفور",
-        "Address": "Mohallah Lashkar Khan Mengal Dera Murad Jamali District Naseerabad",
-        "Symbol": "AXE",
-        "Party": "Balochistan National Party",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
-      },
-      {
-        "SerialNo": 21,
-        "Name in English": "Abdul Farooq",
-        "Name in Urdu": "عبدالفاروق",
-        "Address": "Village Dildar Khan, PO Hayat Khan, Sohbatpur",
-        "Symbol": "TOWER",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/tower.png"
-      },
-      {
-        "SerialNo": 22,
-        "Name in English": "Azizullah Satakzai",
-        "Name in Urdu": "عزیزاللہ ستاکزئی",
-        "Address": "Doctor Azizullah Satakzai, PO Khas, Tehsil Jhatpat District Jaffarabad.",
-        "Symbol": "RING",
-        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
-      },
-      {
-        "SerialNo": 23,
-        "Name in English": "Imran Khan",
-        "Name in Urdu": "عمران خان",
-        "Address": "Ward No. 17 Mohallah Wahid Bakhsh Bungalzai, Dera Murad Jamali, District Naseerabad",
-        "Symbol": "WHEEL CHAIR",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/wheel-chair.png"
-      },
-      {
-        "SerialNo": 24,
-        "Name in English": "Ghulam Mujtaba Abro",
-        "Name in Urdu": "غلام مجتبیٰ ابرو",
-        "Address": "Ward No. 11 Mohallah Jakhro, Dera Murad Jamali, District Naseerabad",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 25,
-        "Name in English": "Ghulam Nabi",
-        "Name in Urdu": "غلام نبی",
-        "Address": "Sikandarabad Mohallah Marsileen House, Ward No. 19, Dera Murad Jamali District Naseerabad",
-        "Symbol": "RABAB",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/Rabab.png"
-      },
-      {
-        "SerialNo": 26,
-        "Name in English": "Farooq Jamali",
-        "Name in Urdu": "فاروق جمالی",
-        "Address": "Mohallah Noor Pur Jamali, Tehsil Usta Muhammad District Jaffarabad",
-        "Symbol": "TABLE",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/table.png"
-      },
-      {
-        "SerialNo": 27,
-        "Name in English": "Majida Abro",
-        "Name in Urdu": "ماجدہ ابرو",
-        "Address": "Mohallah Mir Abdul Majid Abro, Dera Murad Jamali, District Naseerabad",
-        "Symbol": "ELECTRIC POLE",
-        "Party": "Jamote Qaumi Movement",
-        "SymbolNo": 95,
-        "symbol_url": "https://symbols.azaadvote.com/electric-pole.png"
-      },
-      {
-        "SerialNo": 28,
-        "Name in English": "Muhammad Ismail",
-        "Name in Urdu": "محمد اسماعیل",
-        "Address": "Near Forest Office Baldia Dera Allah Yar Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 29,
-        "Name in English": "Muhammad Akbar",
-        "Name in Urdu": "محمد اکبر",
-        "Address": "Ward No.10 Mohallah Umrani, Dera Murad Jamali, Tehsil Naseerabad",
-        "Symbol": "WIND MILL",
-        "Party": "Independent",
-        "SymbolNo": 327,
-        "symbol_url": "https://symbols.azaadvote.com/Wind-Mill.png"
-      },
-      {
-        "SerialNo": 30,
-        "Name in English": "Muhammad Daud",
-        "Name in Urdu": "محمد داؤد",
-        "Address": "Village Belter PO chattar, Tahir kot, Sharki, Tehsil Chattar, district Naseerabad",
-        "Symbol": "KEY",
-        "Party": "Jamiat Ulema-e-Pakistan (Noorani)",
-        "SymbolNo": 154,
-        "symbol_url": "https://symbols.azaadvote.com/Key.png"
-      },
-      {
-        "SerialNo": 31,
-        "Name in English": "Muhammad Rafique",
-        "Name in Urdu": "محمد رفیق",
-        "Address": "Mohallah Bhatti, Dera Allah Yar, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 32,
-        "Name in English": "Muhammad Arif Murad",
-        "Name in Urdu": "محمد عارف مراد",
-        "Address": "Near Civil Hospital, Mohallah Ali Rind Street Dera Allah Yar Tehsil Jhatpat District Jaffarabad.",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png",
-        "pti_backed": {
-          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFzsGpGpLHJCJJJWw3z"
-        }
-      },
-      {
-        "SerialNo": 33,
-        "Name in English": "Muhammad Najeeb",
-        "Name in Urdu": "محمد نجیب",
-        "Address": "Tehsil Road Ward No.5 Tehsil Jhatpat District Naseerabad",
-        "Symbol": "BOWL",
-        "Party": "Independent",
-        "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
-      },
-      {
-        "SerialNo": 34,
-        "Name in English": "Muhammad Naeem",
-        "Name in Urdu": "محمد نعیم",
-        "Address": "Haji Ameer Bakhsh Khoosa House Mohallah Baloch Colony, Dera Allah Yar Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "SAW",
-        "Party": "National Party",
-        "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
-      },
-      {
-        "SerialNo": 35,
-        "Name in English": "Muhammad Waris",
-        "Name in Urdu": "محمد وارث",
-        "Address": "Ward No. 4 Mohallah Jan Mohammad Jamot, Dera Murad Jamali District Naseerabad",
-        "Symbol": "TAP",
-        "Party": "Independent",
-        "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
-      },
-      {
-        "SerialNo": 36,
-        "Name in English": "Mozam Ali Bhanger",
-        "Name in Urdu": "موزم علی ڀنگر",
-        "Address": "Bhanger House, Issai, Panjgur, District Panjgur",
-        "Symbol": "MATCH BOX",
-        "Party": "Independent",
-        "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
-      },
-      {
-        "SerialNo": 37,
-        "Name in English": "Mumtaz Ali",
-        "Name in Urdu": "ممتاز علی",
-        "Address": "Mohallah Iqbal Town Dera Murad Jamali, District Naseerabad",
-        "Symbol": "TOOTH BRUSH",
-        "Party": "Independent",
-        "SymbolNo": 287,
-        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.png"
-      },
-      {
-        "SerialNo": 38,
-        "Name in English": "Mir Changez Khan Jamali",
-        "Name in Urdu": "میر چنگیز خان جمالی",
-        "Address": "Kashmir Kot, PO Rojhan Jamali, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 39,
-        "Name in English": "Mir Hussain",
-        "Name in Urdu": "میر حسین",
-        "Address": "Village Mir Hassan Sasoli, PO Azizullah, Satakzai, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 40,
-        "Name in English": "Mir Khan Muhammad Jamali",
-        "Name in Urdu": "میر خان محمد جمالی",
-        "Address": "Khan Garh Jamali, Ward No. 24, Dera Allah Yar, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 41,
-        "Name in English": "Mir Godha Khan Hijiwani",
-        "Name in Urdu": "میر گدا خان ھجیوانی",
-        "Address": "PO Usta Muhammad, Ubaidullah Khan Hijiwani, Tehsil Usta Muhammad, District Jaffarabad",
-        "Symbol": "WATER COOLER",
-        "Party": "Independent",
-        "SymbolNo": 317,
-        "symbol_url": "https://symbols.azaadvote.com/water-cooler.png"
-      },
-      {
-        "SerialNo": 42,
-        "Name in English": "Mir Muhammad Sadiq Umrani",
-        "Name in Urdu": "میر محمد صادق عمرانی",
-        "Address": "Mohallah Mohammad Sadiq Umrani, Dera Murad Jamali District Naseerabad",
-        "Symbol": "FORK",
-        "Party": "Independent",
-        "SymbolNo": 109,
-        "symbol_url": "https://symbols.azaadvote.com/fork.png"
-      },
-      {
-        "SerialNo": 43,
-        "Name in English": "Nisar Ahmed",
-        "Name in Urdu": "نثار احمد",
-        "Address": "Village Haji Sobhat Khan Bedaar Androon, PO Dera Murad Jamali District Naseerabad",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 44,
-        "Name in English": "Naseebullah",
-        "Name in Urdu": "نصیب الله",
-        "Address": "Village Naseebullah Khan Khosa, PO Dera Allah Yar, Dhadho Waah, Tehsil Jhatpat District Jaffarabad",
-        "Symbol": "SCREW DRIVER",
-        "Party": "Independent",
-        "SymbolNo": 237,
-        "symbol_url": "https://symbols.azaadvote.com/screw-driver.png"
-      },
-      {
-        "SerialNo": 45,
-        "Name in English": "Nobat Khan",
-        "Name in Urdu": "نوبت خان",
-        "Address": "Village Sokhani, PO Imdad HussainShori, Tehsil Chatter, District Naseerabad",
-        "Symbol": "PRESSURE COOKER",
-        "Party": "Independent",
-        "SymbolNo": 209,
-        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.png"
-      },
-      {
-        "SerialNo": 46,
-        "Name in English": "Molahlah Wahid Bakhsh",
-        "Name in Urdu": "ملاہ واہد بخش",
-        "Address": "Bakhsh Bungalzai, Dera murad Jamali, District Nasirabad",
-        "Symbol": "SUIT CASE",
-        "Party": "Independent",
-        "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
-      }
-    ],
-    "PageFiles": [
-      "NA Form-33_page-0010.jpg",
-      "NA Form-33_page-0011.jpg",
-      "NA Form-33_page-0012.jpg",
-      "NA Form-33_page-0013.jpg",
-      "NA Form-33_page-0014.jpg",
-      "NA Form-33_page-0015.jpg"
-    ]
-  },
-  "NA-257": {
-    "Constituency No": "NA-257",
-    "Constituency Name": "Hub-cum-Lasbela-cum-Awaran",
-    "Returning Officer": "Syed Rehmatullah",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Jam Kamal Khan",
-        "Name in Urdu": "جام کمال خان",
-        "Address": "Bela Lasbela",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Shah Nawaz Hassan",
-        "Name in Urdu": "شاہ نواز حسن",
-        "Address": "Uthal Lasbela",
-        "Symbol": "GOAT",
-        "Party": "Independent",
-        "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Abdul Khalid",
-        "Name in Urdu": "عبدالخالد",
-        "Address": "Gaddani Hub",
-        "Symbol": "KITE",
-        "Party": "Muttahida Qomi Movement Pakistan",
-        "SymbolNo": 159,
-        "symbol_url": "https://symbols.azaadvote.com/Kite.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Abdul Wahab",
-        "Name in Urdu": "عبدالوہاب",
-        "Address": "Awaran",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Ali Ahmed",
-        "Name in Urdu": "علی احمد",
-        "Address": "Hub",
-        "Symbol": "SLATE",
-        "Party": "Independent",
-        "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Maria Kamal",
-        "Name in Urdu": "ماریہ کمال",
-        "Address": "Bela Lasbela",
-        "Symbol": "HAND PUMP",
-        "Party": "Independent",
-        "SymbolNo": 130,
-        "symbol_url": "https://symbols.azaadvote.com/hand-pump.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Muhammad Aslam Bhootani",
-        "Name in Urdu": "محمد اسلم بھوتانی",
-        "Address": "Dureji, Hub",
-        "Symbol": "CHARPAI",
-        "Party": "Independent",
-        "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Muhammad Akbar",
-        "Name in Urdu": "محمد اکبر",
-        "Address": "Soomniani Hub",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Muhammad Akram",
-        "Name in Urdu": "محمد اکرم",
-        "Address": "Awaran",
-        "Symbol": "SHEEP",
-        "Party": "Independent",
-        "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Muhammad Anwar Roohnjo",
-        "Name in Urdu": "محمد انور رونجھو",
-        "Address": "Hub",
-        "Symbol": "BED",
-        "Party": "Independent",
-        "SymbolNo": 23,
-        "symbol_url": "https://symbols.azaadvote.com/bed.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Muhammad Hanif",
-        "Name in Urdu": "محمد حنیف",
-        "Address": "Hub",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Muhammad Sharif",
-        "Name in Urdu": "محمد شریف",
-        "Address": "Gaddani Hub",
-        "Symbol": "SOFA",
-        "Party": "Independent",
-        "SymbolNo": 249,
-        "symbol_url": "https://symbols.azaadvote.com/sofa.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Muhammad Siddique",
-        "Name in Urdu": "محمد صدیق",
-        "Address": "Dureji, Hub",
-        "Symbol": "BRUSH",
-        "Party": "Independent",
-        "SymbolNo": 38,
-        "symbol_url": "https://symbols.azaadvote.com/brush.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Muhammad Alam",
-        "Name in Urdu": "محمد عالم",
-        "Address": "Awaran",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Muhammad Qasim Khan",
-        "Name in Urdu": "محمد قاسم خان",
-        "Address": "Awaran",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Nawaz Ali Burfat",
-        "Name in Urdu": "نواز علی برفت",
-        "Address": "Hub",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 17,
-        "Name in English": "Niaz Muhammad",
-        "Name in Urdu": "نیاز محمد",
-        "Address": "Hub",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Wazir Ahmed Noorani",
-        "Name in Urdu": "وزیر احمد نورانی",
-        "Address": "Hub",
-        "Symbol": "SWALLOW",
-        "Party": "Independent",
-        "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
-      }
-    ],
-    "PageFiles": [
-      "NA Form-33_page-0018.jpg",
-      "NA Form-33_page-0019.jpg"
-    ]
-  },
-  "NA-261": {
-    "Constituency No": "NA-261",
-    "Constituency Name": "Surab-cum-Kalat-cum-Mastung",
-    "Returning Officer": "",
-    "NumPages": 3,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Bashir Ahmed",
-        "Name in Urdu": "بشیر احمد",
-        "Address": "Kapoto Khurd Kalat",
-        "Symbol": "BRICK",
-        "Party": "Independent",
-        "SymbolNo": 35,
-        "symbol_url": "https://symbols.azaadvote.com/brick.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Bahi Khan",
-        "Name in Urdu": "باھی خان",
-        "Address": "Gidar Surab",
-        "Symbol": "COW",
-        "Party": "BAP",
-        "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Takri Shafkat Ullah Langove",
-        "Name in Urdu": "تکری شفقت اللہ لانگو",
-        "Address": "Barenchna Khaliq Abad Karam Khan Zai Mangocher Kalat",
-        "Symbol": "LAPTOP",
-        "Party": "Independent",
-        "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Hafiz Shams Ud Din",
-        "Name in Urdu": "حافظ شمس الدین",
-        "Address": "Lehr Kalat",
-        "Symbol": "SLATE",
-        "Party": "Independent",
-        "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Hassan Ali Sasoli",
-        "Name in Urdu": "حسن علی سسولی",
-        "Address": "Zerina Mooli Surab",
-        "Symbol": "PEACOCK",
-        "Party": "independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Zulfiqar Ali",
-        "Name in Urdu": "ذوالفقار علی",
-        "Address": "Barenchna Khaliq Abad Karam Khan Zai Mangocher Kalat",
-        "Symbol": "STETHO SCOPE",
-        "Party": "Independent",
-        "SymbolNo": 260,
-        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Ramen Rustum",
-        "Name in Urdu": "رامین رستم",
-        "Address": "Mohalla Awaran Jaberi Mashkey",
-        "Symbol": "TAP",
-        "Party": "Independent",
-        "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Sardar Sana Ullah Zehri",
-        "Name in Urdu": "سردار سنا اللہ زہری",
-        "Address": "Jhalawan House Zehri Anjeera",
-        "Symbol": "ARROW",
-        "Party": "PPPP",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Saddam Hussain",
-        "Name in Urdu": "صدام حسین",
-        "Address": "Hindu Mohalla Kalat",
-        "Symbol": "SUITCASE",
-        "Party": "Independent",
-        "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Abdul Haq",
-        "Name in Urdu": "عبدالحق",
-        "Address": "Shaikhwasi Jadeed-Abad Mastung",
-        "Symbol": "HUKKAH",
-        "Party": "Independent",
-        "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Ghulam Farooq",
-        "Name in Urdu": "غلام فاروق",
-        "Address": "Korki Mangocher",
-        "Symbol": "CAMEL",
-        "Party": "BNP (Awami)",
-        "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Mubarak Khan",
-        "Name in Urdu": "مبارک خان",
-        "Address": "Passhar Kalat",
-        "Symbol": "TAKHTI",
-        "Party": "JUI (Nazriati)",
-        "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Muhammad Akhtar Mengal",
-        "Name in Urdu": "محمد اختر مینگل",
-        "Address": "Mohalla Sardari-Shaher Wadh Khuzdar",
-        "Symbol": "AXE",
-        "Party": "BNP",
-        "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Muhammad Ishaque",
-        "Name in Urdu": "محمد اسحاق",
-        "Address": "Lehr Kurd Kalat",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Muhammad Iqbal",
-        "Name in Urdu": "محمد اقبال",
-        "Address": "Aziz Abad No.1 Mastung",
-        "Symbol": "MEDAL",
-        "Party": "Independent",
-        "SymbolNo": 173,
-        "symbol_url": "https://symbols.azaadvote.com/medal.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Muhammad Anwar Shahwani",
-        "Name in Urdu": "محمد انور شہوانی",
-        "Address": "Killi Shahwani Kongadh Mastung",
-        "Symbol": "POMEGRANATE",
-        "Party": "Independent",
-        "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
-      },
-      {
-        "SerialNo": 17,
-        "Name in English": "Muhammad Raza",
-        "Name in Urdu": "محمد رضا",
-        "Address": "Mohalla Giawan Kalat",
-        "Symbol": "CANNON",
-        "Party": "TLI",
-        "SymbolNo": 51,
-        "symbol_url": "https://symbols.azaadvote.com/Cannon.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Muhammad Essa",
-        "Name in Urdu": "محمد عیسیٰ",
-        "Address": "Pandran Kalat",
-        "Symbol": "KEY",
-        "Party": "JUP-(Noorani)",
-        "SymbolNo": 154,
-        "symbol_url": "https://symbols.azaadvote.com/Key.png"
-      },
-      {
-        "SerialNo": 19,
-        "Name in English": "Munir Ahmed",
-        "Name in Urdu": "منیر احمد",
-        "Address": "Nichara Kalat",
-        "Symbol": "HUMAN EYE",
-        "Party": "Independent",
-        "SymbolNo": 142,
-        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.png"
-      },
-      {
-        "SerialNo": 20,
-        "Name in English": "Moulana Abdul Ghafoor Haideri",
-        "Name in Urdu": "مولانا عبدالغفور حیدری",
-        "Address": "Koing Kalat",
-        "Symbol": "BOOK",
-        "Party": "JUI (Pakistan)",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 21,
-        "Name in English": "Mir Sami Ullah",
-        "Name in Urdu": "میر سمیع اللہ",
-        "Address": "Sardar Kot Mangocher",
-        "Symbol": "SWALLOW",
-        "Party": "Independent",
-        "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
-      },
-      {
-        "SerialNo": 22,
-        "Name in English": "Mir Abdul Latif Muhammad Hassani",
-        "Name in Urdu": "میر عبداللطیف محمد حسنی",
-        "Address": "Killi Muhammad Hassani Mastung",
-        "Symbol": "SHEEP",
-        "Party": "Independent",
-        "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
-      },
-      {
-        "SerialNo": 23,
-        "Name in English": "Mir Atta Ullah",
-        "Name in Urdu": "میر عطاء اللہ",
-        "Address": "Manzoor Abad Zara Zai Mangocher",
-        "Symbol": "TIGER",
-        "Party": "PML QN",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 24,
-        "Name in English": "Mir Kabir Ahmed",
-        "Name in Urdu": "میر کبیر احمد",
-        "Address": "Zard Ghulam Jan Mangocher Kalat",
-        "Symbol": "SAW",
-        "Party": "NP",
-        "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
-      },
-      {
-        "SerialNo": 25,
-        "Name in English": "Mir Muhammad Aslam",
-        "Name in Urdu": "میر محمد اسلم",
-        "Address": "Gadh Rustum Zai Mastung",
-        "Symbol": "CRANE",
-        "Party": "TLP",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 26,
-        "Name in English": "Naseer Ahmed",
-        "Name in Urdu": "نصیر احمد",
-        "Address": "Surab",
-        "Symbol": "KITE",
-        "Party": "MQM",
-        "SymbolNo": 159,
-        "symbol_url": "https://symbols.azaadvote.com/Kite.png"
-      },
-      {
-        "SerialNo": 27,
-        "Name in English": "Nawabzada Mir Israrullah",
-        "Name in Urdu": "نوابزادہ میر اسراراللہ",
-        "Address": "Baghbana Khuzdar",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      }
-    ],
-    "PageFiles": [
-      "NA Form-33_page-0026.jpg",
-      "NA Form-33_page-0027.jpg",
-      "NA Form-33_page-0028.jpg"
     ]
   },
   "NA-252": {
@@ -1464,7 +195,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 2,
@@ -1474,7 +205,7 @@
         "Symbol": "FRIDGE",
         "Party": "Independent",
         "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
       },
       {
         "SerialNo": 3,
@@ -1484,7 +215,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 4,
@@ -1494,7 +225,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 5,
@@ -1504,7 +235,7 @@
         "Symbol": "MOUNTAIN",
         "Party": "National Democratic Movement",
         "SymbolNo": 180,
-        "symbol_url": "https://symbols.azaadvote.com/mountain.png"
+        "symbol_url": "https://symbols.azaadvote.com/mountain.jpg"
       },
       {
         "SerialNo": 6,
@@ -1514,7 +245,7 @@
         "Symbol": "GAS CYLINDER",
         "Party": "Independent",
         "SymbolNo": 116,
-        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.png"
+        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.jpg"
       },
       {
         "SerialNo": 7,
@@ -1524,7 +255,7 @@
         "Symbol": "EAGLE",
         "Party": "Istehkam-e-Pakistan",
         "SymbolNo": 93,
-        "symbol_url": "https://symbols.azaadvote.com/eagle.png"
+        "symbol_url": "https://symbols.azaadvote.com/eagle.jpg"
       },
       {
         "SerialNo": 8,
@@ -1534,7 +265,7 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": 32,
-        "symbol_url": "https://symbols.azaadvote.com/bottle.png"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
       },
       {
         "SerialNo": 9,
@@ -1544,7 +275,7 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_url": "https://symbols.azaadvote.com/hen.png"
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
       },
       {
         "SerialNo": 10,
@@ -1554,7 +285,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 11,
@@ -1564,7 +295,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png",
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg",
         "pti_backed": {
           "whatsapp_channel": "https://whatsapp.com/channel/0029VaG2WK51SWsujPKiw50g"
         }
@@ -1577,7 +308,7 @@
         "Symbol": "PARROT",
         "Party": "Independent",
         "SymbolNo": 193,
-        "symbol_url": "https://symbols.azaadvote.com/Parrot.png"
+        "symbol_url": "https://symbols.azaadvote.com/Parrot.jpg"
       },
       {
         "SerialNo": 13,
@@ -1587,7 +318,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 14,
@@ -1597,7 +328,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 15,
@@ -1607,7 +338,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 16,
@@ -1617,7 +348,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 17,
@@ -1627,7 +358,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 18,
@@ -1637,7 +368,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 19,
@@ -1647,7 +378,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 20,
@@ -1657,7 +388,7 @@
         "Symbol": "COMPUTER",
         "Party": "Independent",
         "SymbolNo": 67,
-        "symbol_url": "https://symbols.azaadvote.com/computer.png"
+        "symbol_url": "https://symbols.azaadvote.com/computer.jpg"
       },
       {
         "SerialNo": 21,
@@ -1667,7 +398,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 22,
@@ -1677,7 +408,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 23,
@@ -1687,7 +418,7 @@
         "Symbol": "BRICK",
         "Party": "Independent",
         "SymbolNo": 35,
-        "symbol_url": "https://symbols.azaadvote.com/brick.png"
+        "symbol_url": "https://symbols.azaadvote.com/brick.jpg"
       },
       {
         "SerialNo": 24,
@@ -1697,7 +428,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 25,
@@ -1707,7 +438,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 26,
@@ -1717,7 +448,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 27,
@@ -1727,7 +458,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 28,
@@ -1737,7 +468,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 29,
@@ -1747,7 +478,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 30,
@@ -1757,7 +488,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 31,
@@ -1767,7 +498,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 32,
@@ -1777,7 +508,7 @@
         "Symbol": "TABLE",
         "Party": "Independent",
         "SymbolNo": 271,
-        "symbol_url": "https://symbols.azaadvote.com/table.png"
+        "symbol_url": "https://symbols.azaadvote.com/table.jpg"
       },
       {
         "SerialNo": 33,
@@ -1787,7 +518,7 @@
         "Symbol": "MIC",
         "Party": "Independent",
         "SymbolNo": 174,
-        "symbol_url": "https://symbols.azaadvote.com/mic.png"
+        "symbol_url": "https://symbols.azaadvote.com/mic.jpg"
       },
       {
         "SerialNo": 34,
@@ -1797,7 +528,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 35,
@@ -1807,7 +538,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 36,
@@ -1817,7 +548,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 37,
@@ -1827,13 +558,328 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qoumi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_url": "https://symbols.azaadvote.com/Kite.png"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       }
     ],
     "PageFiles": [
       "NA Form-33_page-0003.jpg",
       "NA Form-33_page-0004.jpg",
       "NA Form-33_page-0005.jpg"
+    ]
+  },
+  "NA-253": {
+    "Constituency No": "NA-253",
+    "Constituency Name": "Ziarat-cum-Harnai-Sibi-cum-Kohlu-cum-Dera Bugti",
+    "Returning Officer": "Abdul Hameed Abro",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Ahmed Jan",
+        "Name in Urdu": "احمد جان",
+        "Address": "P.O Box Khost ,Tehsil Shahrag, District Harnai",
+        "Symbol": "MOUNTAIN",
+        "Party": "National Democratic Movement",
+        "SymbolNo": 180,
+        "symbol_url": "https://symbols.azaadvote.com/mountain.jpg"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Babar Marghazani",
+        "Name in Urdu": "بابر مرغزانی",
+        "Address": "Marghazani House House #3, District Sibi",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Jaleel Ahmed",
+        "Name in Urdu": "جلیل احمد",
+        "Address": "Kili Mir Noor Ahmed , Karam Khan Shaher P.O Box Kohlu , District Kohlu",
+        "Symbol": "CARROM BOARD",
+        "Party": "Independent",
+        "SymbolNo": 54,
+        "symbol_url": "https://symbols.azaadvote.com/carrom-board.jpg"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Habib Ur Rehman",
+        "Name in Urdu": "حبیب الرحمن",
+        "Address": "P.O Box Chalez Mir Haji , Sinjavi , District Ziarat",
+        "Symbol": "TREE",
+        "Party": "Pashtoonkhwa Milli Awami Party",
+        "SymbolNo": 295,
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Khuda E Dad Khan",
+        "Name in Urdu": "خدائے داد خان",
+        "Address": "P.O Box Nazai , DistrictHarnai",
+        "Symbol": "SUITCASE",
+        "Party": "Independent",
+        "SymbolNo": 264,
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Khudai Dost Kakar",
+        "Name in Urdu": "خدائی دوست کاکڑ",
+        "Address": "Ahmedon, Tehsil/District Ziarat",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Sardarzada Akbar Khan",
+        "Name in Urdu": "سردارزادہ اکبر خان",
+        "Address": "P.O Box Warekha Kalan , District Harnai",
+        "Symbol": "KETTLE",
+        "Party": "Independent",
+        "SymbolNo": 153,
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Saddam",
+        "Name in Urdu": "صدام",
+        "Address": "Mohala Main Bazar , DistrictHarnai",
+        "Symbol": "FRIDGE",
+        "Party": "Independent",
+        "SymbolNo": 113,
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKUOnu7tkj8sopORl24"
+        }
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Abdul Baqi Tareen",
+        "Name in Urdu": "عبدالباقی ترین",
+        "Address": "Mohala Near Mill Colony , District Harnai",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Abdul Jabbar",
+        "Name in Urdu": "عبدالجبار",
+        "Address": "P.O Box Shahanzai, Chandia , District Sibi.",
+        "Symbol": "CAMEL",
+        "Party": "Balochistan National Party (Awami)",
+        "SymbolNo": 49,
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Attaullah",
+        "Name in Urdu": "عطاءالله",
+        "Address": "Mohala Kalpar Colony,P.O BoxSui, Town Sui, District Dera Bugti",
+        "Symbol": "ELECTRIC HEATER",
+        "Party": "Independent",
+        "SymbolNo": 94,
+        "symbol_url": "https://symbols.azaadvote.com/electric-heater.jpg"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Farid Ullah Dumar",
+        "Name in Urdu": "فرید الله دمار",
+        "Address": "P.O Box Sinjavi,Chalez Kahli, District Ziarat",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Faisal Bashir",
+        "Name in Urdu": "فیصل بشیر",
+        "Address": "Iqbal road, House #154 , District Sibi",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Kalsoom Panezai",
+        "Name in Urdu": "کلثوم پانزئی",
+        "Address": "Zinda , P.O Box Kawas, District Ziarat",
+        "Symbol": "HAND BAG",
+        "Party": "Independent",
+        "SymbolNo": 131,
+        "symbol_url": "https://symbols.azaadvote.com/hand-bag.jpg"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Kohda Yar Marri",
+        "Name in Urdu": "کوہدا یار مری",
+        "Address": "Mohala Marri House Saryabroad Quetta.",
+        "Symbol": "STILL CAMERA",
+        "Party": "Independent",
+        "SymbolNo": 261,
+        "symbol_url": "https://symbols.azaadvote.com/still-camera.jpg"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Gaman Khan",
+        "Name in Urdu": "گمن خان",
+        "Address": "Kili Malik Ghulam BakhshTambo District Kohlu",
+        "Symbol": "AXE",
+        "Party": "Balochistan National Party",
+        "SymbolNo": 14,
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Muhammad Saleem",
+        "Name in Urdu": "محمد سلیم",
+        "Address": "Sohbat Sarai Road, Mohalla Marghzani, District Sibi",
+        "Symbol": "KITE",
+        "Party": "Muttahida Qomi Movement Pakistan",
+        "SymbolNo": 159,
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Mahr Ullah",
+        "Name in Urdu": "مہر اللہ",
+        "Address": "Killi Charhi, P.O Box Warchaom, Wam District Ziarat",
+        "Symbol": "BUNCH OF GRAPES",
+        "Party": "Pashtoonkhwa National Awami Party",
+        "SymbolNo": 42,
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
+      },
+      {
+        "SerialNo": 19,
+        "Name in English": "Mian Khan",
+        "Name in Urdu": "میان خان",
+        "Address": "P.O Box Mat,Sui,Thoni,TehsilSui, District Dera Bugti.",
+        "Symbol": "GOAT",
+        "Party": "Independent",
+        "SymbolNo": 123,
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
+      },
+      {
+        "SerialNo": 20,
+        "Name in English": "Mir Balach Khan Domki",
+        "Name in Urdu": "میر بلاتچ خان ڈومکی",
+        "Address": "Lehri , District Sibi",
+        "Symbol": "KEY WITH LOCK",
+        "Party": "Independent",
+        "SymbolNo": 156,
+        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.jpg"
+      },
+      {
+        "SerialNo": 21,
+        "Name in English": "Mir Bangul Marri",
+        "Name in Urdu": "میر بنگل مری",
+        "Address": "P.O Box Pazza, District Kohlu",
+        "Symbol": "SHEEP",
+        "Party": "Independent",
+        "SymbolNo": 241,
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
+      },
+      {
+        "SerialNo": 22,
+        "Name in English": "Mir Durakh Khan Domki",
+        "Name in Urdu": "میر درخ خان ڈومکی",
+        "Address": "Mohala Sardar Chakar Khan Domki House Lehri, District Sibi",
+        "Symbol": "TYPEWRITER",
+        "Party": "Independent",
+        "SymbolNo": 308,
+        "symbol_url": "https://symbols.azaadvote.com/type-writter.jpg"
+      },
+      {
+        "SerialNo": 23,
+        "Name in English": "Mir Dostain Khan Domki",
+        "Name in Urdu": "میر دوستین خان ڈومکی",
+        "Address": "Mohala Sardar Chakar Khan Domki Lehri , District Sibi",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
+      },
+      {
+        "SerialNo": 24,
+        "Name in English": "Mir Sardar Khan Rind",
+        "Name in Urdu": "میر سردار خان رند",
+        "Address": "Mohala Rind , P.O Box Khas Shoran, Tehsil Sanni ,District Kachhi",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+      },
+      {
+        "SerialNo": 25,
+        "Name in English": "Mir Abdul Nabi Khan",
+        "Name in Urdu": "میر عبدالنبی خان",
+        "Address": "Killi Mir Jalal Khan Rahzanai, P.O Box Tambo, basti MirHazara, District Kohlu",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+      },
+      {
+        "SerialNo": 26,
+        "Name in English": "Mir Liyaqat Ali Khan",
+        "Name in Urdu": "میر لیاقت علی خان",
+        "Address": "Ward No.02, Mohala Koho,District Dera Bugti",
+        "Symbol": "DISH ANTENNA",
+        "Party": "Independent",
+        "SymbolNo": 84,
+        "symbol_url": "https://symbols.azaadvote.com/dish-antenna.jpg"
+      },
+      {
+        "SerialNo": 27,
+        "Name in English": "Naseer Ahmed Kakar",
+        "Name in Urdu": "نصیر احمد کاکڑ",
+        "Address": "Ahmedon ,Tehsil District Ziarat",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+      },
+      {
+        "SerialNo": 28,
+        "Name in English": "Naqeeb Ullah",
+        "Name in Urdu": "نقیب اللہ",
+        "Address": "Uz Liaz , P.O Box Sinjavi,District Ziarat",
+        "Symbol": "RING",
+        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
+        "SymbolNo": 220,
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
+      },
+      {
+        "SerialNo": 29,
+        "Name in English": "Nawabzada Shazain Bugti",
+        "Name in Urdu": "نوابزادہ شازین بگٹی",
+        "Address": "Dera Bugti House, Tehsil /District Dera Bugti",
+        "Symbol": "WHEEL",
+        "Party": "Jamhoori Watan Party",
+        "SymbolNo": 323,
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
+      },
+      {
+        "SerialNo": 30,
+        "Name in English": "Yar Muhammad",
+        "Name in Urdu": "یار محمد",
+        "Address": "P.O Box Qaiser Ghostranzai Talli , District Sibi",
+        "Symbol": "SAW",
+        "Party": "National Party",
+        "SymbolNo": 230,
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
+      }
+    ],
+    "PageFiles": [
+      "NA Form-33_page-0006.jpg",
+      "NA Form-33_page-0007.jpg"
     ]
   },
   "NA-254": {
@@ -1850,7 +896,7 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_url": "https://symbols.azaadvote.com/hen.png"
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
       },
       {
         "SerialNo": 2,
@@ -1860,7 +906,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 3,
@@ -1870,7 +916,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 4,
@@ -1880,7 +926,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 5,
@@ -1890,7 +936,7 @@
         "Symbol": "WHEEL CHAIR",
         "Party": "Independent",
         "SymbolNo": 325,
-        "symbol_url": "https://symbols.azaadvote.com/wheel-chair.png"
+        "symbol_url": "https://symbols.azaadvote.com/wheel-chair.jpg"
       },
       {
         "SerialNo": 6,
@@ -1900,7 +946,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 7,
@@ -1910,7 +956,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qoumi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_url": "https://symbols.azaadvote.com/Kite.png"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 8,
@@ -1920,7 +966,7 @@
         "Symbol": "CHAPRAL",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
       },
       {
         "SerialNo": 9,
@@ -1930,7 +976,7 @@
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
         "SymbolNo": 287,
-        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.png"
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
       },
       {
         "SerialNo": 10,
@@ -1940,7 +986,7 @@
         "Symbol": "SCALE",
         "Party": "Jamat-e-Islami",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 11,
@@ -1950,7 +996,7 @@
         "Symbol": "MIC",
         "Party": "Independent",
         "SymbolNo": 174,
-        "symbol_url": "https://symbols.azaadvote.com/mic.png"
+        "symbol_url": "https://symbols.azaadvote.com/mic.jpg"
       },
       {
         "SerialNo": 12,
@@ -1960,7 +1006,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 13,
@@ -1970,7 +1016,7 @@
         "Symbol": "ELECTRIC POLE",
         "Party": "Jamote Qomi Movement",
         "SymbolNo": 95,
-        "symbol_url": "https://symbols.azaadvote.com/electric-pole.png"
+        "symbol_url": "https://symbols.azaadvote.com/electric-pole.jpg"
       },
       {
         "SerialNo": 14,
@@ -1980,7 +1026,7 @@
         "Symbol": "WHEEL BARROW",
         "Party": "Independent",
         "SymbolNo": 324,
-        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.jpg"
       },
       {
         "SerialNo": 15,
@@ -1990,7 +1036,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 16,
@@ -2000,7 +1046,7 @@
         "Symbol": "TEAPOT",
         "Party": "Independent",
         "SymbolNo": 279,
-        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
+        "symbol_url": "https://symbols.azaadvote.com/teapot.jpg"
       },
       {
         "SerialNo": 17,
@@ -2010,7 +1056,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 18,
@@ -2020,7 +1066,7 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
       },
       {
         "SerialNo": 19,
@@ -2030,7 +1076,7 @@
         "Symbol": "FEATHER",
         "Party": "Independent",
         "SymbolNo": 102,
-        "symbol_url": "https://symbols.azaadvote.com/feather.png"
+        "symbol_url": "https://symbols.azaadvote.com/feather.jpg"
       },
       {
         "SerialNo": 20,
@@ -2040,7 +1086,7 @@
         "Symbol": "HUKKA",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
       },
       {
         "SerialNo": 21,
@@ -2050,7 +1096,7 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": 168,
-        "symbol_url": "https://symbols.azaadvote.com/lotus.png"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
       },
       {
         "SerialNo": 22,
@@ -2060,7 +1106,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan People Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 23,
@@ -2070,7 +1116,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 24,
@@ -2080,7 +1126,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 25,
@@ -2090,7 +1136,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 26,
@@ -2100,7 +1146,7 @@
         "Symbol": "RADIO",
         "Party": "Independent",
         "SymbolNo": 215,
-        "symbol_url": "https://symbols.azaadvote.com/radio.png"
+        "symbol_url": "https://symbols.azaadvote.com/radio.jpg"
       },
       {
         "SerialNo": 27,
@@ -2110,12 +1156,491 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       }
     ],
     "PageFiles": [
       "NA Form-33_page-0008.jpg",
       "NA Form-33_page-0009.jpg"
+    ]
+  },
+  "NA-255": {
+    "Constituency No": "NA-255",
+    "Constituency Name": "Sohbatpur-Cum-Jaffarabad-Cum-Usta Muhammad-Cum-Naseerabad",
+    "Returning Officer": "",
+    "NumPages": 6,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Adam Khan",
+        "Name in Urdu": "آدم خان",
+        "Address": "Village Bahadur Khan PO Rohjan Jamali, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "KETTLE",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Asif Hussain",
+        "Name in Urdu": "آصف حسین",
+        "Address": "Mohallah Shaheed Murad Colony Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "FIRE ENGINE",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/fire-engine.jpg"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Ahmed Nawaz",
+        "Name in Urdu": "احمد نواز",
+        "Address": "Goth Sakhi Sikandar Khan, Dhanda PO Naseer Khan Tehsil & District Sohbatpur",
+        "Symbol": "BENCH",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/bench.jpg"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Asadullah Khan",
+        "Name in Urdu": "اسداللہ خان",
+        "Address": "Village Behram Khan, Sohri Ali abad Janoobi, Tehsil Tamboo District Naseerabad",
+        "Symbol": "CARROM BOARD",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/carrom-board.jpg"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Izhar Hussain",
+        "Name in Urdu": "اضہر حسین",
+        "Address": "Izhar Hussain Khosa, PO Naseer KhanDhanda, Tehsil & District Sohbatpur",
+        "Symbol": "SICKLE",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Azhar Hussain",
+        "Name in Urdu": "اضہر حسین",
+        "Address": "Goth Abdul Hameed Khosa, Jhatpat Dera Murad Jamali, District Naseerabad",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Ameer Zadi",
+        "Name in Urdu": "امیر زادی",
+        "Address": "Village Izhar Hussain Khosa, PO Naseer Khan, Tehsil and district Sohbatpur",
+        "Symbol": "LOTUS",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Javed Jamali",
+        "Name in Urdu": "جاوید جمالی",
+        "Address": "PO Rojhan Jamali, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "ALPHABET 'B'",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/alphabet-b.jpg"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Hazoor Bakhsh",
+        "Name in Urdu": "حضور بخش",
+        "Address": "Horan Khan Jakhrani, Jhudher, Dera Murad Jamali, District Nasirabad",
+        "Symbol": "WHEEL",
+        "Party": "Jamhoori Wattan Party",
+        "SymbolNo": 323,
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Khurram Fattah",
+        "Name in Urdu": "خرم فتح",
+        "Address": "Khuramabad Near Village Kandhi, Mir Hassan Shahpur, Tehsil Chattar District Naseerabad",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Ruqia Sultana",
+        "Name in Urdu": "رقیہ سلطانہ",
+        "Address": "PO Bakhtiarabad, Tehsil Lehri, District Sibi",
+        "Symbol": "TENT",
+        "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
+        "SymbolNo": 282,
+        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Sardar Abdul Sattar Khan",
+        "Name in Urdu": "سردار عبدل ستار خان",
+        "Address": "Sardar Abdul Sattar Khan Sohri, Darabi androon, PO Sardar Allah Waraya Tehsil Chattar, District Naseerabad",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Markazi Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.jpg"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Syed Akbar Shah",
+        "Name in Urdu": "سید اکبر شاہ",
+        "Address": "Goth Qadirabad Balan Shakih PO Majhoorshoribad, Tehsil Tamboo District Naseerabad",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Shakir Hussain",
+        "Name in Urdu": "شاکر حسین",
+        "Address": "Village Haji Sardar Khan Khosa, PO Mir Hassan Dolat, Ghari Androon, Tehsil Chattar, district Naseerabad.",
+        "Symbol": "CHARPAI",
+        "Party": "Independent",
+        "SymbolNo": 56,
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Sabir Hussain",
+        "Name in Urdu": "صابر حسین",
+        "Address": "Ward No.2 Mohallah Bugti, Dera Murad Jamali District Naseerabad",
+        "Symbol": "PARROT",
+        "Party": "Independent",
+        "SymbolNo": 193,
+        "symbol_url": "https://symbols.azaadvote.com/Parrot.jpg"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Sahib Jan",
+        "Name in Urdu": "صاحب جان",
+        "Address": "Village Abdul Hameed Khosa, Tehsil Jhatpat District Naseerabad",
+        "Symbol": "FRIDGE",
+        "Party": "Independent",
+        "SymbolNo": 113,
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Zameer Hussain",
+        "Name in Urdu": "ظمیر حسین",
+        "Address": "Sobdar Khan Jamali, PO Rojhan Jamali, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "EMERGENCY LIGHT",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/emergency-light.jpg"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Abdul Sattar",
+        "Name in Urdu": "عبدالستار",
+        "Address": "Village Haji Ilahi Bakhsh Jamali, Usta Muhammad District Jaffarabad",
+        "Symbol": "KITE",
+        "Party": "Muttahida Qaumi Movement Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
+      },
+      {
+        "SerialNo": 19,
+        "Name in English": "Abdul Latif",
+        "Name in Urdu": "عبداللطیف",
+        "Address": "Village Mir Hassan, PO Mir Hassan Dolat, Ghari Androon, Tehsil Chattar, District Jaffarabad.",
+        "Symbol": "TAKHTI",
+        "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
+      },
+      {
+        "SerialNo": 20,
+        "Name in English": "Abdul Ghafoor",
+        "Name in Urdu": "عبدالغفور",
+        "Address": "Mohallah Lashkar Khan Mengal Dera Murad Jamali District Naseerabad",
+        "Symbol": "AXE",
+        "Party": "Balochistan National Party",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
+      },
+      {
+        "SerialNo": 21,
+        "Name in English": "Abdul Farooq",
+        "Name in Urdu": "عبدالفاروق",
+        "Address": "Village Dildar Khan, PO Hayat Khan, Sohbatpur",
+        "Symbol": "TOWER",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/tower.jpg"
+      },
+      {
+        "SerialNo": 22,
+        "Name in English": "Azizullah Satakzai",
+        "Name in Urdu": "عزیزاللہ ستاکزئی",
+        "Address": "Doctor Azizullah Satakzai, PO Khas, Tehsil Jhatpat District Jaffarabad.",
+        "Symbol": "RING",
+        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
+      },
+      {
+        "SerialNo": 23,
+        "Name in English": "Imran Khan",
+        "Name in Urdu": "عمران خان",
+        "Address": "Ward No. 17 Mohallah Wahid Bakhsh Bungalzai, Dera Murad Jamali, District Naseerabad",
+        "Symbol": "WHEEL CHAIR",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/wheel-chair.jpg"
+      },
+      {
+        "SerialNo": 24,
+        "Name in English": "Ghulam Mujtaba Abro",
+        "Name in Urdu": "غلام مجتبیٰ ابرو",
+        "Address": "Ward No. 11 Mohallah Jakhro, Dera Murad Jamali, District Naseerabad",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+      },
+      {
+        "SerialNo": 25,
+        "Name in English": "Ghulam Nabi",
+        "Name in Urdu": "غلام نبی",
+        "Address": "Sikandarabad Mohallah Marsileen House, Ward No. 19, Dera Murad Jamali District Naseerabad",
+        "Symbol": "RABAB",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/Rabab.jpg"
+      },
+      {
+        "SerialNo": 26,
+        "Name in English": "Farooq Jamali",
+        "Name in Urdu": "فاروق جمالی",
+        "Address": "Mohallah Noor Pur Jamali, Tehsil Usta Muhammad District Jaffarabad",
+        "Symbol": "TABLE",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/table.jpg"
+      },
+      {
+        "SerialNo": 27,
+        "Name in English": "Majida Abro",
+        "Name in Urdu": "ماجدہ ابرو",
+        "Address": "Mohallah Mir Abdul Majid Abro, Dera Murad Jamali, District Naseerabad",
+        "Symbol": "ELECTRIC POLE",
+        "Party": "Jamote Qaumi Movement",
+        "SymbolNo": 95,
+        "symbol_url": "https://symbols.azaadvote.com/electric-pole.jpg"
+      },
+      {
+        "SerialNo": 28,
+        "Name in English": "Muhammad Ismail",
+        "Name in Urdu": "محمد اسماعیل",
+        "Address": "Near Forest Office Baldia Dera Allah Yar Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
+      },
+      {
+        "SerialNo": 29,
+        "Name in English": "Muhammad Akbar",
+        "Name in Urdu": "محمد اکبر",
+        "Address": "Ward No.10 Mohallah Umrani, Dera Murad Jamali, Tehsil Naseerabad",
+        "Symbol": "WIND MILL",
+        "Party": "Independent",
+        "SymbolNo": 327,
+        "symbol_url": "https://symbols.azaadvote.com/Wind-Mill.jpg"
+      },
+      {
+        "SerialNo": 30,
+        "Name in English": "Muhammad Daud",
+        "Name in Urdu": "محمد داؤد",
+        "Address": "Village Belter PO chattar, Tahir kot, Sharki, Tehsil Chattar, district Naseerabad",
+        "Symbol": "KEY",
+        "Party": "Jamiat Ulema-e-Pakistan (Noorani)",
+        "SymbolNo": 154,
+        "symbol_url": "https://symbols.azaadvote.com/Key.jpg"
+      },
+      {
+        "SerialNo": 31,
+        "Name in English": "Muhammad Rafique",
+        "Name in Urdu": "محمد رفیق",
+        "Address": "Mohallah Bhatti, Dera Allah Yar, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
+      },
+      {
+        "SerialNo": 32,
+        "Name in English": "Muhammad Arif Murad",
+        "Name in Urdu": "محمد عارف مراد",
+        "Address": "Near Civil Hospital, Mohallah Ali Rind Street Dera Allah Yar Tehsil Jhatpat District Jaffarabad.",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFzsGpGpLHJCJJJWw3z"
+        }
+      },
+      {
+        "SerialNo": 33,
+        "Name in English": "Muhammad Najeeb",
+        "Name in Urdu": "محمد نجیب",
+        "Address": "Tehsil Road Ward No.5 Tehsil Jhatpat District Naseerabad",
+        "Symbol": "BOWL",
+        "Party": "Independent",
+        "SymbolNo": 34,
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
+      },
+      {
+        "SerialNo": 34,
+        "Name in English": "Muhammad Naeem",
+        "Name in Urdu": "محمد نعیم",
+        "Address": "Haji Ameer Bakhsh Khoosa House Mohallah Baloch Colony, Dera Allah Yar Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "SAW",
+        "Party": "National Party",
+        "SymbolNo": 230,
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
+      },
+      {
+        "SerialNo": 35,
+        "Name in English": "Muhammad Waris",
+        "Name in Urdu": "محمد وارث",
+        "Address": "Ward No. 4 Mohallah Jan Mohammad Jamot, Dera Murad Jamali District Naseerabad",
+        "Symbol": "TAP",
+        "Party": "Independent",
+        "SymbolNo": 277,
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
+      },
+      {
+        "SerialNo": 36,
+        "Name in English": "Mozam Ali Bhanger",
+        "Name in Urdu": "موزم علی ڀنگر",
+        "Address": "Bhanger House, Issai, Panjgur, District Panjgur",
+        "Symbol": "MATCH BOX",
+        "Party": "Independent",
+        "SymbolNo": 172,
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
+      },
+      {
+        "SerialNo": 37,
+        "Name in English": "Mumtaz Ali",
+        "Name in Urdu": "ممتاز علی",
+        "Address": "Mohallah Iqbal Town Dera Murad Jamali, District Naseerabad",
+        "Symbol": "TOOTH BRUSH",
+        "Party": "Independent",
+        "SymbolNo": 287,
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
+      },
+      {
+        "SerialNo": 38,
+        "Name in English": "Mir Changez Khan Jamali",
+        "Name in Urdu": "میر چنگیز خان جمالی",
+        "Address": "Kashmir Kot, PO Rojhan Jamali, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+      },
+      {
+        "SerialNo": 39,
+        "Name in English": "Mir Hussain",
+        "Name in Urdu": "میر حسین",
+        "Address": "Village Mir Hassan Sasoli, PO Azizullah, Satakzai, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+      },
+      {
+        "SerialNo": 40,
+        "Name in English": "Mir Khan Muhammad Jamali",
+        "Name in Urdu": "میر خان محمد جمالی",
+        "Address": "Khan Garh Jamali, Ward No. 24, Dera Allah Yar, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
+      },
+      {
+        "SerialNo": 41,
+        "Name in English": "Mir Godha Khan Hijiwani",
+        "Name in Urdu": "میر گدا خان ھجیوانی",
+        "Address": "PO Usta Muhammad, Ubaidullah Khan Hijiwani, Tehsil Usta Muhammad, District Jaffarabad",
+        "Symbol": "WATER COOLER",
+        "Party": "Independent",
+        "SymbolNo": 317,
+        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg"
+      },
+      {
+        "SerialNo": 42,
+        "Name in English": "Mir Muhammad Sadiq Umrani",
+        "Name in Urdu": "میر محمد صادق عمرانی",
+        "Address": "Mohallah Mohammad Sadiq Umrani, Dera Murad Jamali District Naseerabad",
+        "Symbol": "FORK",
+        "Party": "Independent",
+        "SymbolNo": 109,
+        "symbol_url": "https://symbols.azaadvote.com/fork.jpg"
+      },
+      {
+        "SerialNo": 43,
+        "Name in English": "Nisar Ahmed",
+        "Name in Urdu": "نثار احمد",
+        "Address": "Village Haji Sobhat Khan Bedaar Androon, PO Dera Murad Jamali District Naseerabad",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+      },
+      {
+        "SerialNo": 44,
+        "Name in English": "Naseebullah",
+        "Name in Urdu": "نصیب الله",
+        "Address": "Village Naseebullah Khan Khosa, PO Dera Allah Yar, Dhadho Waah, Tehsil Jhatpat District Jaffarabad",
+        "Symbol": "SCREW DRIVER",
+        "Party": "Independent",
+        "SymbolNo": 237,
+        "symbol_url": "https://symbols.azaadvote.com/screw-driver.jpg"
+      },
+      {
+        "SerialNo": 45,
+        "Name in English": "Nobat Khan",
+        "Name in Urdu": "نوبت خان",
+        "Address": "Village Sokhani, PO Imdad HussainShori, Tehsil Chatter, District Naseerabad",
+        "Symbol": "PRESSURE COOKER",
+        "Party": "Independent",
+        "SymbolNo": 209,
+        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.jpg"
+      },
+      {
+        "SerialNo": 46,
+        "Name in English": "Molahlah Wahid Bakhsh",
+        "Name in Urdu": "ملاہ واہد بخش",
+        "Address": "Bakhsh Bungalzai, Dera murad Jamali, District Nasirabad",
+        "Symbol": "SUIT CASE",
+        "Party": "Independent",
+        "SymbolNo": 264,
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
+      }
+    ],
+    "PageFiles": [
+      "NA Form-33_page-0010.jpg",
+      "NA Form-33_page-0011.jpg",
+      "NA Form-33_page-0012.jpg",
+      "NA Form-33_page-0013.jpg",
+      "NA Form-33_page-0014.jpg",
+      "NA Form-33_page-0015.jpg"
     ]
   },
   "NA-256": {
@@ -2132,7 +1657,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rahe-Haq Party",
         "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.png"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 2,
@@ -2142,7 +1667,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 3,
@@ -2152,7 +1677,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 4,
@@ -2162,7 +1687,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 5,
@@ -2172,7 +1697,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 6,
@@ -2182,7 +1707,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 7,
@@ -2192,7 +1717,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 8,
@@ -2202,7 +1727,7 @@
         "Symbol": "SCALE",
         "Party": "Jamiat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 9,
@@ -2212,7 +1737,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamul Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 10,
@@ -2222,7 +1747,7 @@
         "Symbol": "DUCK",
         "Party": "Independent",
         "SymbolNo": 92,
-        "symbol_url": "https://symbols.azaadvote.com/duck.png"
+        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
       },
       {
         "SerialNo": 11,
@@ -2232,7 +1757,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 12,
@@ -2242,7 +1767,7 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
       },
       {
         "SerialNo": 13,
@@ -2252,7 +1777,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 14,
@@ -2262,7 +1787,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 15,
@@ -2272,12 +1797,396 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       }
     ],
     "PageFiles": [
       "NA Form-33_page-0016.jpg",
       "NA Form-33_page-0017.jpg"
+    ]
+  },
+  "NA-257": {
+    "Constituency No": "NA-257",
+    "Constituency Name": "Hub-cum-Lasbela-cum-Awaran",
+    "Returning Officer": "Syed Rehmatullah",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Jam Kamal Khan",
+        "Name in Urdu": "جام کمال خان",
+        "Address": "Bela Lasbela",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Shah Nawaz Hassan",
+        "Name in Urdu": "شاہ نواز حسن",
+        "Address": "Uthal Lasbela",
+        "Symbol": "GOAT",
+        "Party": "Independent",
+        "SymbolNo": 123,
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Abdul Khalid",
+        "Name in Urdu": "عبدالخالد",
+        "Address": "Gaddani Hub",
+        "Symbol": "KITE",
+        "Party": "Muttahida Qomi Movement Pakistan",
+        "SymbolNo": 159,
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Abdul Wahab",
+        "Name in Urdu": "عبدالوہاب",
+        "Address": "Awaran",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Ali Ahmed",
+        "Name in Urdu": "علی احمد",
+        "Address": "Hub",
+        "Symbol": "SLATE",
+        "Party": "Independent",
+        "SymbolNo": 248,
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Maria Kamal",
+        "Name in Urdu": "ماریہ کمال",
+        "Address": "Bela Lasbela",
+        "Symbol": "HAND PUMP",
+        "Party": "Independent",
+        "SymbolNo": 130,
+        "symbol_url": "https://symbols.azaadvote.com/hand-pump.jpg"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Muhammad Aslam Bhootani",
+        "Name in Urdu": "محمد اسلم بھوتانی",
+        "Address": "Dureji, Hub",
+        "Symbol": "CHARPAI",
+        "Party": "Independent",
+        "SymbolNo": 56,
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Muhammad Akbar",
+        "Name in Urdu": "محمد اکبر",
+        "Address": "Soomniani Hub",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Muhammad Akram",
+        "Name in Urdu": "محمد اکرم",
+        "Address": "Awaran",
+        "Symbol": "SHEEP",
+        "Party": "Independent",
+        "SymbolNo": 241,
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Muhammad Anwar Roohnjo",
+        "Name in Urdu": "محمد انور رونجھو",
+        "Address": "Hub",
+        "Symbol": "BED",
+        "Party": "Independent",
+        "SymbolNo": 23,
+        "symbol_url": "https://symbols.azaadvote.com/bed.jpg"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Muhammad Hanif",
+        "Name in Urdu": "محمد حنیف",
+        "Address": "Hub",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Muhammad Sharif",
+        "Name in Urdu": "محمد شریف",
+        "Address": "Gaddani Hub",
+        "Symbol": "SOFA",
+        "Party": "Independent",
+        "SymbolNo": 249,
+        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Siddique",
+        "Name in Urdu": "محمد صدیق",
+        "Address": "Dureji, Hub",
+        "Symbol": "BRUSH",
+        "Party": "Independent",
+        "SymbolNo": 38,
+        "symbol_url": "https://symbols.azaadvote.com/brush.jpg"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Muhammad Alam",
+        "Name in Urdu": "محمد عالم",
+        "Address": "Awaran",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Muhammad Qasim Khan",
+        "Name in Urdu": "محمد قاسم خان",
+        "Address": "Awaran",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Nawaz Ali Burfat",
+        "Name in Urdu": "نواز علی برفت",
+        "Address": "Hub",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Niaz Muhammad",
+        "Name in Urdu": "نیاز محمد",
+        "Address": "Hub",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Wazir Ahmed Noorani",
+        "Name in Urdu": "وزیر احمد نورانی",
+        "Address": "Hub",
+        "Symbol": "SWALLOW",
+        "Party": "Independent",
+        "SymbolNo": 267,
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
+      }
+    ],
+    "PageFiles": [
+      "NA Form-33_page-0018.jpg",
+      "NA Form-33_page-0019.jpg"
+    ]
+  },
+  "NA-258": {
+    "Constituency No": "NA-258",
+    "Constituency Name": "Panjgur-cum-Kech",
+    "Returning Officer": "Saeed Ali",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Pullain",
+        "Name in Urdu": "پلین",
+        "Address": "Tasp Panjgur",
+        "Symbol": "SAW",
+        "Party": "National Party",
+        "SymbolNo": 230,
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Jassim",
+        "Name in Urdu": "جاسم",
+        "Address": "Pisharaj tangran Tump Dist Kech",
+        "Symbol": "COW",
+        "Party": "Balochistan Awami Party",
+        "SymbolNo": 70,
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Zahid Hussain",
+        "Name in Urdu": "زاہد حسین",
+        "Address": "Grankan District Panjgur",
+        "Symbol": "AXE",
+        "Party": "Balochistan National Party",
+        "SymbolNo": 14,
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Saeedullah",
+        "Name in Urdu": "سعیداللہ",
+        "Address": "Sand e sar Essai Chitkan Panjgur",
+        "Symbol": "TABLE",
+        "Party": "Independent",
+        "SymbolNo": 271,
+        "symbol_url": "https://symbols.azaadvote.com/table.jpg"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Shabbir Ahmed",
+        "Name in Urdu": "شبیر احمد",
+        "Address": "Keel Kore Teshil Gowargo",
+        "Symbol": "RABAB",
+        "Party": "Independent",
+        "SymbolNo": 212,
+        "symbol_url": "https://symbols.azaadvote.com/Rabab.jpg"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Shey Naseem Buledi",
+        "Name in Urdu": "شی نسیم بلیدی",
+        "Address": "Buleda Menaz",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Sabir Ali Baloch",
+        "Name in Urdu": "صابر علی بلوچ",
+        "Address": "Kahan e Zangi Essai District Panjgur",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Zafarullah",
+        "Name in Urdu": "ظفراللہ",
+        "Address": "Khudabadan Panjgur",
+        "Symbol": "HUMAN EYE",
+        "Party": "Independent",
+        "SymbolNo": 142,
+        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.jpg"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Zafarullah Khan Gichki",
+        "Name in Urdu": "ظفراللہ خان گچکی",
+        "Address": "Sordo Panjgur",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Mohammad Aslam Buledi",
+        "Name in Urdu": "محمد اسلم بلیدی",
+        "Address": "Buleda Menaz",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Mohammad Ismail Buledi",
+        "Name in Urdu": "محمد اسماعیل بلیدی",
+        "Address": "Buleda solo",
+        "Symbol": "RING",
+        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
+        "SymbolNo": 220,
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Muhammad Ayub",
+        "Name in Urdu": "محمد ایوب",
+        "Address": "Diz Paroom Teshil Jeaen Paroom",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Javed",
+        "Name in Urdu": "محمد جاوید",
+        "Address": "Bat Alandoor Buleda District Kech",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Markazi Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.jpg"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Muhammad Noor",
+        "Name in Urdu": "محمد نور",
+        "Address": "Garib Abad Chitkan",
+        "Symbol": "HEN",
+        "Party": "Independent",
+        "SymbolNo": 135,
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Muhammad Yaseen",
+        "Name in Urdu": "محمد یاسین",
+        "Address": "gharib Abad Chitkan",
+        "Symbol": "SICKLE",
+        "Party": "Independent",
+        "SymbolNo": 246,
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Mir Chakar Peral",
+        "Name in Urdu": "میر چاکر پرال",
+        "Address": "Shay tagar Ghoarna khana Kech Turbat",
+        "Symbol": "CHAPRAL",
+        "Party": "Independent",
+        "SymbolNo": 56,
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Noor Ahmed Adil",
+        "Name in Urdu": "نور احمد عادل",
+        "Address": "Tar Office Chitkan",
+        "Symbol": "CAMEL",
+        "Party": "Balochistan National Party (Awami)",
+        "SymbolNo": 49,
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Hidayat Ur Rehman",
+        "Name in Urdu": "ہدایت الرحمن",
+        "Address": "Ward No.5 Dak Khana Gawadar suburban Gawadar",
+        "Symbol": "RABBIT",
+        "Party": "Haq Do Tehreek Balochistan",
+        "SymbolNo": 213,
+        "symbol_url": "https://symbols.azaadvote.com/rabbit.jpg"
+      }
+    ],
+    "PageFiles": [
+      "NA Form-33_page-0020.jpg",
+      "NA Form-33_page-0021.jpg"
     ]
   },
   "NA-259": {
@@ -2294,7 +2203,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 2,
@@ -2304,7 +2213,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       },
       {
         "SerialNo": 3,
@@ -2314,7 +2223,7 @@
         "Symbol": "RABBIT",
         "Party": "Haq Do Tehreek Balochistan",
         "SymbolNo": 213,
-        "symbol_url": "https://symbols.azaadvote.com/rabbit.png"
+        "symbol_url": "https://symbols.azaadvote.com/rabbit.jpg"
       },
       {
         "SerialNo": 4,
@@ -2324,7 +2233,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 5,
@@ -2334,7 +2243,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 6,
@@ -2344,7 +2253,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 7,
@@ -2354,7 +2263,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 8,
@@ -2364,7 +2273,7 @@
         "Symbol": "SPECTACLES",
         "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
         "SymbolNo": 252,
-        "symbol_url": "https://symbols.azaadvote.com/spectacles.png"
+        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
       },
       {
         "SerialNo": 9,
@@ -2374,7 +2283,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 10,
@@ -2384,7 +2293,7 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": 168,
-        "symbol_url": "https://symbols.azaadvote.com/lotus.png"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
       },
       {
         "SerialNo": 11,
@@ -2394,7 +2303,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 12,
@@ -2404,7 +2313,7 @@
         "Symbol": "DUCK",
         "Party": "Independent",
         "SymbolNo": 92,
-        "symbol_url": "https://symbols.azaadvote.com/duck.png"
+        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
       },
       {
         "SerialNo": 13,
@@ -2414,7 +2323,7 @@
         "Symbol": "WATER COOLER",
         "Party": "Independent",
         "SymbolNo": 317,
-        "symbol_url": "https://symbols.azaadvote.com/water-cooler.png"
+        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg"
       },
       {
         "SerialNo": 14,
@@ -2424,7 +2333,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 15,
@@ -2434,7 +2343,7 @@
         "Symbol": "SHEEP",
         "Party": "Independent",
         "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
       },
       {
         "SerialNo": 16,
@@ -2444,7 +2353,7 @@
         "Symbol": "CHAPRAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
       },
       {
         "SerialNo": 17,
@@ -2454,7 +2363,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 18,
@@ -2464,7 +2373,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 19,
@@ -2474,7 +2383,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 20,
@@ -2484,7 +2393,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       }
     ],
     "PageFiles": [
@@ -2506,7 +2415,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 2,
@@ -2516,7 +2425,7 @@
         "Symbol": "WHEEL BARROW",
         "Party": "Independent",
         "SymbolNo": 324,
-        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.jpg"
       },
       {
         "SerialNo": 3,
@@ -2526,7 +2435,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 4,
@@ -2536,7 +2445,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 5,
@@ -2546,7 +2455,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 6,
@@ -2556,7 +2465,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 7,
@@ -2566,7 +2475,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 8,
@@ -2576,7 +2485,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 9,
@@ -2586,7 +2495,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 10,
@@ -2596,7 +2505,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 11,
@@ -2606,7 +2515,7 @@
         "Symbol": "LOTUS",
         "Party": "Independent",
         "SymbolNo": 168,
-        "symbol_url": "https://symbols.azaadvote.com/lotus.png"
+        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
       },
       {
         "SerialNo": 12,
@@ -2616,7 +2525,7 @@
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
         "SymbolNo": 287,
-        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.png"
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
       },
       {
         "SerialNo": 13,
@@ -2626,7 +2535,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 14,
@@ -2636,7 +2545,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 15,
@@ -2646,7 +2555,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 16,
@@ -2656,7 +2565,7 @@
         "Symbol": "SICKLE",
         "Party": "Independent",
         "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
+        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
       },
       {
         "SerialNo": 17,
@@ -2666,7 +2575,7 @@
         "Symbol": "PLUG",
         "Party": "Independent",
         "SymbolNo": 207,
-        "symbol_url": "https://symbols.azaadvote.com/plug.png"
+        "symbol_url": "https://symbols.azaadvote.com/plug.jpg"
       },
       {
         "SerialNo": 18,
@@ -2676,7 +2585,7 @@
         "Symbol": "KEY WITH LOCK",
         "Party": "Independent",
         "SymbolNo": 156,
-        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png"
+        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.jpg"
       },
       {
         "SerialNo": 19,
@@ -2686,7 +2595,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 20,
@@ -2696,7 +2605,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 21,
@@ -2706,7 +2615,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 22,
@@ -2716,7 +2625,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 23,
@@ -2726,7 +2635,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 24,
@@ -2736,7 +2645,7 @@
         "Symbol": "CANNON",
         "Party": "Tehreek-e-Labbaik Islam",
         "SymbolNo": 51,
-        "symbol_url": "https://symbols.azaadvote.com/Cannon.png"
+        "symbol_url": "https://symbols.azaadvote.com/Cannon.jpg"
       },
       {
         "SerialNo": 25,
@@ -2746,12 +2655,295 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       }
     ],
     "PageFiles": [
       "NA Form-33_page-0024.jpg",
       "NA Form-33_page-0025.jpg"
+    ]
+  },
+  "NA-261": {
+    "Constituency No": "NA-261",
+    "Constituency Name": "Surab-cum-Kalat-cum-Mastung",
+    "Returning Officer": "",
+    "NumPages": 3,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Bashir Ahmed",
+        "Name in Urdu": "بشیر احمد",
+        "Address": "Kapoto Khurd Kalat",
+        "Symbol": "BRICK",
+        "Party": "Independent",
+        "SymbolNo": 35,
+        "symbol_url": "https://symbols.azaadvote.com/brick.jpg"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Bahi Khan",
+        "Name in Urdu": "باھی خان",
+        "Address": "Gidar Surab",
+        "Symbol": "COW",
+        "Party": "BAP",
+        "SymbolNo": 70,
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Takri Shafkat Ullah Langove",
+        "Name in Urdu": "تکری شفقت اللہ لانگو",
+        "Address": "Barenchna Khaliq Abad Karam Khan Zai Mangocher Kalat",
+        "Symbol": "LAPTOP",
+        "Party": "Independent",
+        "SymbolNo": 163,
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Hafiz Shams Ud Din",
+        "Name in Urdu": "حافظ شمس الدین",
+        "Address": "Lehr Kalat",
+        "Symbol": "SLATE",
+        "Party": "Independent",
+        "SymbolNo": 248,
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Hassan Ali Sasoli",
+        "Name in Urdu": "حسن علی سسولی",
+        "Address": "Zerina Mooli Surab",
+        "Symbol": "PEACOCK",
+        "Party": "independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Zulfiqar Ali",
+        "Name in Urdu": "ذوالفقار علی",
+        "Address": "Barenchna Khaliq Abad Karam Khan Zai Mangocher Kalat",
+        "Symbol": "STETHO SCOPE",
+        "Party": "Independent",
+        "SymbolNo": 260,
+        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.jpg"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Ramen Rustum",
+        "Name in Urdu": "رامین رستم",
+        "Address": "Mohalla Awaran Jaberi Mashkey",
+        "Symbol": "TAP",
+        "Party": "Independent",
+        "SymbolNo": 277,
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Sardar Sana Ullah Zehri",
+        "Name in Urdu": "سردار سنا اللہ زہری",
+        "Address": "Jhalawan House Zehri Anjeera",
+        "Symbol": "ARROW",
+        "Party": "PPPP",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Saddam Hussain",
+        "Name in Urdu": "صدام حسین",
+        "Address": "Hindu Mohalla Kalat",
+        "Symbol": "SUITCASE",
+        "Party": "Independent",
+        "SymbolNo": 264,
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Abdul Haq",
+        "Name in Urdu": "عبدالحق",
+        "Address": "Shaikhwasi Jadeed-Abad Mastung",
+        "Symbol": "HUKKAH",
+        "Party": "Independent",
+        "SymbolNo": 141,
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Ghulam Farooq",
+        "Name in Urdu": "غلام فاروق",
+        "Address": "Korki Mangocher",
+        "Symbol": "CAMEL",
+        "Party": "BNP (Awami)",
+        "SymbolNo": 49,
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Mubarak Khan",
+        "Name in Urdu": "مبارک خان",
+        "Address": "Passhar Kalat",
+        "Symbol": "TAKHTI",
+        "Party": "JUI (Nazriati)",
+        "SymbolNo": 274,
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Akhtar Mengal",
+        "Name in Urdu": "محمد اختر مینگل",
+        "Address": "Mohalla Sardari-Shaher Wadh Khuzdar",
+        "Symbol": "AXE",
+        "Party": "BNP",
+        "SymbolNo": 14,
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Muhammad Ishaque",
+        "Name in Urdu": "محمد اسحاق",
+        "Address": "Lehr Kurd Kalat",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Muhammad Iqbal",
+        "Name in Urdu": "محمد اقبال",
+        "Address": "Aziz Abad No.1 Mastung",
+        "Symbol": "MEDAL",
+        "Party": "Independent",
+        "SymbolNo": 173,
+        "symbol_url": "https://symbols.azaadvote.com/medal.jpg"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Muhammad Anwar Shahwani",
+        "Name in Urdu": "محمد انور شہوانی",
+        "Address": "Killi Shahwani Kongadh Mastung",
+        "Symbol": "POMEGRANATE",
+        "Party": "Independent",
+        "SymbolNo": 208,
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Muhammad Raza",
+        "Name in Urdu": "محمد رضا",
+        "Address": "Mohalla Giawan Kalat",
+        "Symbol": "CANNON",
+        "Party": "TLI",
+        "SymbolNo": 51,
+        "symbol_url": "https://symbols.azaadvote.com/Cannon.jpg"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Muhammad Essa",
+        "Name in Urdu": "محمد عیسیٰ",
+        "Address": "Pandran Kalat",
+        "Symbol": "KEY",
+        "Party": "JUP-(Noorani)",
+        "SymbolNo": 154,
+        "symbol_url": "https://symbols.azaadvote.com/Key.jpg"
+      },
+      {
+        "SerialNo": 19,
+        "Name in English": "Munir Ahmed",
+        "Name in Urdu": "منیر احمد",
+        "Address": "Nichara Kalat",
+        "Symbol": "HUMAN EYE",
+        "Party": "Independent",
+        "SymbolNo": 142,
+        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.jpg"
+      },
+      {
+        "SerialNo": 20,
+        "Name in English": "Moulana Abdul Ghafoor Haideri",
+        "Name in Urdu": "مولانا عبدالغفور حیدری",
+        "Address": "Koing Kalat",
+        "Symbol": "BOOK",
+        "Party": "JUI (Pakistan)",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+      },
+      {
+        "SerialNo": 21,
+        "Name in English": "Mir Sami Ullah",
+        "Name in Urdu": "میر سمیع اللہ",
+        "Address": "Sardar Kot Mangocher",
+        "Symbol": "SWALLOW",
+        "Party": "Independent",
+        "SymbolNo": 267,
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
+      },
+      {
+        "SerialNo": 22,
+        "Name in English": "Mir Abdul Latif Muhammad Hassani",
+        "Name in Urdu": "میر عبداللطیف محمد حسنی",
+        "Address": "Killi Muhammad Hassani Mastung",
+        "Symbol": "SHEEP",
+        "Party": "Independent",
+        "SymbolNo": 241,
+        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
+      },
+      {
+        "SerialNo": 23,
+        "Name in English": "Mir Atta Ullah",
+        "Name in Urdu": "میر عطاء اللہ",
+        "Address": "Manzoor Abad Zara Zai Mangocher",
+        "Symbol": "TIGER",
+        "Party": "PML QN",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
+      },
+      {
+        "SerialNo": 24,
+        "Name in English": "Mir Kabir Ahmed",
+        "Name in Urdu": "میر کبیر احمد",
+        "Address": "Zard Ghulam Jan Mangocher Kalat",
+        "Symbol": "SAW",
+        "Party": "NP",
+        "SymbolNo": 230,
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
+      },
+      {
+        "SerialNo": 25,
+        "Name in English": "Mir Muhammad Aslam",
+        "Name in Urdu": "میر محمد اسلم",
+        "Address": "Gadh Rustum Zai Mastung",
+        "Symbol": "CRANE",
+        "Party": "TLP",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
+      },
+      {
+        "SerialNo": 26,
+        "Name in English": "Naseer Ahmed",
+        "Name in Urdu": "نصیر احمد",
+        "Address": "Surab",
+        "Symbol": "KITE",
+        "Party": "MQM",
+        "SymbolNo": 159,
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
+      },
+      {
+        "SerialNo": 27,
+        "Name in English": "Nawabzada Mir Israrullah",
+        "Name in Urdu": "نوابزادہ میر اسراراللہ",
+        "Address": "Baghbana Khuzdar",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+      }
+    ],
+    "PageFiles": [
+      "NA Form-33_page-0026.jpg",
+      "NA Form-33_page-0027.jpg",
+      "NA Form-33_page-0028.jpg"
     ]
   },
   "NA-262": {
@@ -2768,7 +2960,7 @@
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
         "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.png"
+        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
       },
       {
         "SerialNo": 2,
@@ -2778,7 +2970,7 @@
         "Symbol": "BOTTLE",
         "Party": "Independent",
         "SymbolNo": 32,
-        "symbol_url": "https://symbols.azaadvote.com/bottle.png"
+        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
       },
       {
         "SerialNo": 3,
@@ -2788,7 +2980,7 @@
         "Symbol": "HORSE SHOE",
         "Party": "Independent",
         "SymbolNo": 138,
-        "symbol_url": "https://symbols.azaadvote.com/horse-shoe.png"
+        "symbol_url": "https://symbols.azaadvote.com/horse-shoe.jpg"
       },
       {
         "SerialNo": 4,
@@ -2798,7 +2990,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 5,
@@ -2808,7 +3000,7 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_url": "https://symbols.azaadvote.com/hen.png"
+        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
       },
       {
         "SerialNo": 6,
@@ -2818,7 +3010,7 @@
         "Symbol": "GAS CYLINDER",
         "Party": "Independent",
         "SymbolNo": 116,
-        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.png"
+        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.jpg"
       },
       {
         "SerialNo": 7,
@@ -2828,7 +3020,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.png"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 8,
@@ -2838,7 +3030,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 9,
@@ -2848,7 +3040,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 10,
@@ -2858,7 +3050,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png",
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
         "pti_backed": {
           "whatsapp_channel": "https://whatsapp.com/channel/0029VaKetvt8kyyPNW43Q83z"
         }
@@ -2871,7 +3063,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e- Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 12,
@@ -2881,7 +3073,7 @@
         "Symbol": "DUCK",
         "Party": "Independent",
         "SymbolNo": 92,
-        "symbol_url": "https://symbols.azaadvote.com/duck.png"
+        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
       },
       {
         "SerialNo": 13,
@@ -2891,7 +3083,7 @@
         "Symbol": "LADDER",
         "Party": "Jamiat Ulama-e-Islam Pakistan (S)",
         "SymbolNo": 161,
-        "symbol_url": "https://symbols.azaadvote.com/Ladder.png"
+        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
       },
       {
         "SerialNo": 14,
@@ -2901,7 +3093,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 15,
@@ -2911,7 +3103,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 16,
@@ -2921,7 +3113,7 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.png"
+        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
       },
       {
         "SerialNo": 17,
@@ -2931,7 +3123,7 @@
         "Symbol": "PITCHER",
         "Party": "Mazdoor Olsi Tehreek Pakistan",
         "SymbolNo": 204,
-        "symbol_url": "https://symbols.azaadvote.com/pitcher.png"
+        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
       },
       {
         "SerialNo": 18,
@@ -2941,7 +3133,7 @@
         "Symbol": "CRESCENT",
         "Party": "Hazara Democratic Party",
         "SymbolNo": 72,
-        "symbol_url": "https://symbols.azaadvote.com/crescent.png"
+        "symbol_url": "https://symbols.azaadvote.com/crescent.jpg"
       },
       {
         "SerialNo": 19,
@@ -2951,7 +3143,7 @@
         "Symbol": "SPECTACLES",
         "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
         "SymbolNo": 252,
-        "symbol_url": "https://symbols.azaadvote.com/spectacles.png"
+        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
       },
       {
         "SerialNo": 20,
@@ -2961,7 +3153,7 @@
         "Symbol": "ORANGE",
         "Party": "Independent",
         "SymbolNo": 188,
-        "symbol_url": "https://symbols.azaadvote.com/orange.png"
+        "symbol_url": "https://symbols.azaadvote.com/orange.jpg"
       },
       {
         "SerialNo": 21,
@@ -2971,7 +3163,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 22,
@@ -2981,7 +3173,7 @@
         "Symbol": "REVOLVER",
         "Party": "Tehreek-e-Tahafuz-e-Pakistan",
         "SymbolNo": 218,
-        "symbol_url": "https://symbols.azaadvote.com/revolver.png"
+        "symbol_url": "https://symbols.azaadvote.com/revolver.jpg"
       },
       {
         "SerialNo": 23,
@@ -2991,7 +3183,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 24,
@@ -3001,7 +3193,7 @@
         "Symbol": "ROOTS",
         "Party": "Independent",
         "SymbolNo": 224,
-        "symbol_url": "https://symbols.azaadvote.com/Roots.png"
+        "symbol_url": "https://symbols.azaadvote.com/Roots.jpg"
       },
       {
         "SerialNo": 25,
@@ -3011,7 +3203,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 26,
@@ -3021,7 +3213,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 27,
@@ -3031,7 +3223,7 @@
         "Symbol": "SOFA",
         "Party": "Independent",
         "SymbolNo": 249,
-        "symbol_url": "https://symbols.azaadvote.com/sofa.png"
+        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
       },
       {
         "SerialNo": 28,
@@ -3041,7 +3233,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 29,
@@ -3051,7 +3243,7 @@
         "Symbol": "TABLE LAMP",
         "Party": "Independent",
         "SymbolNo": 272,
-        "symbol_url": "https://symbols.azaadvote.com/lamp.png"
+        "symbol_url": "https://symbols.azaadvote.com/lamp.jpg"
       },
       {
         "SerialNo": 30,
@@ -3061,7 +3253,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 31,
@@ -3071,7 +3263,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 32,
@@ -3081,7 +3273,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 33,
@@ -3091,7 +3283,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 34,
@@ -3101,7 +3293,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 35,
@@ -3111,7 +3303,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 36,
@@ -3121,7 +3313,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 37,
@@ -3131,7 +3323,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 38,
@@ -3141,7 +3333,7 @@
         "Symbol": "BATTERY",
         "Party": "Independent",
         "SymbolNo": 21,
-        "symbol_url": "https://symbols.azaadvote.com/battery.png"
+        "symbol_url": "https://symbols.azaadvote.com/battery.jpg"
       }
     ],
     "PageFiles": [
@@ -3164,7 +3356,7 @@
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
         "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.png"
+        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
       },
       {
         "SerialNo": 2,
@@ -3174,7 +3366,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 3,
@@ -3184,7 +3376,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 4,
@@ -3194,7 +3386,7 @@
         "Symbol": "PHOTOSTAT MACHINE",
         "Party": "Independent",
         "SymbolNo": 200,
-        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.png"
+        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.jpg"
       },
       {
         "SerialNo": 5,
@@ -3204,7 +3396,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 6,
@@ -3214,7 +3406,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 7,
@@ -3224,7 +3416,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party",
         "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 8,
@@ -3234,7 +3426,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 9,
@@ -3244,7 +3436,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 10,
@@ -3254,7 +3446,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 11,
@@ -3264,7 +3456,7 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.png",
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
         "pti_backed": {
           "whatsapp_channel": "https://whatsapp.com/channel/0029VaKslTB0LKZ5w7TJRl3u"
         }
@@ -3277,7 +3469,7 @@
         "Symbol": "SAXOPHONE",
         "Party": "Independent",
         "SymbolNo": 231,
-        "symbol_url": "https://symbols.azaadvote.com/saxophone.png"
+        "symbol_url": "https://symbols.azaadvote.com/saxophone.jpg"
       },
       {
         "SerialNo": 13,
@@ -3287,7 +3479,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 14,
@@ -3297,7 +3489,7 @@
         "Symbol": "SOFA",
         "Party": "Independent",
         "SymbolNo": 249,
-        "symbol_url": "https://symbols.azaadvote.com/sofa.png"
+        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
       },
       {
         "SerialNo": 15,
@@ -3307,7 +3499,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 16,
@@ -3317,7 +3509,7 @@
         "Symbol": "DHOL",
         "Party": "Independent",
         "SymbolNo": 81,
-        "symbol_url": "https://symbols.azaadvote.com/dhol.png"
+        "symbol_url": "https://symbols.azaadvote.com/dhol.jpg"
       },
       {
         "SerialNo": 17,
@@ -3327,7 +3519,7 @@
         "Symbol": "TRACTOR",
         "Party": "Pakistan Muslim League",
         "SymbolNo": 292,
-        "symbol_url": "https://symbols.azaadvote.com/tractor.png"
+        "symbol_url": "https://symbols.azaadvote.com/tractor.jpg"
       },
       {
         "SerialNo": 18,
@@ -3337,7 +3529,7 @@
         "Symbol": "NAIL CUTTER",
         "Party": "Independent",
         "SymbolNo": 182,
-        "symbol_url": "https://symbols.azaadvote.com/nail-cutter.png"
+        "symbol_url": "https://symbols.azaadvote.com/nail-cutter.jpg"
       },
       {
         "SerialNo": 19,
@@ -3347,7 +3539,7 @@
         "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
       },
       {
         "SerialNo": 20,
@@ -3357,7 +3549,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 21,
@@ -3367,7 +3559,7 @@
         "Symbol": "CALCULATOR",
         "Party": "Independent",
         "SymbolNo": 47,
-        "symbol_url": "https://symbols.azaadvote.com/calculator.png"
+        "symbol_url": "https://symbols.azaadvote.com/calculator.jpg"
       },
       {
         "SerialNo": 22,
@@ -3377,7 +3569,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 23,
@@ -3387,7 +3579,7 @@
         "Symbol": "PARROT",
         "Party": "Independent",
         "SymbolNo": 193,
-        "symbol_url": "https://symbols.azaadvote.com/Parrot.png"
+        "symbol_url": "https://symbols.azaadvote.com/Parrot.jpg"
       },
       {
         "SerialNo": 24,
@@ -3397,7 +3589,7 @@
         "Symbol": "LADDER",
         "Party": "Jamiat Ulama-e-Islam Pakistan (5)",
         "SymbolNo": 161,
-        "symbol_url": "https://symbols.azaadvote.com/Ladder.png"
+        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
       },
       {
         "SerialNo": 25,
@@ -3407,7 +3599,7 @@
         "Symbol": "BATTERY",
         "Party": "Independent",
         "SymbolNo": 21,
-        "symbol_url": "https://symbols.azaadvote.com/battery.png"
+        "symbol_url": "https://symbols.azaadvote.com/battery.jpg"
       },
       {
         "SerialNo": 26,
@@ -3417,7 +3609,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 27,
@@ -3427,7 +3619,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 28,
@@ -3437,7 +3629,7 @@
         "Symbol": "AIR COOLER",
         "Party": "Independent",
         "SymbolNo": 4,
-        "symbol_url": "https://symbols.azaadvote.com/air-cooler.png"
+        "symbol_url": "https://symbols.azaadvote.com/air-cooler.jpg"
       },
       {
         "SerialNo": 29,
@@ -3447,7 +3639,7 @@
         "Symbol": "WHEEL",
         "Party": "Jamhoori Watan Party",
         "SymbolNo": 323,
-        "symbol_url": "https://symbols.azaadvote.com/wheel.png"
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
       },
       {
         "SerialNo": 30,
@@ -3457,7 +3649,7 @@
         "Symbol": "GARLAND",
         "Party": "Independent",
         "SymbolNo": 115,
-        "symbol_url": "https://symbols.azaadvote.com/garland.png"
+        "symbol_url": "https://symbols.azaadvote.com/garland.jpg"
       },
       {
         "SerialNo": 31,
@@ -3467,7 +3659,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Raba-e-Haq Party",
         "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.png"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 32,
@@ -3477,7 +3669,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.png"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 33,
@@ -3487,7 +3679,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 34,
@@ -3497,7 +3689,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 35,
@@ -3507,7 +3699,7 @@
         "Symbol": "QUEEN",
         "Party": "Independent",
         "SymbolNo": 211,
-        "symbol_url": "https://symbols.azaadvote.com/queen.png"
+        "symbol_url": "https://symbols.azaadvote.com/queen.jpg"
       },
       {
         "SerialNo": 36,
@@ -3517,7 +3709,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       },
       {
         "SerialNo": 37,
@@ -3527,7 +3719,7 @@
         "Symbol": "CRESCENT",
         "Party": "Hazara Democratic Party",
         "SymbolNo": 72,
-        "symbol_url": "https://symbols.azaadvote.com/crescent.png"
+        "symbol_url": "https://symbols.azaadvote.com/crescent.jpg"
       },
       {
         "SerialNo": 38,
@@ -3537,7 +3729,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 39,
@@ -3547,7 +3739,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 40,
@@ -3557,7 +3749,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 41,
@@ -3567,7 +3759,7 @@
         "Symbol": "TRICYCLE",
         "Party": "Independent",
         "SymbolNo": 296,
-        "symbol_url": "https://symbols.azaadvote.com/tricycle.png"
+        "symbol_url": "https://symbols.azaadvote.com/tricycle.jpg"
       },
       {
         "SerialNo": 42,
@@ -3577,7 +3769,7 @@
         "Symbol": "DOLPHIN",
         "Party": "Independent",
         "SymbolNo": 85,
-        "symbol_url": "https://symbols.azaadvote.com/dolphin.png"
+        "symbol_url": "https://symbols.azaadvote.com/dolphin.jpg"
       },
       {
         "SerialNo": 43,
@@ -3587,7 +3779,7 @@
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
         "SymbolNo": 287,
-        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.png"
+        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
       },
       {
         "SerialNo": 44,
@@ -3597,7 +3789,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 45,
@@ -3607,7 +3799,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 46,
@@ -3617,7 +3809,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       }
     ],
     "PageFiles": [
@@ -3640,7 +3832,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 2,
@@ -3650,7 +3842,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 3,
@@ -3660,7 +3852,7 @@
         "Symbol": "COMPUTER",
         "Party": "Independent",
         "SymbolNo": 67,
-        "symbol_url": "https://symbols.azaadvote.com/computer.png"
+        "symbol_url": "https://symbols.azaadvote.com/computer.jpg"
       },
       {
         "SerialNo": 4,
@@ -3670,7 +3862,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 5,
@@ -3680,7 +3872,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 6,
@@ -3690,7 +3882,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 7,
@@ -3700,7 +3892,7 @@
         "Symbol": "LADDER",
         "Party": "Jamiat Ulama-e-Islam Pakistan (S)",
         "SymbolNo": 161,
-        "symbol_url": "https://symbols.azaadvote.com/Ladder.png"
+        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
       },
       {
         "SerialNo": 8,
@@ -3710,7 +3902,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 9,
@@ -3720,7 +3912,7 @@
         "Symbol": "TAP",
         "Party": "Independent",
         "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
+        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
       },
       {
         "SerialNo": 10,
@@ -3730,7 +3922,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png",
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg",
         "pti_backed": {
           "whatsapp_channel": "https://whatsapp.com/channel/0029VaKBhtwCxoAxt6DcDm3M"
         }
@@ -3743,7 +3935,7 @@
         "Symbol": "HUMAN EYE",
         "Party": "Independent",
         "SymbolNo": 142,
-        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.png"
+        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.jpg"
       },
       {
         "SerialNo": 12,
@@ -3753,7 +3945,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 13,
@@ -3763,7 +3955,7 @@
         "Symbol": "TOWER",
         "Party": "Independent",
         "SymbolNo": 291,
-        "symbol_url": "https://symbols.azaadvote.com/tower.png"
+        "symbol_url": "https://symbols.azaadvote.com/tower.jpg"
       },
       {
         "SerialNo": 14,
@@ -3773,7 +3965,7 @@
         "Symbol": "CALCULATOR",
         "Party": "Independent",
         "SymbolNo": 47,
-        "symbol_url": "https://symbols.azaadvote.com/calculator.png"
+        "symbol_url": "https://symbols.azaadvote.com/calculator.jpg"
       },
       {
         "SerialNo": 15,
@@ -3783,7 +3975,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulama-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 16,
@@ -3793,7 +3985,7 @@
         "Symbol": "KETTLE",
         "Party": "Independent",
         "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
+        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
       },
       {
         "SerialNo": 17,
@@ -3803,7 +3995,7 @@
         "Symbol": "FRIDGE",
         "Party": "Independent",
         "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
+        "symbol_url": "https://symbols.azaadvote.com/fridge.jpg"
       },
       {
         "SerialNo": 18,
@@ -3813,7 +4005,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (FURQ)",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 19,
@@ -3823,7 +4015,7 @@
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
         "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
       },
       {
         "SerialNo": 20,
@@ -3833,7 +4025,7 @@
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
         "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
+        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
       },
       {
         "SerialNo": 21,
@@ -3843,7 +4035,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.png"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 22,
@@ -3853,7 +4045,7 @@
         "Symbol": "KITE",
         "Party": "Muttahida Qomi Movement Pakistan",
         "SymbolNo": 159,
-        "symbol_url": "https://symbols.azaadvote.com/Kite.png"
+        "symbol_url": "https://symbols.azaadvote.com/Kite.jpg"
       },
       {
         "SerialNo": 23,
@@ -3863,7 +4055,7 @@
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
         "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
+        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
       },
       {
         "SerialNo": 24,
@@ -3873,7 +4065,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rah-e-Haq Party",
         "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.png"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 25,
@@ -3883,7 +4075,7 @@
         "Symbol": "PINEAPPLE",
         "Party": "Independent",
         "SymbolNo": 203,
-        "symbol_url": "https://symbols.azaadvote.com/Pineapple.png"
+        "symbol_url": "https://symbols.azaadvote.com/Pineapple.jpg"
       },
       {
         "SerialNo": 26,
@@ -3893,7 +4085,7 @@
         "Symbol": "STETHOSCOPE",
         "Party": "Independent",
         "SymbolNo": 260,
-        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.png"
+        "symbol_url": "https://symbols.azaadvote.com/Stethoscope.jpg"
       },
       {
         "SerialNo": 27,
@@ -3903,7 +4095,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 28,
@@ -3913,7 +4105,7 @@
         "Symbol": "CHAIR",
         "Party": "Pakistan Muslim League",
         "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+        "symbol_url": "https://symbols.azaadvote.com/chair.jpg"
       },
       {
         "SerialNo": 29,
@@ -3923,7 +4115,7 @@
         "Symbol": "GOAT",
         "Party": "Independent",
         "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
+        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
       },
       {
         "SerialNo": 30,
@@ -3933,7 +4125,7 @@
         "Symbol": "SAW",
         "Party": "National Party",
         "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
+        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
       },
       {
         "SerialNo": 31,
@@ -3943,7 +4135,7 @@
         "Symbol": "WHEEL",
         "Party": "Jamhoori Wattan Party",
         "SymbolNo": 323,
-        "symbol_url": "https://symbols.azaadvote.com/wheel.png"
+        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
       },
       {
         "SerialNo": 32,
@@ -3953,7 +4145,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 33,
@@ -3963,7 +4155,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 34,
@@ -3973,7 +4165,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 35,
@@ -3983,7 +4175,7 @@
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
         "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
       }
     ],
     "PageFiles": [
@@ -4006,7 +4198,7 @@
         "Symbol": "FRAME",
         "Party": "Independent",
         "SymbolNo": 112,
-        "symbol_url": "https://symbols.azaadvote.com/frame.png"
+        "symbol_url": "https://symbols.azaadvote.com/frame.jpg"
       },
       {
         "SerialNo": 2,
@@ -4016,7 +4208,7 @@
         "Symbol": "BOWL",
         "Party": "Independent",
         "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
+        "symbol_url": "https://symbols.azaadvote.com/bowl.jpg"
       },
       {
         "SerialNo": 3,
@@ -4026,7 +4218,7 @@
         "Symbol": "LAPTOP",
         "Party": "Independent",
         "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
       },
       {
         "SerialNo": 4,
@@ -4036,7 +4228,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 5,
@@ -4046,7 +4238,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 6,
@@ -4056,7 +4248,7 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       },
       {
         "SerialNo": 7,
@@ -4066,7 +4258,7 @@
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
       },
       {
         "SerialNo": 8,
@@ -4076,7 +4268,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 9,
@@ -4086,7 +4278,7 @@
         "Symbol": "SLATE",
         "Party": "Independent",
         "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
+        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
       },
       {
         "SerialNo": 10,
@@ -4096,7 +4288,7 @@
         "Symbol": "TABLE TENNIS BAT",
         "Party": "Independent",
         "SymbolNo": 273,
-        "symbol_url": "https://symbols.azaadvote.com/table-tennis-bat.png",
+        "symbol_url": "https://symbols.azaadvote.com/table-tennis-bat.jpg",
         "pti_backed": {
           "whatsapp_channel": "https://whatsapp.com/channel/0029VaKex019MF8xSGP4vE3R"
         }
@@ -4109,7 +4301,7 @@
         "Symbol": "COW",
         "Party": "Balochistan Awami Party",
         "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
+        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
       },
       {
         "SerialNo": 12,
@@ -4119,7 +4311,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rahe-Haq Party",
         "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.png"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 13,
@@ -4129,7 +4321,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 14,
@@ -4139,7 +4331,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 15,
@@ -4149,7 +4341,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 16,
@@ -4159,7 +4351,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 17,
@@ -4169,7 +4361,7 @@
         "Symbol": "MATCH BOX",
         "Party": "Independent",
         "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.jpg"
       },
       {
         "SerialNo": 18,
@@ -4179,7 +4371,7 @@
         "Symbol": "NEWSPAPER",
         "Party": "Independent",
         "SymbolNo": 183,
-        "symbol_url": "https://symbols.azaadvote.com/newspaper.png"
+        "symbol_url": "https://symbols.azaadvote.com/newspaper.jpg"
       },
       {
         "SerialNo": 19,
@@ -4189,7 +4381,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 20,
@@ -4199,7 +4391,7 @@
         "Symbol": "SPECTACLES",
         "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
         "SymbolNo": 252,
-        "symbol_url": "https://symbols.azaadvote.com/spectacles.png"
+        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
       },
       {
         "SerialNo": 21,
@@ -4209,7 +4401,7 @@
         "Symbol": "SUITCASE",
         "Party": "Independent",
         "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
       },
       {
         "SerialNo": 22,
@@ -4219,7 +4411,7 @@
         "Symbol": "BRICK",
         "Party": "Independent",
         "SymbolNo": 35,
-        "symbol_url": "https://symbols.azaadvote.com/brick.png"
+        "symbol_url": "https://symbols.azaadvote.com/brick.jpg"
       },
       {
         "SerialNo": 23,
@@ -4229,7 +4421,7 @@
         "Symbol": "PITCHER",
         "Party": "Mazloom Olsi Tehreek Pakistan",
         "SymbolNo": 204,
-        "symbol_url": "https://symbols.azaadvote.com/pitcher.png"
+        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
       }
     ],
     "PageFiles": [
@@ -4251,7 +4443,7 @@
         "Symbol": "TABLE LAMP",
         "Party": "Independent",
         "SymbolNo": 272,
-        "symbol_url": "https://symbols.azaadvote.com/lamp.png"
+        "symbol_url": "https://symbols.azaadvote.com/lamp.jpg"
       },
       {
         "SerialNo": 2,
@@ -4261,7 +4453,7 @@
         "Symbol": "PHOTOSTAT MACHINE",
         "Party": "Independent",
         "SymbolNo": 200,
-        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.png"
+        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.jpg"
       },
       {
         "SerialNo": 3,
@@ -4271,7 +4463,7 @@
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
         "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
       },
       {
         "SerialNo": 4,
@@ -4281,7 +4473,7 @@
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
+        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
       },
       {
         "SerialNo": 5,
@@ -4291,7 +4483,7 @@
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
+        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
       },
       {
         "SerialNo": 6,
@@ -4301,7 +4493,7 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
       },
       {
         "SerialNo": 7,
@@ -4311,7 +4503,7 @@
         "Symbol": "IRON",
         "Party": "Pakistan Rah-e-Haq Party",
         "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.png"
+        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
       },
       {
         "SerialNo": 8,
@@ -4321,7 +4513,7 @@
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
         "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
       },
       {
         "SerialNo": 9,
@@ -4331,7 +4523,7 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
       },
       {
         "SerialNo": 10,
@@ -4341,7 +4533,7 @@
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
         "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.png"
+        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
       },
       {
         "SerialNo": 11,
@@ -4351,7 +4543,7 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
       },
       {
         "SerialNo": 12,
@@ -4361,7 +4553,7 @@
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulema-e-Islam (RJUI)",
         "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
       },
       {
         "SerialNo": 13,
@@ -4371,7 +4563,7 @@
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
         "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.png"
+        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
       },
       {
         "SerialNo": 14,
@@ -4381,7 +4573,7 @@
         "Symbol": "PITCHER",
         "Party": "Mazloom Olsi Tehreek Pakistan",
         "SymbolNo": 204,
-        "symbol_url": "https://symbols.azaadvote.com/pitcher.png"
+        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
       },
       {
         "SerialNo": 15,
@@ -4391,7 +4583,7 @@
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
         "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
       },
       {
         "SerialNo": 16,
@@ -4401,7 +4593,7 @@
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
         "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
       },
       {
         "SerialNo": 17,
@@ -4411,7 +4603,7 @@
         "Symbol": "PARACHUTE",
         "Party": "Independent",
         "SymbolNo": 192,
-        "symbol_url": "https://symbols.azaadvote.com/parachute.png"
+        "symbol_url": "https://symbols.azaadvote.com/parachute.jpg"
       },
       {
         "SerialNo": 18,
@@ -4421,7 +4613,7 @@
         "Symbol": "PRINTER",
         "Party": "Independent",
         "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.png"
+        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
       },
       {
         "SerialNo": 19,
@@ -4431,7 +4623,7 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
       },
       {
         "SerialNo": 20,
@@ -4441,204 +4633,12 @@
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
         "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
       }
     ],
     "PageFiles": [
       "NA Form-33_page-0040.jpg",
       "NA Form-33_page-0041.jpg"
-    ]
-  },
-  "NA-258": {
-    "Constituency No": "NA-258",
-    "Constituency Name": "Panjgur-cum-Kech",
-    "Returning Officer": "Saeed Ali",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Pullain",
-        "Name in Urdu": "پلین",
-        "Address": "Tasp Panjgur",
-        "Symbol": "SAW",
-        "Party": "National Party",
-        "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Jassim",
-        "Name in Urdu": "جاسم",
-        "Address": "Pisharaj tangran Tump Dist Kech",
-        "Symbol": "COW",
-        "Party": "Balochistan Awami Party",
-        "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Zahid Hussain",
-        "Name in Urdu": "زاہد حسین",
-        "Address": "Grankan District Panjgur",
-        "Symbol": "AXE",
-        "Party": "Balochistan National Party",
-        "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Saeedullah",
-        "Name in Urdu": "سعیداللہ",
-        "Address": "Sand e sar Essai Chitkan Panjgur",
-        "Symbol": "TABLE",
-        "Party": "Independent",
-        "SymbolNo": 271,
-        "symbol_url": "https://symbols.azaadvote.com/table.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Shabbir Ahmed",
-        "Name in Urdu": "شبیر احمد",
-        "Address": "Keel Kore Teshil Gowargo",
-        "Symbol": "RABAB",
-        "Party": "Independent",
-        "SymbolNo": 212,
-        "symbol_url": "https://symbols.azaadvote.com/Rabab.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Shey Naseem Buledi",
-        "Name in Urdu": "شی نسیم بلیدی",
-        "Address": "Buleda Menaz",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Sabir Ali Baloch",
-        "Name in Urdu": "صابر علی بلوچ",
-        "Address": "Kahan e Zangi Essai District Panjgur",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Zafarullah",
-        "Name in Urdu": "ظفراللہ",
-        "Address": "Khudabadan Panjgur",
-        "Symbol": "HUMAN EYE",
-        "Party": "Independent",
-        "SymbolNo": 142,
-        "symbol_url": "https://symbols.azaadvote.com/Human-Eye.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Zafarullah Khan Gichki",
-        "Name in Urdu": "ظفراللہ خان گچکی",
-        "Address": "Sordo Panjgur",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Mohammad Aslam Buledi",
-        "Name in Urdu": "محمد اسلم بلیدی",
-        "Address": "Buleda Menaz",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Mohammad Ismail Buledi",
-        "Name in Urdu": "محمد اسماعیل بلیدی",
-        "Address": "Buleda solo",
-        "Symbol": "RING",
-        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
-        "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Muhammad Ayub",
-        "Name in Urdu": "محمد ایوب",
-        "Address": "Diz Paroom Teshil Jeaen Paroom",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Muhammad Javed",
-        "Name in Urdu": "محمد جاوید",
-        "Address": "Bat Alandoor Buleda District Kech",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Markazi Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Muhammad Noor",
-        "Name in Urdu": "محمد نور",
-        "Address": "Garib Abad Chitkan",
-        "Symbol": "HEN",
-        "Party": "Independent",
-        "SymbolNo": 135,
-        "symbol_url": "https://symbols.azaadvote.com/hen.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Muhammad Yaseen",
-        "Name in Urdu": "محمد یاسین",
-        "Address": "gharib Abad Chitkan",
-        "Symbol": "SICKLE",
-        "Party": "Independent",
-        "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Mir Chakar Peral",
-        "Name in Urdu": "میر چاکر پرال",
-        "Address": "Shay tagar Ghoarna khana Kech Turbat",
-        "Symbol": "CHAPRAL",
-        "Party": "Independent",
-        "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
-      },
-      {
-        "SerialNo": 17,
-        "Name in English": "Noor Ahmed Adil",
-        "Name in Urdu": "نور احمد عادل",
-        "Address": "Tar Office Chitkan",
-        "Symbol": "CAMEL",
-        "Party": "Balochistan National Party (Awami)",
-        "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Hidayat Ur Rehman",
-        "Name in Urdu": "ہدایت الرحمن",
-        "Address": "Ward No.5 Dak Khana Gawadar suburban Gawadar",
-        "Symbol": "RABBIT",
-        "Party": "Haq Do Tehreek Balochistan",
-        "SymbolNo": 213,
-        "symbol_url": "https://symbols.azaadvote.com/rabbit.png"
-      }
-    ],
-    "PageFiles": [
-      "NA Form-33_page-0020.jpg",
-      "NA Form-33_page-0021.jpg"
     ]
   }
 }
