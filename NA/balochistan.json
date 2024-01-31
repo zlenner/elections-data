@@ -2565,7 +2565,10 @@
         "Symbol": "PLUG",
         "Party": "Independent",
         "SymbolNo": 207,
-        "symbol_url": "https://symbols.azaadvote.com/plug.png"
+        "symbol_url": "https://symbols.azaadvote.com/plug.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKGHbD002T7oDH0K92b"
+        }
       },
       {
         "SerialNo": 18,
@@ -3030,7 +3033,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/clock.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKetvt8kyyPNW43Q83z"
+        }
       },
       {
         "SerialNo": 10,
