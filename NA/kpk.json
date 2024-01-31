@@ -6216,13 +6216,16 @@
       },
       {
         "SerialNo": 10,
-        "Name in English": "Saifoor Abad P/O Hoti Mardan",
-        "Name in Urdu": "محبوب علی",
-        "Address": "Hoti Mardan",
+        "Name in English": "Mujahid Ali",
+        "Name in Urdu": "مجاہد علی",
+        "Address": "Saifoor Abad P/O Hoti Mardan",
         "Symbol": "DOVE",
         "Party": "Independent",
         "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+        "symbol_url": "https://symbols.azaadvote.com/dove.png",
+        "pti_backed": {
+            "whatsapp_channel": "https://whatsapp.com/channel/0029VaGINV27IUYcxc3Li23i"
+        }
       },
       {
         "SerialNo": 11,
