@@ -2192,18 +2192,17 @@
   "NA-259": {
     "Constituency No": "NA-259",
     "Constituency Name": "Kech-Cum-Gwadar",
-    "Returning Officer": "",
+    "Returning Officer": "Tahsildar Ali",
     "NumPages": 2,
     "Candidates": [
       {
         "SerialNo": 1,
         "Name in English": "Ayaz Qadir",
         "Name in Urdu": "ایاز قادر",
-        "Address": "Muballa Thesil Turbat District Kech",
+        "Address": "Muhalla Bug Tehsil Turbat District Kech",
         "Symbol": "AEROPLANE",
         "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+        "SymbolNo": 2
       },
       {
         "SerialNo": 2,
@@ -2212,8 +2211,7 @@
         "Address": "P.O Tump Raeesabad Tehsil Tump District Kech",
         "Symbol": "SWALLOW",
         "Party": "Independent",
-        "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
+        "SymbolNo": 267
       },
       {
         "SerialNo": 3,
@@ -2222,18 +2220,16 @@
         "Address": "Sohrabi Ward Gwadar",
         "Symbol": "RABBIT",
         "Party": "Haq Do Tehreek Balochistan",
-        "SymbolNo": 213,
-        "symbol_url": "https://symbols.azaadvote.com/rabbit.jpg"
+        "SymbolNo": 213
       },
       {
         "SerialNo": 4,
         "Name in English": "Hafeez Ullah",
-        "Name in Urdu": "حفیظ اللہ",
+        "Name in Urdu": "حافظ الله",
         "Address": "Mullah Band Ward Gwadar",
         "Symbol": "DOVE",
         "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
+        "SymbolNo": 88
       },
       {
         "SerialNo": 5,
@@ -2242,8 +2238,7 @@
         "Address": "Bahman Nok Abad District Turbat",
         "Symbol": "BOOK",
         "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+        "SymbolNo": 31
       },
       {
         "SerialNo": 6,
@@ -2252,8 +2247,7 @@
         "Address": "Kallag Targan Tehsil Tump District Kech",
         "Symbol": "PEACOCK",
         "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+        "SymbolNo": 194
       },
       {
         "SerialNo": 7,
@@ -2262,28 +2256,25 @@
         "Address": "Zahoor Shah Hashmi Ward Gwadar",
         "Symbol": "KETTLE",
         "Party": "Independent",
-        "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+        "SymbolNo": 153
       },
       {
         "SerialNo": 8,
-        "Name in English": "Saeed Ahmed",
-        "Name in Urdu": "سعید احمد",
+        "Name in English": "Saeed Ahmed S/o Haji Moula Dad",
+        "Name in Urdu": "سعید احمد بن حاجی مولا داد",
         "Address": "Balicha Tehsil Tump District Kech",
         "Symbol": "SPECTACLES",
-        "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
-        "SymbolNo": 252,
-        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
+        "Party": "Markazi Jamiat Ahl-e-Hadith Pakistan",
+        "SymbolNo": 252
       },
       {
         "SerialNo": 9,
-        "Name in English": "Saeed Ahmed",
-        "Name in Urdu": "سعید احمد",
+        "Name in English": "Saeed Ahmed S/o Faiz Muhammad",
+        "Name in Urdu": "سعید احمد بن فیض محمد",
         "Address": "Shehzada Bazar Tehsil Jiwani District Gwadar",
         "Symbol": "CAMEL",
         "Party": "Balochistan National Party (Awami)",
-        "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
+        "SymbolNo": 49
       },
       {
         "SerialNo": 10,
@@ -2292,113 +2283,93 @@
         "Address": "Mand Bullo Tehsil Mand District Kech",
         "Symbol": "LOTUS",
         "Party": "Independent",
-        "SymbolNo": 168,
-        "symbol_url": "https://symbols.azaadvote.com/lotus.jpg"
+        "SymbolNo": 168
       },
       {
         "SerialNo": 11,
         "Name in English": "Syed Ehsan Shah",
-        "Name in Urdu": "سید احسان شاہ",
+        "Name in Urdu": "سید احسان شاه",
         "Address": "Aslam Abad Zor Bazar Junobi Turbat District Kech",
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
-        "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
+        "SymbolNo": 14
       },
       {
         "SerialNo": 12,
         "Name in English": "Syed Taimoor Shah",
-        "Name in Urdu": "سید تیمور شاہ",
-        "Address": "Muhalla Zor bazar Joonobi Turbat District Kech",
+        "Name in Urdu": "سید تیمور شاه",
+        "Address": "Muhalla Zor bazar Jonobi Turbat District Kech",
         "Symbol": "DUCK",
         "Party": "Independent",
-        "SymbolNo": 92,
-        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
+        "SymbolNo": 92
       },
       {
         "SerialNo": 13,
-        "Name in English": "Abdul Ghafoor Hoth",
-        "Name in Urdu": "عبدالغفور ہوتھ",
-        "Address": "Muhalla Colony Thana Ward Gwadar",
-        "Symbol": "WATER COOLER",
-        "Party": "Independent",
-        "SymbolNo": 317,
-        "symbol_url": "https://symbols.azaadvote.com/water-cooler.jpg"
+        "Name in English": "Abdul Malik",
+        "Name in Urdu": "عبدالمالک",
+        "Address": "Hajji Abdul Salam Muhalla Turbat",
+        "Symbol": "SAW",
+        "Party": "National Party",
+        "SymbolNo": 230
       },
       {
         "SerialNo": 14,
-        "Name in English": "Abdul Malik",
-        "Name in Urdu": "عبدالمالک",
-        "Address": "Haji Abdul Salam Muhalla Turbat District Kech",
-        "Symbol": "SAW",
-        "Party": "National Party",
-        "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
-      },
-      {
-        "SerialNo": 15,
         "Name in English": "Fida Ahmed",
         "Name in Urdu": "فدا احمد",
         "Address": "P.O Mand Balochabad Tehsil Mand District Kech",
         "Symbol": "SHEEP",
         "Party": "Independent",
-        "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.jpg"
+        "SymbolNo": 241
       },
       {
-        "SerialNo": 16,
+        "SerialNo": 15,
         "Name in English": "Qasim",
         "Name in Urdu": "قاسم",
         "Address": "Kuddan Tehsil Dasht District Kech",
         "Symbol": "CHAPRAI",
         "Party": "Independent",
-        "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.jpg"
+        "SymbolNo": 56
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Kauda Babar",
+        "Name in Urdu": "کوڈا بابر",
+        "Address": "Sohrabi Ward Gwadar",
+        "Symbol": "COW",
+        "Party": "Balochistan Awami Party",
+        "SymbolNo": 70
       },
       {
         "SerialNo": 17,
-        "Name in English": "Kauda Babar",
-        "Name in Urdu": "کودا بابر",
-        "Address": "Sohrab Ward Gwadar",
-        "Symbol": "COW",
-        "Party": "Balochistan Awami Party",
-        "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
-      },
-      {
-        "SerialNo": 18,
         "Name in English": "Malik Shah",
         "Name in Urdu": "ملک شاہ",
         "Address": "Lashkarab Tehsil Dalbandin District Chagai",
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+        "SymbolNo": 12
       },
       {
-        "SerialNo": 19,
+        "SerialNo": 18,
         "Name in English": "Naveed Jan Baloch",
         "Name in Urdu": "نوید جان بلوچ",
         "Address": "Ward No 06 Muhalla Mir Rahmat Kalmati Tehsil Pasni District Gwadar",
         "Symbol": "SICKLE",
         "Party": "Independent",
-        "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.jpg"
+        "SymbolNo": 246
       },
       {
-        "SerialNo": 20,
+        "SerialNo": 19,
         "Name in English": "Yaqoob Bizenjo",
         "Name in Urdu": "یعقوب بزنجو",
         "Address": "Muhalla Baloch Ward Gwadar",
         "Symbol": "TAP",
         "Party": "Independent",
-        "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
+        "SymbolNo": 277
       }
     ],
     "PageFiles": [
-      "NA Form-33_page-0022.jpg",
-      "NA Form-33_page-0023.jpg"
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00001.jpg",
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00002.jpg"
     ]
   },
   "NA-260": {
@@ -2959,28 +2930,25 @@
         "Address": "Hazara Town, Quetta.",
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
-        "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
+        "SymbolNo": 282
       },
       {
         "SerialNo": 2,
         "Name in English": "Hikmat Ullah Kakar",
-        "Name in Urdu": "حکمت اللہ کاکڑ",
-        "Address": "Killi Alazai Hana, Quetta.",
+        "Name in Urdu": "حکمت الله کاکڑ",
+        "Address": "Killi Alakzai Hana, Quetta.",
         "Symbol": "BOTTLE",
         "Party": "Independent",
-        "SymbolNo": 32,
-        "symbol_url": "https://symbols.azaadvote.com/bottle.jpg"
+        "SymbolNo": 32
       },
       {
         "SerialNo": 3,
         "Name in English": "Hayat Ullah Khan",
-        "Name in Urdu": "حیات اللہ خان",
-        "Address": "Tolararn Road, Quetta.",
+        "Name in Urdu": "حیات الله خان",
+        "Address": "Tolaram Road, Quetta.",
         "Symbol": "HORSE SHOE",
         "Party": "Independent",
-        "SymbolNo": 138,
-        "symbol_url": "https://symbols.azaadvote.com/horse-shoe.jpg"
+        "SymbolNo": 138
       },
       {
         "SerialNo": 4,
@@ -2989,311 +2957,277 @@
         "Address": "Killi Sarghar Post Office Muslim Bagh.",
         "Symbol": "BUNCH OF GRAPES",
         "Party": "Pashtoonkhwa National Awami Party",
-        "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
+        "SymbolNo": 42
       },
       {
         "SerialNo": 5,
         "Name in English": "Dawood Shah",
-        "Name in Urdu": "داود شاہ",
-        "Address": "Spini Road, Quetta.",
+        "Name in Urdu": "داوود شاه",
+        "Address": "Sipni Road, Quetta.",
         "Symbol": "HEN",
         "Party": "Independent",
-        "SymbolNo": 135,
-        "symbol_url": "https://symbols.azaadvote.com/hen.jpg"
+        "SymbolNo": 135
       },
       {
         "SerialNo": 6,
         "Name in English": "Salar Khan Kakar",
         "Name in Urdu": "سالار خان کاکڑ",
-        "Address": "H#445-7/1048-8 Shaldara Alhalinda Road, Quetta.",
+        "Address": "H#455-7/1048-8 Shaldara Alhadina Road, Quetta.",
         "Symbol": "GAS CYLINDER",
         "Party": "Independent",
-        "SymbolNo": 116,
-        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.jpg"
+        "SymbolNo": 116
       },
       {
         "SerialNo": 7,
-        "Name in English": "Sakina Parveen",
-        "Name in Urdu": "سکینہ پروین",
-        "Address": "H#70-B Chiltan Housing Airport Road, Quetta.",
-        "Symbol": "PRINTER",
+        "Name in English": "Saif Ullah Khan",
+        "Name in Urdu": "سیف الله خان",
+        "Address": "H#0052 Killi Chasma Chuzci, Quetta.",
+        "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
-        "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
+        "SymbolNo": 73
       },
       {
         "SerialNo": 8,
-        "Name in English": "Saifullah Khan",
-        "Name in Urdu": "سیف اللہ خان",
-        "Address": "HF#0052 Killi Chashma Chuzai, Quetta.",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "Name in English": "Sabira Asad",
+        "Name in Urdu": "صابره اسد",
+        "Address": "Qaidabad Bahdur Road, Quetta.",
+        "Symbol": "SAW",
+        "Party": "National Party",
+        "SymbolNo": 230
       },
       {
         "SerialNo": 9,
-        "Name in English": "Sabira Asad",
-        "Name in Urdu": "ثبیرہ اسد",
-        "Address": "Qaiadabd Bahdur Road, Quetta.",
-        "Symbol": "SAW",
-        "Party": "National Party",
-        "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
-      },
-      {
-        "SerialNo": 10,
         "Name in English": "Adil Khan Bazai",
-        "Name in Urdu": "ادیل خان بازئی",
+        "Name in Urdu": "عادل خان بازئ",
         "Address": "Airport Road, Quetta.",
         "Symbol": "CLOCK",
         "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg",
-        "pti_backed": {
-          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKetvt8kyyPNW43Q83z"
-        }
+        "SymbolNo": 60
       },
       {
-        "SerialNo": 11,
+        "SerialNo": 10,
         "Name in English": "Abdul Bari",
         "Name in Urdu": "عبدالباری",
         "Address": "Techer Colony No 2 Nawa Killi, Quetta.",
         "Symbol": "RING",
         "Party": "Rabita Jamiat Ulma-e- Islam (RJUI)",
-        "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
+        "SymbolNo": 220
       },
       {
-        "SerialNo": 12,
+        "SerialNo": 11,
         "Name in English": "Abdul Hakeem",
         "Name in Urdu": "عبدالحکیم",
         "Address": "Westran Bypass Zartaj Housain, Quetta.",
         "Symbol": "DUCK",
         "Party": "Independent",
-        "SymbolNo": 92,
-        "symbol_url": "https://symbols.azaadvote.com/duck.jpg"
+        "SymbolNo": 92
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Abdul Khaliq",
+        "Name in Urdu": "عبدالخالق",
+        "Address": "Badzai Colony Mitha Chowk, Quetta.",
+        "Symbol": "LADDER",
+        "Party": "Jamiat Ulama-e-Islam Pakistan (5)",
+        "SymbolNo": 161
       },
       {
         "SerialNo": 13,
-        "Name in English": "Abdul Khaliq",
-        "Name in Urdu": "عبدالخالق",
-        "Address": "Badzai Colony Mita Chowk, Quetta.",
-        "Symbol": "LADDER",
-        "Party": "Jamiat Ulama-e-Islam Pakistan (S)",
-        "SymbolNo": 161,
-        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
+        "Name in English": "Abdul Manan Son Of Haji Abdul Salam",
+        "Name in Urdu": "عبدالمنان بن حاجی عبدالسلام",
+        "Address": "Al Mahtaz Colony Nawa Killi, Quetta.",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194
       },
       {
         "SerialNo": 14,
-        "Name in English": "Abdul Manan Son Of Haji Abdul Salam",
-        "Name in Urdu": "عبدالمنان ولد حاجی عبدالسلام",
-        "Address": "Al Mahfilz Colony Nawa Killi, Quetta.",
-        "Symbol": "PEACOCK",
+        "Name in English": "Abdul Manan Son Of Habib Ullah",
+        "Name in Urdu": "عبدالمنان بن حبیب الله",
+        "Address": "Killi Khezai Abad Barwri Road, Quetta.",
+        "Symbol": "AEROPLANE",
         "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+        "SymbolNo": 2
       },
       {
         "SerialNo": 15,
-        "Name in English": "Abdul Manan Son Of Habibullah",
-        "Name in Urdu": "عبدالمنان ولد حبیب اللہ",
-        "Address": "Killi Khezakai Abad Bawri Road, Quetta.",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
-      },
-      {
-        "SerialNo": 16,
         "Name in English": "Abdul Wajid",
         "Name in Urdu": "عبدالواجد",
         "Address": "Anwar Shah Colony Almo, Quetta.",
         "Symbol": "RACKET",
         "Party": "Independent",
-        "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.jpg"
+        "SymbolNo": 214
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Ajab Khan",
+        "Name in Urdu": "عجب خان",
+        "Address": "Abdul Qadus Road Pashtoon Abad, Quetta.",
+        "Symbol": "PITCHER",
+        "Party": "Mazloom Olsi Tehreek Pakistan",
+        "SymbolNo": 204
       },
       {
         "SerialNo": 17,
-        "Name in English": "Ajab Khan",
-        "Name in Urdu": "اجب خان",
-        "Address": "Abdul Qudas Road Pashtoon Abad, Quetta.",
-        "Symbol": "PITCHER",
-        "Party": "Mazdoor Olsi Tehreek Pakistan",
-        "SymbolNo": 204,
-        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
+        "Name in English": "Aziz Ullah",
+        "Name in Urdu": "عزیز اللہ",
+        "Address": "Hazara Town Barwari Road, Quetta.",
+        "Symbol": "CRESCENT",
+        "Party": "Hazara Democratic Party",
+        "SymbolNo": 72
       },
       {
         "SerialNo": 18,
-        "Name in English": "Aziz Ullah",
-        "Name in Urdu": "عزیز اللہ",
-        "Address": "Hazara Town Barwri Road, Quetta.",
-        "Symbol": "CRESCENT",
-        "Party": "Hazara Democratic Party",
-        "SymbolNo": 72,
-        "symbol_url": "https://symbols.azaadvote.com/crescent.jpg"
+        "Name in English": "Ali Muhammad",
+        "Name in Urdu": "علی محمد",
+        "Address": "H#123 Alwbra)Tura House Muslim Abad Airport Road, Quetta.",
+        "Symbol": "SPECTACLES",
+        "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
+        "SymbolNo": 252
       },
       {
         "SerialNo": 19,
-        "Name in English": "Ali Muhammad",
-        "Name in Urdu": "علی محمد",
-        "Address": "H#123 AbulTurab House Muslim Abad Airport Road, Quetta.",
-        "Symbol": "SPECTACLES",
-        "Party": "Markazi Jamiat Ahle-Hadith Pakistan",
-        "SymbolNo": 252,
-        "symbol_url": "https://symbols.azaadvote.com/spectacles.jpg"
+        "Name in English": "Gul Baran",
+        "Name in Urdu": "گل بران",
+        "Address": "Muslim Itihad Colony Ghazi Aslam Khan Road, Quetta.",
+        "Symbol": "ORANGE",
+        "Party": "Independent",
+        "SymbolNo": 188
       },
       {
         "SerialNo": 20,
-        "Name in English": "Gul Baran",
-        "Name in Urdu": "گل بران",
-        "Address": "Muslim Ihad Colony Ghazi Aslam Khan Road, Quetta.",
-        "Symbol": "ORANGE",
+        "Name in English": "Gul Mohammad",
+        "Name in Urdu": "گل محمد",
+        "Address": "Killi Minhas Ballal, Quetta.",
+        "Symbol": "LAPTOP",
         "Party": "Independent",
-        "SymbolNo": 188,
-        "symbol_url": "https://symbols.azaadvote.com/orange.jpg"
+        "SymbolNo": 163
       },
       {
         "SerialNo": 21,
-        "Name in English": "Gul Mohammad",
-        "Name in Urdu": "گل محمد",
-        "Address": "Killi Minhas Ballali, Quetta.",
-        "Symbol": "LAPTOP",
-        "Party": "Independent",
-        "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
-      },
-      {
-        "SerialNo": 22,
         "Name in English": "Muhammad Asif Son Of Paind Khan",
-        "Name in Urdu": "محمد اصیف بن پائند خان",
+        "Name in Urdu": "محمد آصف بن پینڈ خان",
         "Address": "Killi Gul Muhammad Airport Road, Quetta.",
         "Symbol": "REVOLVER",
         "Party": "Tehreek-e-Tahafuz-e-Pakistan",
-        "SymbolNo": 218,
-        "symbol_url": "https://symbols.azaadvote.com/revolver.jpg"
+        "SymbolNo": 218
+      },
+      {
+        "SerialNo": 22,
+        "Name in English": "Muhammad Asif Son Of Muhammad Ameer",
+        "Name in Urdu": "محمد آصف بن محمد امیر",
+        "Address": "H#8 Street No1 Hazaratown, Quetta.",
+        "Symbol": "TOP",
+        "Party": "Independent",
+        "SymbolNo": 277
       },
       {
         "SerialNo": 23,
-        "Name in English": "Muhammad Asif Son Of Muhammad Ameer",
-        "Name in Urdu": "محمد اصیف بن محمد امیر",
-        "Address": "H#8 Street No1 HazaraTown, Quetta.",
-        "Symbol": "TAP",
-        "Party": "Independent",
-        "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
-      },
-      {
-        "SerialNo": 24,
         "Name in English": "Muhammad Dawood",
-        "Name in Urdu": "محمد داؤد",
+        "Name in Urdu": "محمد داوود",
         "Address": "Hazara Town, Quetta.",
         "Symbol": "ROOTS",
         "Party": "Independent",
-        "SymbolNo": 224,
-        "symbol_url": "https://symbols.azaadvote.com/Roots.jpg"
+        "SymbolNo": 224
       },
       {
-        "SerialNo": 25,
+        "SerialNo": 24,
         "Name in English": "Muhammad Raza",
         "Name in Urdu": "محمد رضا",
         "Address": "Musa Khail Colony, Quetta.",
         "Symbol": "POMEGRANATE",
         "Party": "Independent",
-        "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
+        "SymbolNo": 208
       },
       {
-        "SerialNo": 26,
+        "SerialNo": 25,
         "Name in English": "Muhammad Ramzan",
         "Name in Urdu": "محمد رمضان",
         "Address": "Pashtoon Bagh Achakzai Road, Quetta.",
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+        "SymbolNo": 12
       },
       {
-        "SerialNo": 27,
+        "SerialNo": 26,
         "Name in English": "Muhammad Shareef",
         "Name in Urdu": "محمد شریف",
         "Address": "Killi Badzai Khizai Chowk Samungli, Quetta.",
         "Symbol": "SOFA",
         "Party": "Independent",
-        "SymbolNo": 249,
-        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
+        "SymbolNo": 249
       },
       {
-        "SerialNo": 28,
+        "SerialNo": 27,
         "Name in English": "Muhammad Zahir",
         "Name in Urdu": "محمد ظاهر",
         "Address": "Nawa Killi Quetta.",
         "Symbol": "SUITCASE",
         "Party": "Independent",
-        "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.jpg"
+        "SymbolNo": 264
       },
       {
-        "SerialNo": 29,
+        "SerialNo": 28,
         "Name in English": "Muhammad Arif",
         "Name in Urdu": "محمد عارف",
         "Address": "Killi Shaik Manda Airport Road, Quetta.",
-        "Symbol": "TABLE LAMP",
+        "Symbol": "DOOR",
         "Party": "Independent",
-        "SymbolNo": 272,
-        "symbol_url": "https://symbols.azaadvote.com/lamp.jpg"
+        "SymbolNo": 87
       },
       {
-        "SerialNo": 30,
+        "SerialNo": 29,
         "Name in English": "Muhammad Farooq",
         "Name in Urdu": "محمد فاروق",
         "Address": "Killi Gul Muhammad Airport Road, Quetta.",
         "Symbol": "KETTLE",
         "Party": "Independent",
-        "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+        "SymbolNo": 153
+      },
+      {
+        "SerialNo": 30,
+        "Name in English": "Malik Amjad Khan Kakar",
+        "Name in Urdu": "ملک امجد خان کاکڑ",
+        "Address": "Killi Shamozai Kaker Abad Samungli) Base, Quetta.",
+        "Symbol": "TAKHTI",
+        "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
+        "SymbolNo": 274
       },
       {
         "SerialNo": 31,
-        "Name in English": "Malik Ameer Katozai",
-        "Name in Urdu": "ملک امیر کاٹوزئی",
-        "Address": "Samungli Base, Quetta.",
-        "Symbol": "TAKHTI",
-        "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
-        "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
+        "Name in English": "Malik Sikandar Khan",
+        "Name in Urdu": "ملک سکندر خان",
+        "Address": "Sara Ghurzi Nawa Killi, Quetta.",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31
       },
       {
         "SerialNo": 32,
-        "Name in English": "Malik Sikandar Khan",
-        "Name in Urdu": "ملک سکندر خان",
-        "Address": "Sara Ghurai Nawa Killi, Quetta.",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+        "Name in English": "Manzoor Ahmed",
+        "Name in Urdu": "منظور احمد",
+        "Address": "H#8-179 Khan Tama Khan Street, Quetta.",
+        "Symbol": "COW",
+        "Party": "Balochistan Awami Party",
+        "SymbolNo": 70
       },
       {
         "SerialNo": 33,
-        "Name in English": "Manzoor Ahmed",
-        "Name in Urdu": "منظور احمد",
-        "Address": "H#B-179 Khan Tama Khan Street, Quetta.",
-        "Symbol": "COW",
-        "Party": "Balochistan Awami Party",
-        "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
+        "Name in English": "Nawabzada Aurangzeb Jogezai",
+        "Name in Urdu": "نوابزادہ اورنگزیب جوگیزئی",
+        "Address": "H#44/68 Kakar House sbzar e Musa Quetta Cantt.",
+        "Symbol": "AXE",
+        "Party": "Balochistan National Party",
+        "SymbolNo": 14
       },
       {
         "SerialNo": 34,
         "Name in English": "Nawab Salman Khan Khilji",
         "Name in Urdu": "نواب سلمان خان خلجی",
-        "Address": "H#7/15/10 Khilji Street Barnas Road, Quetta.",
+        "Address": "H#7-151/10 Khilji Street Barmsa Road, Quetta.",
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
+        "SymbolNo": 284
       },
       {
         "SerialNo": 35,
@@ -3302,520 +3236,422 @@
         "Address": "Chiltan Housing, Quetta.",
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
-        "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
+        "SymbolNo": 295
       },
       {
         "SerialNo": 36,
-        "Name in English": "Nawabzada Aurangzeb Jogezai",
-        "Name in Urdu": "نوابزاده اورنگزیب جوگیزئی",
-        "Address": "H#44-46/3 Kakar House shar e Musa Quetta Cantt.",
-        "Symbol": "AXE",
-        "Party": "Balochistan National Party",
-        "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
+        "Name in English": "Noor Ali",
+        "Name in Urdu": "نور علی",
+        "Address": "Killi Moizai, Kuchlak",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232
       },
       {
         "SerialNo": 37,
-        "Name in English": "Noor Ali",
-        "Name in Urdu": "نور علی",
-        "Address": "Killi Molazai, Kuchlak.",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
-      },
-      {
-        "SerialNo": 38,
         "Name in English": "Noor Muhammad Khan",
         "Name in Urdu": "نور محمد خان",
-        "Address": "KiliJi Colony Sabzal Road, Quetta.",
+        "Address": "Khuji Colony Sabzal Road, Quetta",
         "Symbol": "BATTERY",
         "Party": "Independent",
-        "SymbolNo": 21,
-        "symbol_url": "https://symbols.azaadvote.com/battery.jpg"
+        "SymbolNo": 21
       }
     ],
     "PageFiles": [
-      "NA Form-33_page-0029.jpg",
-      "NA Form-33_page-0030.jpg",
-      "NA Form-33_page-0031.jpg"
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00003.jpg",
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00004.jpg",
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00005.jpg"
     ]
   },
   "NA-263": {
     "Constituency No": "NA-263",
     "Constituency Name": "Quetta-II",
-    "Returning Officer": "",
+    "Returning Officer": "Hafiz Muhammad Tariq",
     "NumPages": 3,
     "Candidates": [
       {
         "SerialNo": 1,
         "Name in English": "Arbab Liaquat Ali",
         "Name in Urdu": "ارباب لیاقت علی",
-        "Address": "Haider Ali Street Yarzdan Khan Road Quetta",
+        "Address": "Haider Ali Street Yazdan Khan Road Quetta",
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
-        "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.jpg"
+        "SymbolNo": 282
       },
       {
         "SerialNo": 2,
-        "Name in English": "Ishaq Ali",
-        "Name in Urdu": "اسحاق علی",
-        "Address": "Alamdar Road Quetta",
-        "Symbol": "TRANSFORMER",
-        "Party": "Independent",
-        "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
+        "Name in English": "Asghar Khan",
+        "Name in Urdu": "اصغر خان",
+        "Address": "Post Office Chaman Murad Karaz",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162
       },
       {
         "SerialNo": 3,
-        "Name in English": "Asghar Khan",
-        "Name in Urdu": "اصغر خان",
-        "Address": "Post Office Chaman Murda Kareez",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
-      },
-      {
-        "SerialNo": 4,
         "Name in English": "Iqbal Hassan Lehri",
         "Name in Urdu": "اقبال حسن لہڑی",
         "Address": "Lehri house raisani road quetta",
         "Symbol": "PHOTOSTAT MACHINE",
         "Party": "Independent",
-        "SymbolNo": 200,
-        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.jpg"
+        "SymbolNo": 200
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Anwar Ul Haq",
+        "Name in Urdu": "انور الحق",
+        "Address": "Suraj Ganj Bazar Mohalla Markazi Jama Masjid Quetta",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60
       },
       {
         "SerialNo": 5,
-        "Name in English": "Anwar Ul Haq",
-        "Name in Urdu": "انوار الحق",
-        "Address": "Suraj Ganj Bazar Mohala Markazi Jama Masjid Quetta",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
-      },
-      {
-        "SerialNo": 6,
         "Name in English": "Haji Jamal Shah Kakar",
         "Name in Urdu": "حاجی جمال شاہ کاکڑ",
         "Address": "Kakar House Sumangli Housing Scheme Quetta",
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
+        "SymbolNo": 264
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Habib Ur Rehman",
+        "Name in Urdu": "حبیب الرحمن",
+        "Address": "Johar assistant colony quetta",
+        "Symbol": "CAMEL",
+        "Party": "Balochistan National Party (Awami)",
+        "SymbolNo": 49
       },
       {
         "SerialNo": 7,
-        "Name in English": "Habib Ur Rehman",
-        "Name in Urdu": "حبیب الرحمن",
-        "Address": "Jonier assistant colony quetta",
-        "Symbol": "CAMEL",
-        "Party": "Balochistan National Party",
-        "SymbolNo": 49,
-        "symbol_url": "https://symbols.azaadvote.com/Camel.jpg"
+        "Name in English": "Habib Ullah Khan",
+        "Name in Urdu": "حبیب اللہ خان",
+        "Address": "Habib Ullah Khan Street House No 8-40/41/2-4, Street No. 13 Mohala PakhtoonAbad Balochi Khan Chowk Quetta",
+        "Symbol": "TAP",
+        "Party": "Independent",
+        "SymbolNo": 277
       },
       {
         "SerialNo": 8,
-        "Name in English": "Habib Ullah Khan",
-        "Name in Urdu": "حبیب اللہ خان",
-        "Address": "Habib Ullah Khan Street House No 8-40/14-42, Street No. 13 Mohala Pashtoonabad Baloch Khan Chowk Quetta",
-        "Symbol": "TAP",
-        "Party": "Independent",
-        "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.jpg"
-      },
-      {
-        "SerialNo": 9,
         "Name in English": "Rubina Irfan",
         "Name in Urdu": "ربینہ عرفان",
         "Address": "Jail road huda quetta",
         "Symbol": "COW",
-        "Party": "Balochistan Awami Party",
-        "SymbolNo": 70,
-        "symbol_url": "https://symbols.azaadvote.com/cow.jpg"
+        "Party": "Pakistan Awami Party",
+        "SymbolNo": 70
       },
       {
-        "SerialNo": 10,
+        "SerialNo": 9,
         "Name in English": "Rozi Khan Kakar",
         "Name in Urdu": "روزی خان کاکڑ",
         "Address": "Muslim Bagh Killa Saif Ullah",
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+        "SymbolNo": 12
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Salar Khan Kakar",
+        "Name in Urdu": "سالار خان کاکڑ",
+        "Address": "Shaldara Allah din road quetta",
+        "Symbol": "HUKKAH",
+        "Party": "Independent",
+        "SymbolNo": 141
       },
       {
         "SerialNo": 11,
-        "Name in English": "Salar Khan Kakar",
-        "Name in Urdu": "سالار خان کاکڑ",
-        "Address": "Shaldara Allah dina road quetta",
-        "Symbol": "HUKKAH",
-        "Party": "Independent",
-        "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.jpg",
-        "pti_backed": {
-          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKslTB0LKZ5w7TJRl3u"
-        }
-      },
-      {
-        "SerialNo": 12,
         "Name in English": "Sardar Aurangzaib Rakhshani",
         "Name in Urdu": "سردار اورنگزیب رخشانی",
         "Address": "Jinnah Town Quetta",
         "Symbol": "SAXOPHONE",
         "Party": "Independent",
-        "SymbolNo": 231,
-        "symbol_url": "https://symbols.azaadvote.com/saxophone.jpg"
+        "SymbolNo": 231
       },
       {
-        "SerialNo": 13,
+        "SerialNo": 12,
         "Name in English": "Sardar Zulfiqar Ali",
         "Name in Urdu": "سردار ذوالفقار علی",
         "Address": "Post Office simbali sheri District abbottabad",
         "Symbol": "KETTLE",
         "Party": "Independent",
-        "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.jpg"
+        "SymbolNo": 153
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Syed Iqbal Shah",
+        "Name in Urdu": "سید اقبال شاہ",
+        "Address": "Club Road House No. 10-A mohala club Quetta Cantt",
+        "Symbol": "SOFA",
+        "Party": "Independent",
+        "SymbolNo": 249
       },
       {
         "SerialNo": 14,
-        "Name in English": "Syed Iqbal Shah",
-        "Name in Urdu": "سید اقبال شاہ",
-        "Address": "Club Road House No. 10-A mohala club Quetta Cant",
-        "Symbol": "SOFA",
-        "Party": "Independent",
-        "SymbolNo": 249,
-        "symbol_url": "https://symbols.azaadvote.com/sofa.jpg"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Saif Ullah",
-        "Name in Urdu": "سیف اللہ",
-        "Address": "Ismail Colony Sirk Road Quetta",
-        "Symbol": "SLATE",
-        "Party": "Independent",
-        "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.jpg"
-      },
-      {
-        "SerialNo": 16,
         "Name in English": "Shah Faisal",
         "Name in Urdu": "شاہ فیصل",
         "Address": "Jinnah Town Quetta",
         "Symbol": "DHOL",
         "Party": "Independent",
-        "SymbolNo": 81,
-        "symbol_url": "https://symbols.azaadvote.com/dhol.jpg"
+        "SymbolNo": 81
       },
       {
-        "SerialNo": 17,
+        "SerialNo": 15,
         "Name in English": "Shakeel Ahmed Roshan",
         "Name in Urdu": "شکیل احمد روشن",
         "Address": "Jan Muhammad Road Muhalla Lal Muhammad Colony Quetta",
         "Symbol": "TRACTOR",
         "Party": "Pakistan Muslim League",
-        "SymbolNo": 292,
-        "symbol_url": "https://symbols.azaadvote.com/tractor.jpg"
+        "SymbolNo": 292
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Abdul Razzaq",
+        "Name in Urdu": "عبدالرزاق",
+        "Address": "Arbab ghulam ali road killi dehba quetta",
+        "Symbol": "GOAT",
+        "Party": "Independent",
+        "SymbolNo": 123
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Abdul Salam",
+        "Name in Urdu": "عبدالسلام",
+        "Address": "Shahara House No.8-135/5 Mohallah Hajji Ghaibi Road Quetta",
+        "Symbol": "SWALLOW",
+        "Party": "Independent",
+        "SymbolNo": 267
       },
       {
         "SerialNo": 18,
-        "Name in English": "Shahzad Khan",
-        "Name in Urdu": "شہزاد خان",
-        "Address": "Gulistan Road Quetta Cantt",
-        "Symbol": "NAIL CUTTER",
-        "Party": "Independent",
-        "SymbolNo": 182,
-        "symbol_url": "https://symbols.azaadvote.com/nail-cutter.jpg"
-      },
-      {
-        "SerialNo": 19,
-        "Name in English": "Abdul Salam",
-        "Name in Urdu": "عبدالسلام",
-        "Address": "Shahdra House No. B-135/55 Mohala Hajji Ghaib Road Quetta",
-        "Symbol": "SWALLOW",
-        "Party": "Independent",
-        "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.jpg"
-      },
-      {
-        "SerialNo": 20,
         "Name in English": "Abdul Sadiq",
         "Name in Urdu": "عبدالصادق",
         "Address": "Pashtoon Abad Quetta",
         "Symbol": "RING",
-        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
-        "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
+        "Party": "Jamiat Ulama-e-Islam (F)",
+        "SymbolNo": 220
       },
       {
-        "SerialNo": 21,
+        "SerialNo": 19,
         "Name in English": "Abdul Ghaffar Khan Kakar",
         "Name in Urdu": "عبدالغفار خان کاکڑ",
         "Address": "Abdul Qadoos Kakar Road Quetta",
         "Symbol": "CALCULATOR",
         "Party": "Independent",
-        "SymbolNo": 47,
-        "symbol_url": "https://symbols.azaadvote.com/calculator.jpg"
+        "SymbolNo": 47
       },
       {
-        "SerialNo": 22,
-        "Name in English": "Abdul Razzaq",
-        "Name in Urdu": "عبدالرزاق",
-        "Address": "Arbab ghulam ali road killi debah quetta",
-        "Symbol": "GOAT",
-        "Party": "Independent",
-        "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.jpg"
+        "SerialNo": 20,
+        "Name in English": "Abdul Qadir Luni",
+        "Name in Urdu": "عبدالقادر لونی",
+        "Address": "Standard Banglos Sunngli Road Quetta",
+        "Symbol": "TAKHTI",
+        "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
+        "SymbolNo": 274
       },
       {
-        "SerialNo": 23,
+        "SerialNo": 21,
         "Name in English": "Abdul Mateen",
         "Name in Urdu": "عبدالمتین",
         "Address": "Suleman Abad Kachra Road Quetta",
         "Symbol": "PARROT",
         "Party": "Independent",
-        "SymbolNo": 193,
-        "symbol_url": "https://symbols.azaadvote.com/Parrot.jpg"
+        "SymbolNo": 193
       },
       {
-        "SerialNo": 24,
+        "SerialNo": 22,
         "Name in English": "Abdul Wahid",
         "Name in Urdu": "عبدالواحد",
         "Address": "Killi Mehrab Zai Quetta",
         "Symbol": "LADDER",
-        "Party": "Jamiat Ulama-e-Islam Pakistan (5)",
-        "SymbolNo": 161,
-        "symbol_url": "https://symbols.azaadvote.com/Ladder.jpg"
+        "Party": "Jamiat Ulama-e-Islam Pakistan (S)",
+        "SymbolNo": 161
       },
       {
-        "SerialNo": 25,
+        "SerialNo": 23,
         "Name in English": "Abdul Hadi",
         "Name in Urdu": "عبدالہادی",
         "Address": "Killi sarangzai Hana Urak Quetta",
         "Symbol": "BATTERY",
         "Party": "Independent",
-        "SymbolNo": 21,
-        "symbol_url": "https://symbols.azaadvote.com/battery.jpg"
+        "SymbolNo": 21
+      },
+      {
+        "SerialNo": 24,
+        "Name in English": "Atta Ur Rehman",
+        "Name in Urdu": "عطاء الرحمن",
+        "Address": "Chaman Phatak, Khateeb Masjid Quetta",
+        "Symbol": "SCALE",
+        "Party": "Jamiat-e-Islami Pakistan",
+        "SymbolNo": 232
+      },
+      {
+        "SerialNo": 25,
+        "Name in English": "Umer Khan Achakzai",
+        "Name in Urdu": "عمر خان اچکزئی",
+        "Address": "Achakzai House Madni Street Quetta",
+        "Symbol": "AIR COOLER",
+        "Party": "Independent",
+        "SymbolNo": 4
       },
       {
         "SerialNo": 26,
-        "Name in English": "Abdul Qadir Luni",
-        "Name in Urdu": "عبدالقادر لونی",
-        "Address": "Standard Banglos Sumungli Road Quetta",
-        "Symbol": "TAKHTI",
-        "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
-        "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
-      },
-      {
-        "SerialNo": 27,
-        "Name in English": "Atta Ur Rehman",
-        "Name in Urdu": "عطا الرحمن",
-        "Address": "Chaman Phatak, Khateeb Masjid Quetta",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
-      },
-      {
-        "SerialNo": 28,
-        "Name in English": "Umer Khan Achakzai",
-        "Name in Urdu": "عمر خان اچکزئی",
-        "Address": "Achakzai House Madai Street Quetta",
-        "Symbol": "AIR COOLER",
-        "Party": "Independent",
-        "SymbolNo": 4,
-        "symbol_url": "https://symbols.azaadvote.com/air-cooler.jpg"
-      },
-      {
-        "SerialNo": 29,
         "Name in English": "Muhammad Jawad",
         "Name in Urdu": "محمد جواد",
         "Address": "Gulistan town quetta cantt",
         "Symbol": "WHEEL",
-        "Party": "Jamhoori Watan Party",
-        "SymbolNo": 323,
-        "symbol_url": "https://symbols.azaadvote.com/wheel.jpg"
+        "Party": "Jamhoori Wattan Party",
+        "SymbolNo": 323
       },
       {
-        "SerialNo": 30,
+        "SerialNo": 27,
         "Name in English": "Muhammad Rahim",
         "Name in Urdu": "محمد رحیم",
         "Address": "white road quetta",
         "Symbol": "GARLAND",
         "Party": "Independent",
-        "SymbolNo": 115,
-        "symbol_url": "https://symbols.azaadvote.com/garland.jpg"
+        "SymbolNo": 115
       },
       {
-        "SerialNo": 31,
+        "SerialNo": 28,
         "Name in English": "Muhammad Ramzan",
         "Name in Urdu": "محمد رمضان",
         "Address": "hazar ghanji mengal abad quetta",
         "Symbol": "IRON",
-        "Party": "Pakistan Raba-e-Haq Party",
-        "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
+        "Party": "Pakistan Rah-e-Haq Party",
+        "SymbolNo": 147
       },
       {
-        "SerialNo": 32,
-        "Name in English": "Muhammad Younas",
-        "Name in Urdu": "محمد یونس",
-        "Address": "Baloch colony steward road quetta",
-        "Symbol": "PRINTER",
-        "Party": "Independent",
-        "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
-      },
-      {
-        "SerialNo": 33,
+        "SerialNo": 29,
         "Name in English": "Mehmood Khan Achakzai",
         "Name in Urdu": "محمود خان اچکزئی",
         "Address": "Post Office Gulistan Inayat Ullah Karez Tehsil Gulistan District Qilla Abdullah",
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
-        "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
+        "SymbolNo": 295
       },
       {
-        "SerialNo": 34,
-        "Name in English": "Maqbool Ahmed Lehri",
+        "SerialNo": 30,
+        "Name in English": "Maqbool Ahmad Lehri",
         "Name in Urdu": "مقبول احمد لہڑی",
-        "Address": "House No. 5/106-10 Mohala Baranway Road Quetta",
+        "Address": "House No. 51/60-10 Mohala Barwery Road Quetta",
         "Symbol": "AXE",
         "Party": "Balochistan National Party",
-        "SymbolNo": 14,
-        "symbol_url": "https://symbols.azaadvote.com/axe.jpg"
+        "SymbolNo": 14
       },
       {
-        "SerialNo": 35,
+        "SerialNo": 31,
         "Name in English": "Munawara Bibi Baloch",
         "Name in Urdu": "منورہ بی بی بلوچ",
         "Address": "Mano Jan Road, Huda, Quetta",
         "Symbol": "QUEEN",
         "Party": "Independent",
-        "SymbolNo": 211,
-        "symbol_url": "https://symbols.azaadvote.com/queen.jpg"
+        "SymbolNo": 211
       },
       {
-        "SerialNo": 36,
-        "Name in English": "Mir Lashkari Raisani",
-        "Name in Urdu": "میر لشکری رئیسانی",
-        "Address": "Sarawan house raisani road quetta",
-        "Symbol": "POMEGRANATE",
-        "Party": "Independent",
-        "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.jpg"
-      },
-      {
-        "SerialNo": 37,
+        "SerialNo": 32,
         "Name in English": "Mirza Hussain",
         "Name in Urdu": "مرزا حسین",
         "Address": "Alamdar Road Quetta",
         "Symbol": "CRESCENT",
         "Party": "Hazara Democratic Party",
-        "SymbolNo": 72,
-        "symbol_url": "https://symbols.azaadvote.com/crescent.jpg"
+        "SymbolNo": 72
       },
       {
-        "SerialNo": 38,
-        "Name in English": "Nasir Haider Kasi",
-        "Name in Urdu": "ناصر حیدر کاسی",
+        "SerialNo": 33,
+        "Name in English": "Mir Lashkari Raisani",
+        "Name in Urdu": "میر لشکری رئیسانی",
+        "Address": "Sarawan house raisani road quetta",
+        "Symbol": "POMEGRANATE",
+        "Party": "Independent",
+        "SymbolNo": 208
+      },
+      {
+        "SerialNo": 34,
+        "Name in English": "Nasir Hader Kasi",
+        "Name in Urdu": "ناصر ہادر کاسی",
         "Address": "Abdali Road Quetta Cantt House No 1 Mohala Thogi Housing Scheme Quetta",
         "Symbol": "DOVE",
         "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.jpg"
+        "SymbolNo": 88
+      },
+      {
+        "SerialNo": 35,
+        "Name in English": "Nida Muhammad",
+        "Name in Urdu": "ندا محمد",
+        "Address": "Shaaldara Killi Duranni Quetta",
+        "Symbol": "LAPTOP",
+        "Party": "Independent",
+        "SymbolNo": 163
+      },
+      {
+        "SerialNo": 36,
+        "Name in English": "Nasrullah Khan Barrech",
+        "Name in Urdu": "نصر اللّٰہ خان باریچ",
+        "Address": "Tehed Colony Quetta",
+        "Symbol": "BUNCH OF GRAPES",
+        "Party": "Pashtoonkhwa National Awami Party",
+        "SymbolNo": 42
+      },
+      {
+        "SerialNo": 37,
+        "Name in English": "Niamat Ullah Khan",
+        "Name in Urdu": "نعمت الله خان",
+        "Address": "Mudrasa Road, Quetta Cant",
+        "Symbol": "TRICYCLE",
+        "Party": "Independent",
+        "SymbolNo": 296
+      },
+      {
+        "SerialNo": 38,
+        "Name in English": "Naeem Karrim",
+        "Name in Urdu": "نعیم کریم",
+        "Address": "House No 55-B Mohala Railway Colony Joint Road Quetta",
+        "Symbol": "DOLPHIN",
+        "Party": "Independent",
+        "SymbolNo": 85
       },
       {
         "SerialNo": 39,
-        "Name in English": "Nida Muhammad",
-        "Name in Urdu": "ندا محمد",
-        "Address": "Shaladara Killi Durrani Quetta",
-        "Symbol": "LAPTOP",
-        "Party": "Independent",
-        "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.jpg"
-      },
-      {
-        "SerialNo": 40,
-        "Name in English": "Nasrullah Khan Barech",
-        "Name in Urdu": "نصراللہ خان باریچ",
-        "Address": "Itehad Colony Quetta",
-        "Symbol": "BUNCH OF GRAPES",
-        "Party": "Pashtoonkhwa National Awami Party",
-        "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
-      },
-      {
-        "SerialNo": 41,
-        "Name in English": "Niamat Ullah Khan",
-        "Name in Urdu": "نعمت اللہ خان",
-        "Address": "Mudrassa Road, Quetta Cant",
-        "Symbol": "TRICYCLE",
-        "Party": "Independent",
-        "SymbolNo": 296,
-        "symbol_url": "https://symbols.azaadvote.com/tricycle.jpg"
-      },
-      {
-        "SerialNo": 42,
-        "Name in English": "Naeem Karim",
-        "Name in Urdu": "نعیم کریم",
-        "Address": "House No 555-B Mohala Railway Colony Joint Road Quetta",
-        "Symbol": "DOLPHIN",
-        "Party": "Independent",
-        "SymbolNo": 85,
-        "symbol_url": "https://symbols.azaadvote.com/dolphin.jpg"
-      },
-      {
-        "SerialNo": 43,
         "Name in English": "Nawabzada Sharif Jogezai",
-        "Name in Urdu": "نوابزاده شریف جوگیزئی",
+        "Name in Urdu": "نوابزادہ شریف جوگیزئی",
         "Address": "Jogezai house jail road quetta",
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
-        "SymbolNo": 287,
-        "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.jpg"
+        "SymbolNo": 287
       },
       {
-        "SerialNo": 44,
+        "SerialNo": 40,
         "Name in English": "Niaz Muhammad",
         "Name in Urdu": "نیاز محمد",
-        "Address": "Near Killi Ismail Mohala Gul Town Quetta",
+        "Address": "Near Killa Ismail Mohala Gul Town Quetta",
         "Symbol": "SAW",
         "Party": "National Party",
-        "SymbolNo": 230,
-        "symbol_url": "https://symbols.azaadvote.com/saw.jpg"
+        "SymbolNo": 230
       },
       {
-        "SerialNo": 45,
-        "Name in English": "Wazir Ahmed Noorani",
+        "SerialNo": 41,
+        "Name in English": "Wazir Ahmad Noorani",
         "Name in Urdu": "وزیر احمد نورانی",
-        "Address": "Mohala Haji Murad Gujar Goth Hub District Lasbela",
+        "Address": "Mohala Hajji Murad Gugar Goth Hub District Lasbela",
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.jpg"
+        "SymbolNo": 71
       },
       {
-        "SerialNo": 46,
+        "SerialNo": 42,
         "Name in English": "Wali Muhammad",
         "Name in Urdu": "ولی محمد",
         "Address": "Pashtoon Abad Quetta",
         "Symbol": "AEROPLANE",
         "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+        "SymbolNo": 2
       }
     ],
     "PageFiles": [
-      "NA Form-33_page-0032.jpg",
-      "NA Form-33_page-0033.jpg",
-      "NA Form-33_page-0034.jpg"
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00006.jpg",
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00007.jpg",
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00008.jpg"
     ]
   },
   "NA-264": {
@@ -4432,7 +4268,7 @@
   "NA-266": {
     "Constituency No": "NA-266",
     "Constituency Name": "Killa Abdullah-cum-Chaman",
-    "Returning Officer": "Intiaz Ahmed",
+    "Returning Officer": "Imtiaz Ahmed",
     "NumPages": 2,
     "Candidates": [
       {
@@ -4442,203 +4278,165 @@
         "Address": "Killi Taki Chaman",
         "Symbol": "TABLE LAMP",
         "Party": "Independent",
-        "SymbolNo": 272,
-        "symbol_url": "https://symbols.azaadvote.com/lamp.jpg"
+        "SymbolNo": 272
       },
       {
         "SerialNo": 2,
-        "Name in English": "Khan Amanullah Khan",
-        "Name in Urdu": "خان امان اللہ خان",
-        "Address": "Killi Sohli Roghani Daman",
-        "Symbol": "PHOTOSTAT MACHINE",
-        "Party": "Independent",
-        "SymbolNo": 200,
-        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.jpg"
-      },
-      {
-        "SerialNo": 3,
         "Name in English": "Sharaf Ud Din",
-        "Name in Urdu": "شراف الدين",
+        "Name in Urdu": "شراف الدین",
         "Address": "Mohallah Power House Road Chaman",
         "Symbol": "SCALE",
         "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.jpg"
+        "SymbolNo": 232
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Salahuddin Son Of Haji Abdul Salam",
+        "Name in Urdu": "صلاح الدین بن حاجی عبدالسلام",
+        "Address": "Sifa Town Roghani Road Chaman",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31
       },
       {
         "SerialNo": 4,
-        "Name in English": "Salah Uddin",
-        "Name in Urdu": "صلاح الدين",
+        "Name in English": "Salah Uddin Son Of Abdul Wahid",
+        "Name in Urdu": "صلاح الدین بن عبد الواحد",
         "Address": "Post Office Abdul Rehmanzai",
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
-        "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.jpg"
+        "SymbolNo": 294
       },
       {
         "SerialNo": 5,
-        "Name in English": "Salahuddin",
-        "Name in Urdu": "صلاح الدين",
-        "Address": "Sifia Town Roghani Road Chaman",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.jpg"
+        "Name in English": "Abdul Hameed",
+        "Name in Urdu": "عبدالحمید",
+        "Address": "Killi Habibbad Chodi Karez",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73
       },
       {
         "SerialNo": 6,
-        "Name in English": "Abdul Hameed",
-        "Name in Urdu": "عبدالحمید",
-        "Address": "Killi Habibdad Chodi Karez",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.jpg"
+        "Name in English": "Abdul Khaliq Son Of Haji Fazal Muhammad",
+        "Name in Urdu": "عبدالخالق بن حاجی فضل محمد",
+        "Address": "Killi Qari Syed Karim",
+        "Symbol": "IRON",
+        "Party": "Pakistan Rahe-Haq Party",
+        "SymbolNo": 147
       },
       {
         "SerialNo": 7,
-        "Name in English": "Abdul Khaliq",
-        "Name in Urdu": "عبدالخالق",
-        "Address": "Killi Qari Syed Karim",
-        "Symbol": "IRON",
-        "Party": "Pakistan Rah-e-Haq Party",
-        "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.jpg"
+        "Name in English": "Abdul Khaliq Son Of Mira Jan",
+        "Name in Urdu": "عبدالخالق بن میرا جان",
+        "Address": "Mohallah Peeromail Road Chaman",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284
       },
       {
         "SerialNo": 8,
-        "Name in English": "Abdul Khaliq",
-        "Name in Urdu": "عبدالخالق",
-        "Address": "Mohallah Peeromal Road Chaman",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.jpg"
-      },
-      {
-        "SerialNo": 9,
         "Name in English": "Abdul Khaliq Khan",
         "Name in Urdu": "عبدالخالق خان",
         "Address": "Killi Haji Habib Khan",
         "Symbol": "CLOCK",
         "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.jpg"
+        "SymbolNo": 60
       },
       {
-        "SerialNo": 10,
+        "SerialNo": 9,
         "Name in English": "Abdul Wahid",
         "Name in Urdu": "عبدالواحد",
         "Address": "Haji Ghaibi Road Shaldara Quetta",
         "Symbol": "TAKHTI",
         "Party": "Jamiat Ulema-e-Islam Nazaryati Pakistan",
-        "SymbolNo": 274,
-        "symbol_url": "https://symbols.azaadvote.com/takhti.jpg"
+        "SymbolNo": 274
       },
       {
-        "SerialNo": 11,
+        "SerialNo": 10,
         "Name in English": "Allauddin",
-        "Name in Urdu": "علاء الدين",
+        "Name in Urdu": "علاءالدین",
         "Address": "Bagmal Street Quetta",
         "Symbol": "PEACOCK",
         "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.jpg"
+        "SymbolNo": 194
       },
       {
-        "SerialNo": 12,
+        "SerialNo": 11,
         "Name in English": "Fazal Muhammad Kakar",
         "Name in Urdu": "فضل محمد کاکڑ",
         "Address": "Post Office Maizai Adda",
         "Symbol": "RING",
-        "Party": "Rabita Jamiat Ulema-e-Islam (RJUI)",
-        "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.jpg"
+        "Party": "Rabita Jamiat Ulma-e-Islam (RJUI)",
+        "SymbolNo": 220
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Mohammad Azam",
+        "Name in Urdu": "محمد اعظم",
+        "Address": "Arambi Masezai Killi Abdullah",
+        "Symbol": "BUNCH OF GRAPES",
+        "Party": "Pashtoonkhwa National Awami Party",
+        "SymbolNo": 42
       },
       {
         "SerialNo": 13,
-        "Name in English": "Mohammad Azam",
-        "Name in Urdu": "محمد اعظم",
-        "Address": "Arambi Maseezai Killi Abdullah",
-        "Symbol": "BUNCH OF GRAPES",
-        "Party": "Pashtoonkhwa National Awami Party",
-        "SymbolNo": 42,
-        "symbol_url": "https://symbols.azaadvote.com/bunch-of-grapes.jpg"
-      },
-      {
-        "SerialNo": 14,
         "Name in English": "Muhammad Sadiq",
         "Name in Urdu": "محمد صادق",
         "Address": "Jilga Post Office",
         "Symbol": "PITCHER",
         "Party": "Mazloom Olsi Tehreek Pakistan",
-        "SymbolNo": 204,
-        "symbol_url": "https://symbols.azaadvote.com/pitcher.jpg"
+        "SymbolNo": 204
       },
       {
-        "SerialNo": 15,
+        "SerialNo": 14,
         "Name in English": "Mehmood Khan Achakzai",
         "Name in Urdu": "محمود خان اچکزئ",
         "Address": "Inayat Ullah Karez Gulistan",
         "Symbol": "TREE",
         "Party": "Pashtoonkhwa Milli Awami Party",
-        "SymbolNo": 295,
-        "symbol_url": "https://symbols.azaadvote.com/tree.jpg"
+        "SymbolNo": 295
       },
       {
-        "SerialNo": 16,
-        "Name in English": "Muhbubullah Kakar",
-        "Name in Urdu": "محبوب اللہ کاکڑ",
+        "SerialNo": 15,
+        "Name in English": "Muhibullah Kakar",
+        "Name in Urdu": "محب الله کاکڑ",
         "Address": "Post Office Abdul Rehmanzai",
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).jpg"
+        "SymbolNo": 162
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Malik Asmatullah Khan Kakar",
+        "Name in Urdu": "ملک اسمت اللہ خان کاکڑ",
+        "Address": "Killi Malak Sharif Masszai",
+        "Symbol": "PARACHUTE",
+        "Party": "Independent",
+        "SymbolNo": 192
       },
       {
         "SerialNo": 17,
-        "Name in English": "Malik Asmatullah Khan Kakar",
-        "Name in Urdu": "ملک اسمت اللہ خان کاکڑ",
-        "Address": "Killi Malak Sharif Masezai",
-        "Symbol": "PARACHUTE",
-        "Party": "Independent",
-        "SymbolNo": 192,
-        "symbol_url": "https://symbols.azaadvote.com/parachute.jpg"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Najeeb",
-        "Name in Urdu": "نجیب",
-        "Address": "Killi Molvai Manzoor Roghani 2",
-        "Symbol": "PRINTER",
-        "Party": "Independent",
-        "SymbolNo": 210,
-        "symbol_url": "https://symbols.azaadvote.com/printer.jpg"
-      },
-      {
-        "SerialNo": 19,
         "Name in English": "Naseeb Ullah",
         "Name in Urdu": "نصیب اللہ",
         "Address": "Mehmood Abad Chaman",
         "Symbol": "AEROPLANE",
         "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.jpg"
+        "SymbolNo": 2
       },
       {
-        "SerialNo": 20,
+        "SerialNo": 18,
         "Name in English": "Nazar Muhammad",
         "Name in Urdu": "نذر محمد",
         "Address": "Killi Habibzai Killa Abdullah",
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.jpg"
+        "SymbolNo": 12
       }
     ],
     "PageFiles": [
-      "NA Form-33_page-0040.jpg",
-      "NA Form-33_page-0041.jpg"
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00009.jpg",
+      "Revised/Balochistan/NA Form-33 Reviesd-page-00010.jpg"
     ]
   }
 }
