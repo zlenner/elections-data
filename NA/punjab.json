@@ -7855,7 +7855,10 @@
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/clock.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGiBwrLCoWto2Fvkp18"
+        }
       },
       {
         "SerialNo": 11,
