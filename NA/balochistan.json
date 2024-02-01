@@ -3429,7 +3429,10 @@
         "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": 141,
-        "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKslTB0LKZ5w7TJRl3u"
+        }
       },
       {
         "SerialNo": 11,
@@ -4423,7 +4426,10 @@
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFmsZq3GJOsyLDaRY2B"
+        }
       },
       {
         "SerialNo": 6,

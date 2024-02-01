@@ -48,7 +48,7 @@
       {
         "SerialNo": 5,
         "Name in English": "Abdul Latif",
-        "Name in Urdu": "عبداللطیف",
+        "Name in Urdu": "سہیل سلطان",
         "Address": "Village Nichagh Ovir Tehsil Mastuj District Upper Chitral.",
         "Symbol": "BOTTLE",
         "Party": "Independent",
@@ -1074,11 +1074,179 @@
         "Symbol": "SHOWER",
         "Party": "Independent",
         "SymbolNo": 244,
-        "symbol_url": "https://symbols.azaadvote.com/shower.png"
+        "symbol_url": "https://symbols.azaadvote.com/Shower.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKeeeF0AgWB8KsUiI3l"
+        }
       }
     ],
     "PageFiles": [
       "KP_Form-33_NAs (13-01-2024)_page-0011.jpg"
+    ]
+  },
+  "NA-9": {
+    "Constituency No": "NA-9",
+    "Constituency Name": "Malakand",
+    "Returning Officer": "Muhammad Umair",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Babu Shah Zaman",
+        "Name in Urdu": "بابو شاہ زمان",
+        "Address": "MOH:Gazi Abad P.O amandara Bakthela ,Tehsil Batkhela Distt:Malakand",
+        "Symbol": "POMEGRANATE",
+        "Party": "Independent",
+        "SymbolNo": 208,
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Jamal Ud Din",
+        "Name in Urdu": "جمال الدین",
+        "Address": "P.O Shakot ,Sakakot Dargai Tehsil Dargai Distt:Malakand",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Junaid Akbar",
+        "Name in Urdu": "جنید اکبر",
+        "Address": "Moh: Amjad Shaheed Colony P.O Thana,Thana Jadeed ,Tehsil Batkhela District Malakand.",
+        "Symbol": "RACKET",
+        "Party": "Independent",
+        "SymbolNo": 214,
+        "symbol_url": "https://symbols.azaadvote.com/racket.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFu6JO0bIdmOCKJxl3M"
+        }
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Rashid Ahmad",
+        "Name in Urdu": "راشد احمد",
+        "Address": "Moh:Said Abad,Dehri Alladand,Tehsil .Batkhela Distt:Malakand",
+        "Symbol": "FRIDGE",
+        "Party": "Independent",
+        "SymbolNo": 113,
+        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Sabz Ali",
+        "Name in Urdu": "سبز علی",
+        "Address": "Moh:Alikhel,Purana sakha kot,P/O Sakhakot, Tehsil:Dargai,District:Malakand.",
+        "Symbol": "CHARPAI",
+        "Party": "Independent",
+        "SymbolNo": 56,
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Sajjad Ahmad",
+        "Name in Urdu": "سجاد احمد",
+        "Address": "Moh: Mubarak Khel ,Totakan Tehsil Batkhela Distt: Malakand.",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Syed Ahmad Ali Shah",
+        "Name in Urdu": "سید احمد علی شاہ",
+        "Address": "Badraga Tehsil Dargai Distt:Malakand",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Shahid Ullah",
+        "Name in Urdu": "شاہد اللہ",
+        "Address": "Moh:Chapai thana, Tehsil Batkhela Dista: Malakand",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Irfan Muazam",
+        "Name in Urdu": "عرفان معظم",
+        "Address": "Moh: Shafi Koroona Piran P.O Makaland Tehsil Batkhela Distt:Malakand",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Fazal Muhammad",
+        "Name in Urdu": "فضل محمد",
+        "Address": "Jabban, Tehsil.Dargai , District: Malakand.",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Kifayat Ullah",
+        "Name in Urdu": "کفایت اللہ",
+        "Address": "Moh: Kifyat Abad Nehar Kinara Batkhela Tehsil Batkhela Distt: Malakand",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Luqman Khan",
+        "Name in Urdu": "لقمان خان",
+        "Address": "Permanant Add:Umar ali Kallay p.o khas Badraga Tehsil Dargai Distt: Malakand Present Addr:kak Jan P.o Pir Saddi pirsaddo Tehsil Takht Bhai Distt: Malakand",
+        "Symbol": "RAILWAY ENGINE",
+        "Party": "Pakistan Nazriyati Party",
+        "SymbolNo": 216,
+        "symbol_url": "https://symbols.azaadvote.com/railway-engine.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Zeeshan",
+        "Name in Urdu": "محمد زیشان",
+        "Address": "Moh:Quaid Abad Chapai P.O Thana ,Thana Bandagai Tehsil Batkhela Distt:Malakand",
+        "Symbol": "TURBAN",
+        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTIIP)",
+        "SymbolNo": 305,
+        "symbol_url": "https://symbols.azaadvote.com/turban.png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Mansoor Sadiq",
+        "Name in Urdu": "منصور صادق",
+        "Address": "Baba Khel , Thana Khas P/O Thana , Tehsil Swat Ranezai",
+        "Symbol": "MEDAL",
+        "Party": "Independent",
+        "SymbolNo": 173,
+        "symbol_url": "https://symbols.azaadvote.com/medal.png"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Nazia Hassan",
+        "Name in Urdu": "نازیہ حسن",
+        "Address": "Moh:Allah Akbar Dheri,Tehsil Batkhela Distt: Malakand",
+        "Symbol": "TRANSFORMER",
+        "Party": "Independent",
+        "SymbolNo": 294,
+        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-9/NA-9-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-9/NA-9-page-00002.jpg"
     ]
   },
   "NA-10": {
@@ -1155,7 +1323,10 @@
         "Symbol": "TEAPOT",
         "Party": "Independent",
         "SymbolNo": 279,
-        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
+        "symbol_url": "https://symbols.azaadvote.com/teapot.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGDZVe1yT2C3EBKpo1R"
+        }
       },
       {
         "SerialNo": 8,
@@ -1170,6 +1341,181 @@
     ],
     "PageFiles": [
       "KP_Form-33_NAs (13-01-2024)_page-0014.jpg"
+    ]
+  },
+  "NA-11": {
+    "Constituency No": "NA-11",
+    "Constituency Name": "Shangla",
+    "Returning Officer": "Muhammad Adnan",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Amir Muqam",
+        "Name in Urdu": "امیر مقام",
+        "Address": "Chagum P/O Aloch Tehsil Puran District Shangla",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Aurang Zeb",
+        "Name in Urdu": "اورنگ زیب",
+        "Address": "P/O Martung Tiwalaan Tehsil Martung District Shangla",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Bahr Room",
+        "Name in Urdu": "بحر روم",
+        "Address": "Awana Chakisar District Shangla",
+        "Symbol": "BULB",
+        "Party": "Awami Workers Party",
+        "SymbolNo": 40,
+        "symbol_url": "https://symbols.azaadvote.com/bulb.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Jawad Ali",
+        "Name in Urdu": "جواد علی",
+        "Address": "Kamar Hujra Chakisar District Shangla",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Hamid Iqbal Khan",
+        "Name in Urdu": "حامد اقبال خان",
+        "Address": "Peoples House Damorai Tehsil Alpuri District Shangla",
+        "Symbol": "BEAR",
+        "Party": "Independent",
+        "SymbolNo": 22,
+        "symbol_url": "https://symbols.azaadvote.com/bear.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Safeer Khan",
+        "Name in Urdu": "صفیر خان",
+        "Address": "Seer P/O Dandai Tehsil Besham District Shangla",
+        "Symbol": "SPOON",
+        "Party": "Independent",
+        "SymbolNo": 255,
+        "symbol_url": "https://symbols.azaadvote.com/spoon.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Sayed Ghafar",
+        "Name in Urdu": "سید غفار",
+        "Address": "P/O Aloch Bingali Tehsil Puran District Shangla",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Said Fareen",
+        "Name in Urdu": "سید فرین",
+        "Address": "Seer Dandai Tehsil Besham District Shangla",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKb3TSKWEKwEHwI0o19"
+        }
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Umar Zada",
+        "Name in Urdu": "عمر زادہ",
+        "Address": "Kekor Damorai Tehsil Alpuri District Shangla",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Fawad Ahmad Khan",
+        "Name in Urdu": "فواد احمد خان",
+        "Address": "Serai P/O Maira Tehsil Besham District Shangla",
+        "Symbol": "LOTUS",
+        "Party": "Independent",
+        "SymbolNo": 168,
+        "symbol_url": "https://symbols.azaadvote.com/lotus.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Gulzar Khan",
+        "Name in Urdu": "گلزار خان",
+        "Address": "Seer Dandai Tehsil Besham District Shangla",
+        "Symbol": "RACKET",
+        "Party": "Independent",
+        "SymbolNo": 214,
+        "symbol_url": "https://symbols.azaadvote.com/racket.png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Muhammad Pervez",
+        "Name in Urdu": "محمد پرویز",
+        "Address": "Aloch Nimkalay Tehsil Puran District Shangla",
+        "Symbol": "SICKLE",
+        "Party": "Independent",
+        "SymbolNo": 246,
+        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Alam Khan",
+        "Name in Urdu": "محمد عالم خان",
+        "Address": "Burshat Mal Sar Amlok Karora Kuzkana Tehsil Alpuri District Shangla",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Musharraf Shah",
+        "Name in Urdu": "مشرف شاہ",
+        "Address": "Kamar Hujra Chakisar District Shangla",
+        "Symbol": "TEAPOT",
+        "Party": "Independent",
+        "SymbolNo": 279,
+        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Mian Nazir Rahman",
+        "Name in Urdu": "میاں نذیر رحمان",
+        "Address": "Cham Mani P/O Maira Tehsil Besham District Shangla",
+        "Symbol": "TURBAN",
+        "Party": "Pakistan Tehreek-e-Insaf Parliamentary",
+        "SymbolNo": 305,
+        "symbol_url": "https://symbols.azaadvote.com/turban.png"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Nawaz Mehmood",
+        "Name in Urdu": "نواز محمود",
+        "Address": "Muhalla Khan Bahdur P/O Khas Chakisar",
+        "Symbol": "MATCH BOX",
+        "Party": "Independent",
+        "SymbolNo": 172,
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-11/NA-11-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-11/NA-11-page-00002.jpg"
     ]
   },
   "NA-12": {
@@ -1719,6 +2065,469 @@
       "KP_Form-33_NAs (13-01-2024)_page-0021.jpg"
     ]
   },
+  "NA-16": {
+    "Constituency No": "NA-16",
+    "Constituency Name": "Abbottabad-I",
+    "Returning Officer": "Abbas Khan Afridi",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Ahmed Naseer",
+        "Name in Urdu": "احمد نصیر",
+        "Address": "Thala, VPO Berote Malkot Tehsil & District Abbottabad",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Sajjad Ahmed Khan",
+        "Name in Urdu": "سجاد احمد خان",
+        "Address": "PO Makool pain Dewal minal Tehsil Havelian Distt Abbottabad",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Markazi Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Sardar Ibrar Khan",
+        "Name in Urdu": "سردار ابرار خان",
+        "Address": "Mohallah sardaran, PO Havelian Sultanpur Havelian Distt Abbottabad",
+        "Symbol": "POMEGRANATE",
+        "Party": "Independent",
+        "SymbolNo": 208,
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Sardar Shabir Ahmed",
+        "Name in Urdu": "سردار شبیر احمد",
+        "Address": "Muhallah Narian,PO Samundar Katha Nagri Bala Abbottabad",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Sardar Mehtab Ahmed Khan",
+        "Name in Urdu": "سردار مہتاب احمد خان",
+        "Address": "PO Khas, Malkot Tehsil & District Abbottabad",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Syeda Zainab Kazmi",
+        "Name in Urdu": "سیدہ زینب کاظمی",
+        "Address": "Dewal Minal PO Na Tha & Distt Abbottabad",
+        "Symbol": "TENT",
+        "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
+        "SymbolNo": 282,
+        "symbol_url": "https://symbols.azaadvote.com/tent.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Shamraiz Khan",
+        "Name in Urdu": "شمریز خان",
+        "Address": "Khan Paen,PO Makool Paen, Makol Bala Tehsil & District Abbottabad",
+        "Symbol": "TURBAN",
+        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTIP)",
+        "SymbolNo": 305,
+        "symbol_url": "https://symbols.azaadvote.com/turban.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Tahir Javed Abbasi",
+        "Name in Urdu": "طاھر جاوید عباسی",
+        "Address": "Hothla,Dhakki Seer Gharbi Tehsil & District Abbottabad",
+        "Symbol": "STUDY TABLE WITH CHAIR",
+        "Party": "Independent",
+        "SymbolNo": 263,
+        "symbol_url": "https://symbols.azaadvote.com/study-table-with-chair.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Ali Asghar Khan",
+        "Name in Urdu": "علی اصغرخان",
+        "Address": "Kutcheray Road, House No 1, Abbottabad",
+        "Symbol": "BOWL",
+        "Party": "Independent",
+        "SymbolNo": 34,
+        "symbol_url": "https://symbols.azaadvote.com/bowl.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKxYzX1NCrZgUCYPq3E"
+        }
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Mubashir Lateef Abbasi",
+        "Name in Urdu": "مبشر لطیف عباسی",
+        "Address": "Mian PO Seer Gharbi Abbottabad",
+        "Symbol": "GAS CYLINDER",
+        "Party": "Independent",
+        "SymbolNo": 116,
+        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Muhammad Anwar Abbasi",
+        "Name in Urdu": "محمد انور عباسی",
+        "Address": "PO Hadorha,Dalola Tehsil & District Abbottabad",
+        "Symbol": "MOTORCYCLE",
+        "Party": "Pakistan Awami Tehreek",
+        "SymbolNo": 179,
+        "symbol_url": "https://symbols.azaadvote.com/moter-bike.png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Muhammad Rashid",
+        "Name in Urdu": "محمد رشید",
+        "Address": "Village Pangrorra PO Bara Hotar, Tehsil & District Abbottabad",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Murtaza Javed Abbasi",
+        "Name in Urdu": "مرتضی جاوید عباسی",
+        "Address": "Hothla, Seer Gharbi Tehsil & District Abbottabad",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Mehtab Ahmed",
+        "Name in Urdu": "مہتاب احمد",
+        "Address": "Majhoot PO mujhuan Tehsil & Distt Abbottabad",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Noor Ul Ain",
+        "Name in Urdu": "نورالعین",
+        "Address": "Shalzwan Colony PAF Camp Badier Peshawer",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Yasir Khan",
+        "Name in Urdu": "یاسر خان",
+        "Address": "Beri Pona, PO Khas, sajikot Tehsil & Distt Abbottabad",
+        "Symbol": "KETTLE",
+        "Party": "Independent",
+        "SymbolNo": 153,
+        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-16/NA-16-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-16/NA-16-page-00002.jpg"
+    ]
+  },
+  "NA-17": {
+    "Constituency No": "NA-17",
+    "Constituency Name": "Abbottabad-II",
+    "Returning Officer": "Returning Officer/NA-17 Abbottabad-II",
+    "NumPages": 1,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Arman ullah Khan",
+        "Name in Urdu": "ارمان الله خان",
+        "Address": "Upper Malikpura Abbottabad",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Saleem Shah",
+        "Name in Urdu": "سلیم شاہ",
+        "Address": "Tarnawai Abbottabad",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Attique Ur Rehman",
+        "Name in Urdu": "عتیق الرحمن",
+        "Address": "Mohallah Darek Nara Tehsil Havelian District Abbottabad",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Adnan Bin Abdul Aziz",
+        "Name in Urdu": "عدنان بن عبدال عزیز",
+        "Address": "Poly-technical Chowk Abbottabad",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Ali Khan Jadoon",
+        "Name in Urdu": "علی خان جدون",
+        "Address": "Jadoon House Mansehra Road Abbottabad",
+        "Symbol": "KETTLE",
+        "Party": "Independent",
+        "SymbolNo": 153,
+        "symbol_url": "https://symbols.azaadvote.com/kettle.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKc4JcDuMRdVEDAIp0M"
+        }
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Muhabbat Awan",
+        "Name in Urdu": "محبت اعوان",
+        "Address": "Banda Phagwariyan Abbottabad",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Muhammad Ishaq",
+        "Name in Urdu": "محمد اسحاق",
+        "Address": "Pind Kargo Khan Abbottabad",
+        "Symbol": "CHAPRAI",
+        "Party": "Independent",
+        "SymbolNo": 56,
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Muhammad Zia Khan",
+        "Name in Urdu": "محمد ضیا خان",
+        "Address": "Upper Malikpura Abbottabad",
+        "Symbol": "BUTTERFLY",
+        "Party": "Hazara Qaumi Mahaz Pakistan",
+        "SymbolNo": 44,
+        "symbol_url": "https://symbols.azaadvote.com/Butterfly.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Naseer Khan",
+        "Name in Urdu": "نصیر خان",
+        "Address": "Dhamtour Abbottabad",
+        "Symbol": "MOTORCYCLE",
+        "Party": "Pakistan Awami Tehreek",
+        "SymbolNo": 179,
+        "symbol_url": "https://symbols.azaadvote.com/moter-bike.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Naqeebullah Khan",
+        "Name in Urdu": "نقیب الله خان",
+        "Address": "Mirpur Abbottabad",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Yasira Bibi",
+        "Name in Urdu": "یاسرہ بی بی",
+        "Address": "Mohallah Baga Bandi Mera District Abbottabad",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Markazi Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-17/NA-17-page-00001.jpg"
+    ]
+  },
+  "NA-18": {
+    "Constituency No": "NA-18",
+    "Constituency Name": "Haripur",
+    "Returning Officer": "Mumtaz Mehmood",
+    "NumPages": 1,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Asad Usman",
+        "Name in Urdu": "اسد عثمان",
+        "Address": "Khalabat Township H # 1856 Sect # 4 Moh Kh Khalabat Tehsil and District Haripur",
+        "Symbol": "BOWL",
+        "Party": "Independent",
+        "SymbolNo": 34,
+        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Babar Nawaz Khan",
+        "Name in Urdu": "بابر نواز خان",
+        "Address": "Khalabat Township H # 178 Sect # 4 Moh Ds Khalabat Tehsil and District Haripur",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Zulfiqar Ahmed",
+        "Name in Urdu": "ذوالفقار احمد",
+        "Address": "Khalabat Township H # 845 Sect # 1, Moh Thalla Khalabat Tehsil and District Haripur",
+        "Symbol": "BENCH",
+        "Party": "Independent",
+        "SymbolNo": 26,
+        "symbol_url": "https://symbols.azaadvote.com/bench.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Rizwan Saeed Mughal",
+        "Name in Urdu": "رضوان سعید مغل",
+        "Address": "Al-Hamra Palace Near CMH GT Chazi Bhatta Tehsil Phado District Haripur",
+        "Symbol": "BED",
+        "Party": "Independent",
+        "SymbolNo": 23,
+        "symbol_url": "https://symbols.azaadvote.com/bed.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Syed Ali Zawar Hussain Naqvi",
+        "Name in Urdu": "سید علی ظوار حسین نقوی",
+        "Address": "Moh Haideri, Tarbela Tehsil Khanpur, District Haripur",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Syed Wajid Hussain Shah",
+        "Name in Urdu": "سید واجد حسین شاہ",
+        "Address": "KPO Kot Najibullah Sirya, Tehsil and District Haripur",
+        "Symbol": "TEAPOT",
+        "Party": "Independent",
+        "SymbolNo": 279,
+        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Shafqat Mehmood",
+        "Name in Urdu": "شفقت محمود",
+        "Address": "Boi Ghat, Tehsil Hassanabdal, District Attock",
+        "Symbol": "GOAT",
+        "Party": "Independent",
+        "SymbolNo": 123,
+        "symbol_url": "https://symbols.azaadvote.com/goat.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Abdul Shakoor",
+        "Name in Urdu": "عبدالشکور",
+        "Address": "P/O Khalabat Township Burg, Tehsil Ghazi, District Haripur",
+        "Symbol": "JEEP",
+        "Party": "Pakistan Islamic Republican Party",
+        "SymbolNo": 149,
+        "symbol_url": "https://symbols.azaadvote.com/Jeep.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Abdul Mateen",
+        "Name in Urdu": "عبدالمتین",
+        "Address": "Dhangi, Najafpur, Tehsil and District Haripur",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Marazi Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Omar Ayub Khan",
+        "Name in Urdu": "عمر ایوب خان",
+        "Address": "H #26/06 Rehana, Tehsil & District Haripur",
+        "Symbol": "LAPTOP",
+        "Party": "Independent",
+        "SymbolNo": 163,
+        "symbol_url": "https://symbols.azaadvote.com/laptop.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKpAiu7IUYRYGOMDO1E"
+        }
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Ghazan Iqbal Khan",
+        "Name in Urdu": "غزن اقبال خان",
+        "Address": "Moh Khurawaja PO Haripur Darwesh Tehsil and District Haripur",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Ghulam Mujtaba",
+        "Name in Urdu": "غلام مجتبیٰ",
+        "Address": "Moh Saeedabad Kot Najibullah Tehsil and District Haripur",
+        "Symbol": "RACKET",
+        "Party": "Independent",
+        "SymbolNo": 214,
+        "symbol_url": "https://symbols.azaadvote.com/racket.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Faiza Bibi Rasheed",
+        "Name in Urdu": "فیزا بی بی رشید",
+        "Address": "P/O Jamrood Tehsil Jamrood District Khyber Agency",
+        "Symbol": "CHIRAGH LAMP",
+        "Party": "Qaumi Watan Party",
+        "SymbolNo": 58,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Muhammad Ayub",
+        "Name in Urdu": "محمد ایوب",
+        "Address": "Moh: Khoo Haripur",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Muhammad Saleh",
+        "Name in Urdu": "محمد صالح",
+        "Address": "Moh: Darbar Shareef P/O Haripur Chohar Tehsil and District Haripur",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-18/NA-18-page-00001.jpg"
+    ]
+  },
   "NA-19": {
     "Constituency No": "NA-19",
     "Constituency Name": "Swabi-I",
@@ -1923,7 +2732,7 @@
       {
         "SerialNo": 3,
         "Name in English": "Shahram Khan",
-        "Name in Urdu": "شہرام خان",
+        "Name in Urdu": "شیرام خان",
         "Address": "Mohalla Babkikhel Tarakai, Tehsil Razzar, District Swabi",
         "Symbol": "DOVE",
         "Party": "Independent",
@@ -2006,6 +2815,130 @@
     ],
     "PageFiles": [
       "KP_Form-33_NAs (13-01-2024)_page-0028.jpg"
+    ]
+  },
+  "NA-21": {
+    "Constituency No": "NA-21",
+    "Constituency Name": "Mardan-I",
+    "Returning Officer": "O/o Additional Deputy Commissioner, District kacheri Mardan/RO NA-21, Mardan-04",
+    "NumPages": 1,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "",
+        "Name in Urdu": "احمد علی",
+        "Address": "Mohallah Sardar Gahri Palo Dheri Mardan",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "",
+        "Name in Urdu": "اسد علی",
+        "Address": "Hathyani Takht Bhai Hathyani",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "",
+        "Name in Urdu": "اعظم خان",
+        "Address": "Pair Shoti Baram Baoda Kashmir Abad Khan Qilla Mardan.",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan(F)",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "",
+        "Name in Urdu": "امیر حمزہ خان",
+        "Address": "Mohallah Ameer Zada Khan Rustam, Mardan.",
+        "Symbol": "KEY WITH LOCK",
+        "Party": "Independent",
+        "SymbolNo": 156,
+        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "",
+        "Name in Urdu": "پیر ولی شاہ محل",
+        "Address": "Katilang P/O Alo, Mardan Pakistan",
+        "Symbol": "SICKLE",
+        "Party": "Independent",
+        "SymbolNo": 246,
+        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "",
+        "Name in Urdu": "شاہ چار باغ",
+        "Address": "Shirki Baba P/O Katilang Mardan",
+        "Symbol": "POMEGRANATE",
+        "Party": "Independent",
+        "SymbolNo": 208,
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "",
+        "Name in Urdu": "عباد الرحمن",
+        "Address": "Tahfeed Colony Malakand Road Mardan",
+        "Symbol": "SCALE",
+        "Party": "Jamiat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "",
+        "Name in Urdu": "کامران",
+        "Address": "Khurram Rahman Abad P/O Ikram P/O",
+        "Symbol": "FRIDGE",
+        "Party": "Independent",
+        "SymbolNo": 13,
+        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "",
+        "Name in Urdu": "انجینئر افتخار",
+        "Address": "Khur Abad P/O Khas Mardan",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "",
+        "Name in Urdu": "مجاہد علی",
+        "Address": "Saifoor Abad P/O Hoti Mardan",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaGINV27IUYcxc3Li23i"
+        }
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "",
+        "Name in Urdu": "محمد علی",
+        "Address": "Chengai Baba Rustam",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Markazi Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-21/NA-21-page-00001.jpg"
     ]
   },
   "NA-22": {
@@ -2157,7 +3090,7 @@
       {
         "SerialNo": 15,
         "Name in English": "",
-        "Name in Urdu": "محمد عدنان",
+        "Name in Urdu": "محمد عاطف",
         "Address": "Fazal Colony, Par Hoti, Baghdada Road, Mardan",
         "Symbol": "SICKLE",
         "Party": "Independent",
@@ -2564,6 +3497,141 @@
       "KP_Form-33_NAs (13-01-2024)_page-0033.jpg"
     ]
   },
+  "NA-26": {
+    "Constituency No": "NA-26",
+    "Constituency Name": "Mohmand",
+    "Returning Officer": "Shakeel Ahmad",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Bilal Rehman",
+        "Name in Urdu": "بلال رحمان",
+        "Address": "Shati Kor P/O Mina Mandai Navi Kalli, Tehsil Haleemzai District Mohmand",
+        "Symbol": "BED",
+        "Party": "Independent",
+        "SymbolNo": 23,
+        "symbol_url": "https://symbols.azaadvote.com/bed.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Zar Khan",
+        "Name in Urdu": "زر خان",
+        "Address": "Zargar Abad Safi Masood P/O Lakarai,Tehsil Upper Mohmand District Mohmand",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Sajid Khan Son Of Taj Gul",
+        "Name in Urdu": "ساجد خان بن تاج گل",
+        "Address": "Yousaf Khel Ghallanai Khaas, P/O Ghallanai, Tehsil Haleemzai, District Mohmand",
+        "Symbol": "SWALLOW",
+        "Party": "Independent",
+        "SymbolNo": 267,
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Sajid Khan Son Of Sultan",
+        "Name in Urdu": "ساجد خان ولد سلطان",
+        "Address": "P/O Ghallanai Khaas , Tehsil Haleemzai District Mohmand",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKj8pyAe5Vr3hrTPC20"
+        }
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Abdul Waheed Khan",
+        "Name in Urdu": "عبدالوحید خان",
+        "Address": "Village Major Killy, ekka Ghund District Mohmand",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Muhammad Israr",
+        "Name in Urdu": "محمد اسرار",
+        "Address": "Masood Shawa Farsh P/O Lakarai Tehsil Upper Mohmand",
+        "Symbol": "MATCH BOX",
+        "Party": "Independent",
+        "SymbolNo": 172,
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Muhammad Siraj",
+        "Name in Urdu": "محمد سراج",
+        "Address": "Kocha Ahmad Khan P/O Chowk Yadgar, House No.2269, Muhalla Chunngyan, Peshawar",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Markazi Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Muhammad Saeed",
+        "Name in Urdu": "محمد سعید",
+        "Address": "Ghazi Baig, Tehsil Haleemzai, District Mohmand",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Muhammad Arif Son Of Abdur Razag",
+        "Name in Urdu": "محمد عارف بن عبدالرزاق",
+        "Address": "Irfan Kor,P/O Ghazi Baig, Tehsil,Upper Mohmand,District Mohmand",
+        "Symbol": "SUITCASE",
+        "Party": "Independent",
+        "SymbolNo": 264,
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Muhammad Arif Son Of Mir Azam Khan",
+        "Name in Urdu": "محمد عارف بن میر عظم خان",
+        "Address": "Halmizai, Adin Khel, P/O Ghallanai, Tehsil Halmizai, District Mohmand",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Nisar Ahmad",
+        "Name in Urdu": "نثار احمد",
+        "Address": "Major Hujam Killy P/O Ekka Ghund, Tehsil Ekka Ghund District Mohmand",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Noor Islami Safi",
+        "Name in Urdu": "نور اسلام صافی",
+        "Address": "Ghabari P/O Jakari , Qalagai Tehsil Safi,District Mohmand",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-26/NA-26-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-26/NA-26-page-00002.jpg"
+    ]
+  },
   "NA-27": {
     "Constituency No": "NA-27",
     "Constituency Name": "Khyber",
@@ -2716,6 +3784,305 @@
     ],
     "PageFiles": [
       "KP_Form-33_NAs (13-01-2024)_page-0036.jpg"
+    ]
+  },
+  "NA-28": {
+    "Constituency No": "NA-28",
+    "Constituency Name": "Peshawar-I",
+    "Returning Officer": "Niaz Mohammad",
+    "NumPages": 1,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Arbab Khudadad Khan",
+        "Name in Urdu": "ارباب خداداد خان",
+        "Address": "Budhi, Peshawar",
+        "Symbol": "WHEEL BARROW",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Ejaz Khan",
+        "Name in Urdu": "اعجاز خان",
+        "Address": "Shaghai Kpjdkiayan, PO Khas, Peshawar",
+        "Symbol": "LUNCH BOX",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/lunch-box.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Imtiaz Khan",
+        "Name in Urdu": "امتیاز خان",
+        "Address": "Boda Kander Khel, PO Mathra Peshawar",
+        "Symbol": "SPIDER",
+        "Party": "Pakistan Defence Qaomi Moment Rabita Ulama-e-Islam",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/spider.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Sana Ullah",
+        "Name in Urdu": "ثنا الله",
+        "Address": "Dab Naguman,PO Daudzai, Peshawar",
+        "Symbol": "RING",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Hashmat Khan",
+        "Name in Urdu": "حشمت خان",
+        "Address": "Nissata Ali Zai,PO Charpariza Peshawar",
+        "Symbol": "SCALE",
+        "Party": "Jamate-Islami Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Sajid Nawaz",
+        "Name in Urdu": "ساجد نواز",
+        "Address": "Ghari Ameed Khan, PO Pirbala, Peshawar",
+        "Symbol": "KEY CHAIN",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/key-chain.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKbcK31yT2CcCKuyd3p"
+        }
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Saeed Ullah",
+        "Name in Urdu": "سعید الله",
+        "Address": "Kandy Bala, PO Nahaqi Daudzai",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Imran Khattak",
+        "Name in Urdu": "عمران خٹک",
+        "Address": "Farman Manzil, H# 3, Warsak Road",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Kiramatullah Khan",
+        "Name in Urdu": "کرامت اللہ خان",
+        "Address": "PO Chaghar Matti, Peshawar",
+        "Symbol": "ARROW",
+        "Party": "PPP",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Muhammad Jan Muhammad",
+        "Name in Urdu": "محمد جان محمد",
+        "Address": "Asy korona, PO Zari Kore, Peshawar",
+        "Symbol": "SUN FLOWER",
+        "Party": "Tehreek Jawanan e Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/sun-flower.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Muhammad Fayaz Khan",
+        "Name in Urdu": "محمد فیاض خان",
+        "Address": "Sheikh Kaly, PO Mathra Peshawar",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Noor Alam Khan",
+        "Name in Urdu": "نور عالم خان",
+        "Address": "Haryana Payan, PO Charpariza, Peshawar",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Hidayat Ullah",
+        "Name in Urdu": "ھدایت الله",
+        "Address": "Muslim Abad, Ram Kashan, PO Bakshi Pul",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-28/NA-28-page-00001.jpg"
+    ]
+  },
+  "NA-29": {
+    "Constituency No": "NA-29",
+    "Constituency Name": "Peshawar-II",
+    "Returning Officer": "Mr. Mubashir Khurshid Nadeem",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Akhunzada Irfan Ullah Shah",
+        "Name in Urdu": "اخونزادہ عرفان اللہ شاہ",
+        "Address": "House # 2, Street # 4, Faqir Abad No.2 Post Office City Railway Station, Mohallah Zarah Colony, Distt & Tehsil Peshawar",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Arbab Amir Ayub",
+        "Name in Urdu": "ارباب عامر ایوب",
+        "Address": "Arbab Bangla Mera Kachori, Post Office Urmor Payan, Mera Kachori, Distt & Tehsil Peshawar",
+        "Symbol": "BOWL",
+        "Party": "Independent",
+        "SymbolNo": 34,
+        "symbol_url": "https://symbols.azaadvote.com/bowl.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKqU4y4yltX7OQpZX1K"
+        }
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Saqib Ullah Khan",
+        "Name in Urdu": "ثاقب اللہ خان",
+        "Address": "Hidayat Abad, G.T Road Chamkani, Distt & Tehsil Peshawar",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Sobia Shahid",
+        "Name in Urdu": "صوبیہ شاہد",
+        "Address": "House # 111, Street # 8, Phase-2 Hayatabad, Sector H/3 Distt & Tehsil Peshawar",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Jamil Badshah",
+        "Name in Urdu": "جمیل بادشاہ",
+        "Address": "Phandu Bala, Zarani Mohallah Azmat Abad, Post Office Phandu Bala, Distt & Tehsil Peshawar",
+        "Symbol": "CHAIR",
+        "Party": "Pakistan Marzai Muslim League",
+        "SymbolNo": 55,
+        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Riaz Ahmed Jan",
+        "Name in Urdu": "ریاض احمد جان",
+        "Address": "Qadeha Khel, Post Office Khas, Chamkani, Distt & Tehsil Peshawar",
+        "Symbol": "TRACTOR",
+        "Party": "Pakistan Muslim League",
+        "SymbolNo": 292,
+        "symbol_url": "https://symbols.azaadvote.com/tractor.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Sardar Wali Ahmadzai",
+        "Name in Urdu": "سردار ولی احمدزئ",
+        "Address": "Zahir Abad, Mohallah Ahmad Zai, Urmor Road Mera Kachori, Distt & Tehsil Peshawar",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Saeed Khan",
+        "Name in Urdu": "سعید خان",
+        "Address": "House # 415, Street #16, Ring Road Doran Pur Officer Colony Distt & Tehsil Peshawar",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Syed Sagheer Abbas",
+        "Name in Urdu": "سید صغیر عباس",
+        "Address": "Wadpaga, Distt & Tehsil Peshawar",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Tahir Nadeem",
+        "Name in Urdu": "طاہر ندیم",
+        "Address": "Lala Kalay, Post Office Ternab Farm, Distt & Tehsil Peshawar",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Ghulam Mohyuddin Malik",
+        "Name in Urdu": "غلام محی الدین ملک",
+        "Address": "Tube Well Korona, Nasir Pur, Distt & Tehsil Peshawar",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Farhan Qadeer",
+        "Name in Urdu": "فرحان قدیر",
+        "Address": "MPCSH, House # 132, Street No.8, Sector E-11/1, Islamabad",
+        "Symbol": "LUNCH BOX",
+        "Party": "Independent",
+        "SymbolNo": 170,
+        "symbol_url": "https://symbols.azaadvote.com/lunch-box.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Shafiq",
+        "Name in Urdu": "محمد شفیق",
+        "Address": "Mohallah Haji Abad, Umer Zai, Distt & Tehsil Charsadda",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Malik Amjad Aziz Khan",
+        "Name in Urdu": "ملک امجد عزیز خان",
+        "Address": "Hujra Malik Amjad Khan, Wadpaga Road Distt & Tehsil Peshawar",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-29/NA-29-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-29/NA-29-page-00002.jpg"
     ]
   },
   "NA-30": {
@@ -3116,7 +4483,7 @@
       {
         "SerialNo": 1,
         "Name in English": "Asif Khan S/O Ghulam Jan",
-        "Name in Urdu": "آصف خان بن غلام جان",
+        "Name in Urdu": "آصف خان ولد غلام جان",
         "Address": "Ashrafia Colony, Eid Gah Road P.O Afghan Colony House-362, St-4, Peshawar",
         "Symbol": "WHEEL BARROW",
         "Party": "Independent",
@@ -3503,6 +4870,201 @@
     ],
     "PageFiles": [
       "KP_Form-33_NAs (13-01-2024)_page-0045.jpg"
+    ]
+  },
+  "NA-34": {
+    "Constituency No": "NA-34",
+    "Constituency Name": "NOWSHERA-II",
+    "Returning Officer": "",
+    "NumPages": 2,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Ibn E Amin",
+        "Name in Urdu": "ابن امین",
+        "Address": "Near Habib Bank Akbarpura, Tehsil Pabbi NSR",
+        "Symbol": "SHEEP",
+        "Party": "Independent",
+        "SymbolNo": 241,
+        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Ishfaq Ahmad",
+        "Name in Urdu": "اشفاق احمد",
+        "Address": "Mohallah Zorab Baba Tehsil Pabbi NSR",
+        "Symbol": "BATTERY",
+        "Party": "Independent",
+        "SymbolNo": 21,
+        "symbol_url": "https://symbols.azaadvote.com/battery.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Ikram Ullah",
+        "Name in Urdu": "اکرام اللہ",
+        "Address": "Kandi Bala Taru Jabba Qasim, Tehsil Pabbi NSR",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Amjad Hussain",
+        "Name in Urdu": "امجد حسین",
+        "Address": "Mohallah Kandi Payan Pashtun Garhi Tehsil Pabbi NSR",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Pervaiz Khan Khattak",
+        "Name in Urdu": "پرویز خان خٹک",
+        "Address": "Mohallah Adamkhel Khesari Khas NSR",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Pirzada Nabi Amin",
+        "Name in Urdu": "پیرزادہ نبی امین",
+        "Address": "Mohallah Piran, Manki Sharif, Tehsil District Nowshera",
+        "Symbol": "KETTLE",
+        "Party": "Independent",
+        "SymbolNo": 153,
+        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Haji Akbar",
+        "Name in Urdu": "حاجی اکبر",
+        "Address": "Mohallah Babakhel Jabba Tar Jabba Khattak Tehsil Pabbi NSR",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Zulfiqar Ali",
+        "Name in Urdu": "زولفقار علی",
+        "Address": "Mohallah Miana Pashtun Garhi Tehsil Pabbi NSR",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKoQxqL7UVdAMrbeb0k"
+        }
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Shah Faisal",
+        "Name in Urdu": "شاہ فیصل",
+        "Address": "Mohallah Hassankhel Dagri Banda, Tehsil Pabbi NSR",
+        "Symbol": "LAPTOP",
+        "Party": "Independent",
+        "SymbolNo": 163,
+        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Imran Khattak",
+        "Name in Urdu": "عمران خٹک",
+        "Address": "Mohallah Badrashi Khel, Khas Manki Sharif NSR",
+        "Symbol": "TURBAN",
+        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTI(P))",
+        "SymbolNo": 305,
+        "symbol_url": "https://symbols.azaadvote.com/turban.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Muhammad Idrees Khattak",
+        "Name in Urdu": "محمد ادریس خٹک",
+        "Address": "Malik Mir Dag Ismailkhel Tehsil Pabbi NSR",
+        "Symbol": "ARROW",
+        "Party": "Pakistan Peoples Party Parliamentarians",
+        "SymbolNo": 12,
+        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Muhammad Saad Khattak",
+        "Name in Urdu": "محمد سعد خٹک",
+        "Address": "Mohallah Tekhadaran Dag Ismail Khel Pabbi Nowshera",
+        "Symbol": "FLOWER POT",
+        "Party": "Pakistan Aam Admi Movement",
+        "SymbolNo": 107,
+        "symbol_url": "https://symbols.azaadvote.com/flower-pot.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Muhammad Sikandar Asad",
+        "Name in Urdu": "محمد سکندر اسد",
+        "Address": "Mohallah Kandi Payan Pushtoon Garhi Tehsil Nowshera",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Muhammad Kashif",
+        "Name in Urdu": "محمد کاشف",
+        "Address": "Mohallah Taizai Tehsil Pabbi Nowshera",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Mufti Muhammad Sajjad",
+        "Name in Urdu": "مفتی محمد سجاد",
+        "Address": "Mohallah Mir Dag Ismail Khel Tehsil Pabbi Nowshera",
+        "Symbol": "BADGE",
+        "Party": "Independent",
+        "SymbolNo": 16,
+        "symbol_url": "https://symbols.azaadvote.com/badge.png"
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Mian Babar Shah Kaka Khel",
+        "Name in Urdu": "میاں بابر شاہ کاکا خیل",
+        "Address": "Al-Jameel House Peshawar Road Nowshera",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Nadia Ambreen Khattak",
+        "Name in Urdu": "نادیہ امبرین خٹک",
+        "Address": "Mohallah Abbas Khel Dag Ismail Khel Tehsil Pabbi Nowshera",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Nisar Ahmad Khattak",
+        "Name in Urdu": "نثار احمد خٹک",
+        "Address": "House No 54 Armour Colony Nowshera",
+        "Symbol": "PEN",
+        "Party": "Barabri Party Pakistan",
+        "SymbolNo": 195,
+        "symbol_url": "https://symbols.azaadvote.com/pen.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-34/NA-34-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-34/NA-34-page-00002.jpg"
     ]
   },
   "NA-35": {
@@ -3969,7 +5531,10 @@
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
         "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.png"
+        "symbol_url": "https://symbols.azaadvote.com/tent.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKT5JuChq6FfMQHa729"
+        }
       },
       {
         "SerialNo": 7,
@@ -4828,7 +6393,7 @@
       {
         "SerialNo": 4,
         "Name in English": "",
-        "Name in Urdu": "آفریدی نیک بخت خان",
+        "Name in Urdu": "اورنگزیب خان",
         "Address": "Kam Sarobi Tehsil Miranshah",
         "Symbol": "CLOCK",
         "Party": "Independent",
@@ -4951,6 +6516,412 @@
     ],
     "PageFiles": [
       "KP_Form-33_NAs (13-01-2024)_page-0060.jpg"
+    ]
+  },
+  "NA-41": {
+    "Constituency No": "NA-41",
+    "Constituency Name": "Lakki Marwat",
+    "Returning Officer": "Najeeb Ullah",
+    "NumPages": 3,
+    "Candidates": [
+      {
+        "SerialNo": 1,
+        "Name in English": "Akhtar Munir Marwat",
+        "Name in Urdu": "اختر منیر مروت",
+        "Address": "Mohallah Mina Khel Lakki Marwat",
+        "Symbol": "GOAT",
+        "Party": "Independent",
+        "SymbolNo": 123,
+        "symbol_url": "https://symbols.azaadvote.com/goat.png"
+      },
+      {
+        "SerialNo": 2,
+        "Name in English": "Asjad Mahmood",
+        "Name in Urdu": "اصجد محمود",
+        "Address": "Mohallah Shahbaz Khel PO Abdul Khel Tehsil Pahar Pur District Dera Ismail Khan",
+        "Symbol": "BOOK",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
+        "SymbolNo": 31,
+        "symbol_url": "https://symbols.azaadvote.com/book.png"
+      },
+      {
+        "SerialNo": 3,
+        "Name in English": "Ishfaq Ahmad Khan",
+        "Name in Urdu": "اشفاق احمد خان",
+        "Address": "Mohallah Mina Khel Lakki Tehsil and District Lakki Marwat",
+        "Symbol": "CALCULATOR",
+        "Party": "Independent",
+        "SymbolNo": 47,
+        "symbol_url": "https://symbols.azaadvote.com/calculator.png"
+      },
+      {
+        "SerialNo": 4,
+        "Name in English": "Ishfaq Muhammad",
+        "Name in Urdu": "اشفاق محمد",
+        "Address": "Mohallah Piran Gul Abad Kachi Qamar",
+        "Symbol": "LUNCH BOX",
+        "Party": "Independent",
+        "SymbolNo": 170,
+        "symbol_url": "https://symbols.azaadvote.com/lunch-box.png"
+      },
+      {
+        "SerialNo": 5,
+        "Name in English": "Amir Nawaz Khan",
+        "Name in Urdu": "امیر نواز خان",
+        "Address": "Ahmad Khel House Mohallah Saeed Khel Lakki Marwat",
+        "Symbol": "AIR COOLER",
+        "Party": "Independent",
+        "SymbolNo": 4,
+        "symbol_url": "https://symbols.azaadvote.com/air-cooler.png"
+      },
+      {
+        "SerialNo": 6,
+        "Name in English": "Inam Ullah Khan Son Of Muhammad Qasim Khan",
+        "Name in Urdu": "انعام اللہ خان ولد محمد قاسم خان",
+        "Address": "Mohallah Khoidad Khel Lakki Marwat",
+        "Symbol": "LAPTOP",
+        "Party": "Independent",
+        "SymbolNo": 163,
+        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+      },
+      {
+        "SerialNo": 7,
+        "Name in English": "Inam Ullah Khan Son Of Mirza Ali Khan",
+        "Name in Urdu": "انعام اللہ خان ولد مرزا علی خان",
+        "Address": "Village & PO Begu Khel Taraf Akku Khel Tehsil and District Lakki Marwat",
+        "Symbol": "SLATE",
+        "Party": "Independent",
+        "SymbolNo": 248,
+        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Sana Ullah Khan",
+        "Name in Urdu": "ثنا اللہ خان",
+        "Address": "Adamzai PO Tajori Tehsil & District Lakki Marwat",
+        "Symbol": "WATER COOLER",
+        "Party": "Independent",
+        "SymbolNo": 317,
+        "symbol_url": "https://symbols.azaadvote.com/water-cooler.png"
+      },
+      {
+        "SerialNo": 9,
+        "Name in English": "Daud Khan",
+        "Name in Urdu": "داود خان",
+        "Address": "Kotka Atlas Khan PO Serai Naurang District Lakki Marwat",
+        "Symbol": "STILL CAMERA",
+        "Party": "Independent",
+        "SymbolNo": 261,
+        "symbol_url": "https://symbols.azaadvote.com/still-camera.png"
+      },
+      {
+        "SerialNo": 10,
+        "Name in English": "Rafi Ullah Khan",
+        "Name in Urdu": "رفیع اللہ خان",
+        "Address": "Ahmad khel House Mohallah Saeed Khel Lakki Marwat.",
+        "Symbol": "COMPUTER",
+        "Party": "Independent",
+        "SymbolNo": 67,
+        "symbol_url": "https://symbols.azaadvote.com/computer.png"
+      },
+      {
+        "SerialNo": 11,
+        "Name in English": "Rafi Ullah Khan Marwat",
+        "Name in Urdu": "رفیع اللہ خان مروت",
+        "Address": "House No. 9, Gali No. 2, Mohallah Cambo Colony, Lahore",
+        "Symbol": "GAS CYLINDER",
+        "Party": "Independent",
+        "SymbolNo": 116,
+        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.png"
+      },
+      {
+        "SerialNo": 12,
+        "Name in English": "Riaz Ullah Khan",
+        "Name in Urdu": "ریاض اللہ خان",
+        "Address": "Kotka Hayat Ullah PO Seria Naurang District Lakki Marwat",
+        "Symbol": "TEAPOT",
+        "Party": "Independent",
+        "SymbolNo": 279,
+        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Salim Saif Ullah Khan",
+        "Name in Urdu": "سلیم سیف اللہ خان",
+        "Address": "Village Ghazni Khel, Tehsil Ghazni Khel",
+        "Symbol": "TRANSFORMER",
+        "Party": "Independent",
+        "SymbolNo": 294,
+        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Syed Muhammad Ali Shah",
+        "Name in Urdu": "سید محمد علی شاہ",
+        "Address": "Dara Pezu Tehsil & District Lakki Marwat",
+        "Symbol": "CRANE",
+        "Party": "Tehreek Labbaik Pakistan",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 15,
+        "Name in English": "Sher Afzal Khan",
+        "Name in Urdu": "شیر افضل خان",
+        "Address": "Mohalla Abu Samand Khel, PO Khas Begg Khel Tari Tachu Khel Tehsil & District Lakki Marwat",
+        "Symbol": "FLAMINGO",
+        "Party": "Independent",
+        "SymbolNo": 106,
+        "symbol_url": "https://symbols.azaadvote.com/flamingo.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKZqUzISTkCiyWcXo0f"
+        }
+      },
+      {
+        "SerialNo": 16,
+        "Name in English": "Salah Uddin",
+        "Name in Urdu": "صلاح الدین",
+        "Address": "PO Begukhel , Begu Khel Tari Achu Khel Tehsil & District Lakki Marwat.",
+        "Symbol": "PRESSURE COOKER",
+        "Party": "Independent",
+        "SymbolNo": 209,
+        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.png"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Tariq Saeed",
+        "Name in Urdu": "طارق سعید",
+        "Address": "PO Serai Naurang Nar Sahibzad Maidad Khel Tehsil Serai Naurang District Lakki Marwat",
+        "Symbol": "RADIO",
+        "Party": "Independent",
+        "SymbolNo": 215,
+        "symbol_url": "https://symbols.azaadvote.com/radio.png"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Zafar Ullah Khan",
+        "Name in Urdu": "ظفر اللہ خان",
+        "Address": "Ahmad Khel House Mohallah Saeed Khel Lakki Marwat",
+        "Symbol": "CLOCK",
+        "Party": "Independent",
+        "SymbolNo": 60,
+        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+      },
+      {
+        "SerialNo": 19,
+        "Name in English": "Zahoor Ud Din",
+        "Name in Urdu": "ظہور الدین",
+        "Address": "Gabar Shadi Khel PO Tajori Tati Possa Kali Tehsil & District FR Lakki Marwat",
+        "Symbol": "TAP",
+        "Party": "Independent",
+        "SymbolNo": 277,
+        "symbol_url": "https://symbols.azaadvote.com/tap.png"
+      },
+      {
+        "SerialNo": 20,
+        "Name in English": "Abdul Qadeer Khan",
+        "Name in Urdu": "عبدالقادر خان",
+        "Address": "Mohallah Ismail Khel Village & PO Abba Khel Tehsil and District Lakki Marwat",
+        "Symbol": "POMEGRANATE",
+        "Party": "Independent",
+        "SymbolNo": 208,
+        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
+      },
+      {
+        "SerialNo": 21,
+        "Name in English": "Abdullah",
+        "Name in Urdu": "عبداللہ",
+        "Address": "Mohallah Bangikhel And Landkwan Tehsil and District Lakki Marwat",
+        "Symbol": "CHARPAI",
+        "Party": "Independent",
+        "SymbolNo": 56,
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
+      },
+      {
+        "SerialNo": 22,
+        "Name in English": "Abdul Waheed Khan",
+        "Name in Urdu": "عبدالوحید خان",
+        "Address": "Hajji Khel Village & PO Begu Khel Tari Mehardad Khel Tehsil and District Lakki Marwat",
+        "Symbol": "RING",
+        "Party": "Rabita Jamiat Ulma-o-Islam (RJUI)",
+        "SymbolNo": 220,
+        "symbol_url": "https://symbols.azaadvote.com/ring.png"
+      },
+      {
+        "SerialNo": 23,
+        "Name in English": "Adnan Khan",
+        "Name in Urdu": "عدنان خان",
+        "Address": "Shah Alam Khel Village & PO Abba Khel Tehsil & District Lakki Marwat",
+        "Symbol": "HAND PUMP",
+        "Party": "Independent",
+        "SymbolNo": 130,
+        "symbol_url": "https://symbols.azaadvote.com/hand-pump.png"
+      },
+      {
+        "SerialNo": 24,
+        "Name in English": "Irfan Ullah",
+        "Name in Urdu": "عرفان اللہ",
+        "Address": "Kot Kashmir Tehsil & District Lakki Marwat",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan",
+        "SymbolNo": 232,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 25,
+        "Name in English": "Imran Ullah Khan",
+        "Name in Urdu": "عمران اللہ خان",
+        "Address": "Mohallah Khoidad Khel Lakki Marwat",
+        "Symbol": "SWALLOW",
+        "Party": "Independent",
+        "SymbolNo": 267,
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
+      },
+      {
+        "SerialNo": 26,
+        "Name in English": "Ghulam Akhbar",
+        "Name in Urdu": "غلام اخبر",
+        "Address": "PO Lakki Sarkati Michan Khel Tehsil & District Lakki Marwat",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+      },
+      {
+        "SerialNo": 27,
+        "Name in English": "Qudrat Ullah Khan",
+        "Name in Urdu": "قدرت اللہ خان",
+        "Address": "Bizar Khel PO Esak Khel Tehsil & District Lakki Marwat.",
+        "Symbol": "PEACOCK",
+        "Party": "Independent",
+        "SymbolNo": 194,
+        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+      },
+      {
+        "SerialNo": 28,
+        "Name in English": "Muhammad Iqbal",
+        "Name in Urdu": "محمد اقبال",
+        "Address": "Mohalla Saeed Khel Lakki Marwat",
+        "Symbol": "BED",
+        "Party": "Independent",
+        "SymbolNo": 23,
+        "symbol_url": "https://symbols.azaadvote.com/bed.png"
+      },
+      {
+        "SerialNo": 29,
+        "Name in English": "Muhammad Riaz Khan",
+        "Name in Urdu": "محمد ریاض خان",
+        "Address": "Gandi Khan Khel Tehsil Naurang District Lakki Marwat",
+        "Symbol": "LANTERN",
+        "Party": "Awami National Party",
+        "SymbolNo": 162,
+        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+      },
+      {
+        "SerialNo": 30,
+        "Name in English": "Muhammad Arif Khan",
+        "Name in Urdu": "محمد عارف خان",
+        "Address": "PO Esak Khel Langar Khel Hati Khan Tehsil and District Lakki Marwat",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+      },
+      {
+        "SerialNo": 31,
+        "Name in English": "Muhammad Fawad Raza Zakori",
+        "Name in Urdu": "محمد فواد رضا زاکوری",
+        "Address": "Khanga Aaliya Zakori Sharif House # 1651/2 Dera Ismail Khan",
+        "Symbol": "FRIDGE",
+        "Party": "Independent",
+        "SymbolNo": 113,
+        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
+      },
+      {
+        "SerialNo": 32,
+        "Name in English": "Masood Ur Rehman",
+        "Name in Urdu": "مسعود الرحمان",
+        "Address": "Gabar Bagh PO Tajori Tor Ragzai Kalay FR Lakki Marwat",
+        "Symbol": "SUITCASE",
+        "Party": "Independent",
+        "SymbolNo": 264,
+        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
+      },
+      {
+        "SerialNo": 33,
+        "Name in English": "Malik Noor Aslam Khan",
+        "Name in Urdu": "ملک نور اسلم خان",
+        "Address": "PO Masha Mansoor Tehsil and District Lakki Marwat",
+        "Symbol": "CRICKET STUMPS",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+      },
+      {
+        "SerialNo": 34,
+        "Name in English": "Mansoor Kamal Marwat",
+        "Name in Urdu": "منصور کمال مروت",
+        "Address": "Mina Khel Lakki Marwat",
+        "Symbol": "TIGER",
+        "Party": "Pakistan Muslim League (N)",
+        "SymbolNo": 284,
+        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
+      },
+      {
+        "SerialNo": 35,
+        "Name in English": "Naila Khan",
+        "Name in Urdu": "نائلہ خان",
+        "Address": "PO Ghazni Khel Taji Burrad Tehsil Ghazni Khel District Lakki Marwat",
+        "Symbol": "HAND BAG",
+        "Party": "Independent",
+        "SymbolNo": 131,
+        "symbol_url": "https://symbols.azaadvote.com/hand-bag.png"
+      },
+      {
+        "SerialNo": 36,
+        "Name in English": "Najib Ullah Khan",
+        "Name in Urdu": "نجیب الله خان",
+        "Address": "Mohalla Barat Khel Landiwah Tehsil and District Lakki Marwat",
+        "Symbol": "BRICK",
+        "Party": "Independent",
+        "SymbolNo": 35,
+        "symbol_url": "https://symbols.azaadvote.com/brick.png"
+      },
+      {
+        "SerialNo": 37,
+        "Name in English": "Noor Saleem Malik",
+        "Name in Urdu": "نور سلیم ملک",
+        "Address": "Malakano Kor PO Masha Mansoor Tehsil and District Lakki Marwat.",
+        "Symbol": "PHOTOSTAT MACHINE",
+        "Party": "Independent",
+        "SymbolNo": 200,
+        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.png"
+      },
+      {
+        "SerialNo": 38,
+        "Name in English": "Nawab Ali Khan",
+        "Name in Urdu": "نواب علی خان",
+        "Address": "Mohalla Baday Khel Village & PO Titter Khel Gul Jan Tehsil & District Lakki Marwat",
+        "Symbol": "QUEEN",
+        "Party": "Independent",
+        "SymbolNo": 211,
+        "symbol_url": "https://symbols.azaadvote.com/queen.png"
+      },
+      {
+        "SerialNo": 39,
+        "Name in English": "Haroon Naimat Ullah",
+        "Name in Urdu": "ہارون نعمت الله",
+        "Address": "Khero Khel Pacca Tehsil and District Lakki Marwat",
+        "Symbol": "BOWL",
+        "Party": "Independent",
+        "SymbolNo": 34,
+        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
+      }
+    ],
+    "PageFiles": [
+      "Revised/Khyber Pakhtunkhwa/NA-41/NA-41-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-41/NA-41-page-00002.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-41/NA-41-page-00003.jpg"
     ]
   },
   "NA-42": {
@@ -5492,1773 +7463,6 @@
       "KP_Form-33_NAs (13-01-2024)_page-0066.jpg"
     ]
   },
-  "NA-11": {
-    "Constituency No": "NA-11",
-    "Constituency Name": "Shangla",
-    "Returning Officer": "Muhammad Adnan",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Amir Muqam",
-        "Name in Urdu": "امیر مقام",
-        "Address": "Chagum P/O Aloch Tehsil Puran District Shangla",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Aurang Zeb",
-        "Name in Urdu": "اورنگ زیب",
-        "Address": "P/O Martung Tiwalaan Tehsil Martung District Shangla",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Bahr Room",
-        "Name in Urdu": "بحر روم",
-        "Address": "Awana Chakisar District Shangla",
-        "Symbol": "BULB",
-        "Party": "Awami Workers Party",
-        "SymbolNo": 40,
-        "symbol_url": "https://symbols.azaadvote.com/bulb.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Jawad Ali",
-        "Name in Urdu": "جواد علی",
-        "Address": "Kamar Hujra Chakisar District Shangla",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Hamid Iqbal Khan",
-        "Name in Urdu": "حامد اقبال خان",
-        "Address": "Peoples House Damorai Tehsil Alpuri District Shangla",
-        "Symbol": "BEAR",
-        "Party": "Independent",
-        "SymbolNo": 22,
-        "symbol_url": "https://symbols.azaadvote.com/bear.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Safeer Khan",
-        "Name in Urdu": "صفیر خان",
-        "Address": "Seer P/O Dandai Tehsil Besham District Shangla",
-        "Symbol": "SPOON",
-        "Party": "Independent",
-        "SymbolNo": 255,
-        "symbol_url": "https://symbols.azaadvote.com/spoon.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Sayed Ghafar",
-        "Name in Urdu": "سید غفار",
-        "Address": "P/O Aloch Bingali Tehsil Puran District Shangla",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Said Fareen",
-        "Name in Urdu": "سید فرین",
-        "Address": "Seer Dandai Tehsil Besham District Shangla",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Umar Zada",
-        "Name in Urdu": "عمر زادہ",
-        "Address": "Kekor Damorai Tehsil Alpuri District Shangla",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Fawad Ahmad Khan",
-        "Name in Urdu": "فواد احمد خان",
-        "Address": "Serai P/O Maira Tehsil Besham District Shangla",
-        "Symbol": "LOTUS",
-        "Party": "Independent",
-        "SymbolNo": 168,
-        "symbol_url": "https://symbols.azaadvote.com/lotus.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Gulzar Khan",
-        "Name in Urdu": "گلزار خان",
-        "Address": "Seer Dandai Tehsil Besham District Shangla",
-        "Symbol": "RACKET",
-        "Party": "Independent",
-        "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Muhammad Pervez",
-        "Name in Urdu": "محمد پرویز",
-        "Address": "Aloch Nimkalay Tehsil Puran District Shangla",
-        "Symbol": "SICKLE",
-        "Party": "Independent",
-        "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Muhammad Alam Khan",
-        "Name in Urdu": "محمد عالم خان",
-        "Address": "Burshat Mal Sar Amlok Karora Kuzkana Tehsil Alpuri District Shangla",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Musharraf Shah",
-        "Name in Urdu": "مشرف شاہ",
-        "Address": "Kamar Hujra Chakisar District Shangla",
-        "Symbol": "TEAPOT",
-        "Party": "Independent",
-        "SymbolNo": 279,
-        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Mian Nazir Rahman",
-        "Name in Urdu": "میاں نذیر رحمان",
-        "Address": "Cham Mani P/O Maira Tehsil Besham District Shangla",
-        "Symbol": "TURBAN",
-        "Party": "Pakistan Tehreek-e-Insaf Parliamentary",
-        "SymbolNo": 305,
-        "symbol_url": "https://symbols.azaadvote.com/turban.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Nawaz Mehmood",
-        "Name in Urdu": "نواز محمود",
-        "Address": "Muhalla Khan Bahdur P/O Khas Chakisar",
-        "Symbol": "MATCH BOX",
-        "Party": "Independent",
-        "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-11/NA-11-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-11/NA-11-page-00002.jpg"
-    ]
-  },
-  "NA-16": {
-    "Constituency No": "NA-16",
-    "Constituency Name": "Abbottabad-I",
-    "Returning Officer": "Abbas Khan Afridi",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Ahmed Naseer",
-        "Name in Urdu": "احمد نصیر",
-        "Address": "Thala, VPO Berote Malkot Tehsil & District Abbottabad",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Sajjad Ahmed Khan",
-        "Name in Urdu": "سجاد احمد خان",
-        "Address": "PO Makool pain Dewal minal Tehsil Havelian Distt Abbottabad",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Markazi Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Sardar Ibrar Khan",
-        "Name in Urdu": "سردار ابرار خان",
-        "Address": "Mohallah sardaran, PO Havelian Sultanpur Havelian Distt Abbottabad",
-        "Symbol": "POMEGRANATE",
-        "Party": "Independent",
-        "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Sardar Shabir Ahmed",
-        "Name in Urdu": "سردار شبیر احمد",
-        "Address": "Muhallah Narian,PO Samundar Katha Nagri Bala Abbottabad",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Sardar Mehtab Ahmed Khan",
-        "Name in Urdu": "سردار مہتاب احمد خان",
-        "Address": "PO Khas, Malkot Tehsil & District Abbottabad",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Syeda Zainab Kazmi",
-        "Name in Urdu": "سیدہ زینب کاظمی",
-        "Address": "Dewal Minal PO Na Tha & Distt Abbottabad",
-        "Symbol": "TENT",
-        "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
-        "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Shamraiz Khan",
-        "Name in Urdu": "شمریز خان",
-        "Address": "Khan Paen,PO Makool Paen, Makol Bala Tehsil & District Abbottabad",
-        "Symbol": "TURBAN",
-        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTIP)",
-        "SymbolNo": 305,
-        "symbol_url": "https://symbols.azaadvote.com/turban.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Tahir Javed Abbasi",
-        "Name in Urdu": "طاھر جاوید عباسی",
-        "Address": "Hothla,Dhakki Seer Gharbi Tehsil & District Abbottabad",
-        "Symbol": "STUDY TABLE WITH CHAIR",
-        "Party": "Independent",
-        "SymbolNo": 263,
-        "symbol_url": "https://symbols.azaadvote.com/study-table-with-chair.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Ali Asghar Khan",
-        "Name in Urdu": "علی اصغرخان",
-        "Address": "Kutcheray Road, House No 1, Abbottabad",
-        "Symbol": "BOWL",
-        "Party": "Independent",
-        "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Mubashir Lateef Abbasi",
-        "Name in Urdu": "مبشر لطیف عباسی",
-        "Address": "Mian PO Seer Gharbi Abbottabad",
-        "Symbol": "GAS CYLINDER",
-        "Party": "Independent",
-        "SymbolNo": 116,
-        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Muhammad Anwar Abbasi",
-        "Name in Urdu": "محمد انور عباسی",
-        "Address": "PO Hadorha,Dalola Tehsil & District Abbottabad",
-        "Symbol": "MOTORCYCLE",
-        "Party": "Pakistan Awami Tehreek",
-        "SymbolNo": 179,
-        "symbol_url": "https://symbols.azaadvote.com/moter-bike.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Muhammad Rashid",
-        "Name in Urdu": "محمد رشید",
-        "Address": "Village Pangrorra PO Bara Hotar, Tehsil & District Abbottabad",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Murtaza Javed Abbasi",
-        "Name in Urdu": "مرتضی جاوید عباسی",
-        "Address": "Hothla, Seer Gharbi Tehsil & District Abbottabad",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Mehtab Ahmed",
-        "Name in Urdu": "مہتاب احمد",
-        "Address": "Majhoot PO mujhuan Tehsil & Distt Abbottabad",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Noor Ul Ain",
-        "Name in Urdu": "نورالعین",
-        "Address": "Shalzwan Colony PAF Camp Badier Peshawer",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Yasir Khan",
-        "Name in Urdu": "یاسر خان",
-        "Address": "Beri Pona, PO Khas, sajikot Tehsil & Distt Abbottabad",
-        "Symbol": "KETTLE",
-        "Party": "Independent",
-        "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-16/NA-16-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-16/NA-16-page-00002.jpg"
-    ]
-  },
-  "NA-17": {
-    "Constituency No": "NA-17",
-    "Constituency Name": "Abbottabad-II",
-    "Returning Officer": "Returning Officer/NA-17 Abbottabad-II",
-    "NumPages": 1,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Arman ullah Khan",
-        "Name in Urdu": "ارمان الله خان",
-        "Address": "Upper Malikpura Abbottabad",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Saleem Shah",
-        "Name in Urdu": "سلیم شاہ",
-        "Address": "Tarnawai Abbottabad",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Attique Ur Rehman",
-        "Name in Urdu": "عتیق الرحمن",
-        "Address": "Mohallah Darek Nara Tehsil Havelian District Abbottabad",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Adnan Bin Abdul Aziz",
-        "Name in Urdu": "عدنان بن عبدال عزیز",
-        "Address": "Poly-technical Chowk Abbottabad",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Ali Khan Jadoon",
-        "Name in Urdu": "علی خان جدون",
-        "Address": "Jadoon House Mansehra Road Abbottabad",
-        "Symbol": "KETTLE",
-        "Party": "Independent",
-        "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Muhabbat Awan",
-        "Name in Urdu": "محبت اعوان",
-        "Address": "Banda Phagwariyan Abbottabad",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Muhammad Ishaq",
-        "Name in Urdu": "محمد اسحاق",
-        "Address": "Pind Kargo Khan Abbottabad",
-        "Symbol": "CHAPRAI",
-        "Party": "Independent",
-        "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Muhammad Zia Khan",
-        "Name in Urdu": "محمد ضیا خان",
-        "Address": "Upper Malikpura Abbottabad",
-        "Symbol": "BUTTERFLY",
-        "Party": "Hazara Qaumi Mahaz Pakistan",
-        "SymbolNo": 44,
-        "symbol_url": "https://symbols.azaadvote.com/Butterfly.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Naseer Khan",
-        "Name in Urdu": "نصیر خان",
-        "Address": "Dhamtour Abbottabad",
-        "Symbol": "MOTORCYCLE",
-        "Party": "Pakistan Awami Tehreek",
-        "SymbolNo": 179,
-        "symbol_url": "https://symbols.azaadvote.com/moter-bike.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Naqeebullah Khan",
-        "Name in Urdu": "نقیب الله خان",
-        "Address": "Mirpur Abbottabad",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Yasira Bibi",
-        "Name in Urdu": "یاسرہ بی بی",
-        "Address": "Mohallah Baga Bandi Mera District Abbottabad",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Markazi Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-17/NA-17-page-00001.jpg"
-    ]
-  },
-  "NA-18": {
-    "Constituency No": "NA-18",
-    "Constituency Name": "Haripur",
-    "Returning Officer": "Mumtaz Mehmood",
-    "NumPages": 1,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Asad Usman",
-        "Name in Urdu": "اسد عثمان",
-        "Address": "Khalabat Township H # 1856 Sect # 4 Moh Kh Khalabat Tehsil and District Haripur",
-        "Symbol": "BOWL",
-        "Party": "Independent",
-        "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Babar Nawaz Khan",
-        "Name in Urdu": "بابر نواز خان",
-        "Address": "Khalabat Township H # 178 Sect # 4 Moh Ds Khalabat Tehsil and District Haripur",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Zulfiqar Ahmed",
-        "Name in Urdu": "ذوالفقار احمد",
-        "Address": "Khalabat Township H # 845 Sect # 1, Moh Thalla Khalabat Tehsil and District Haripur",
-        "Symbol": "BENCH",
-        "Party": "Independent",
-        "SymbolNo": 26,
-        "symbol_url": "https://symbols.azaadvote.com/bench.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Rizwan Saeed Mughal",
-        "Name in Urdu": "رضوان سعید مغل",
-        "Address": "Al-Hamra Palace Near CMH GT Chazi Bhatta Tehsil Phado District Haripur",
-        "Symbol": "BED",
-        "Party": "Independent",
-        "SymbolNo": 23,
-        "symbol_url": "https://symbols.azaadvote.com/bed.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Syed Ali Zawar Hussain Naqvi",
-        "Name in Urdu": "سید علی ظوار حسین نقوی",
-        "Address": "Moh Haideri, Tarbela Tehsil Khanpur, District Haripur",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Syed Wajid Hussain Shah",
-        "Name in Urdu": "سید واجد حسین شاہ",
-        "Address": "KPO Kot Najibullah Sirya, Tehsil and District Haripur",
-        "Symbol": "TEAPOT",
-        "Party": "Independent",
-        "SymbolNo": 279,
-        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Shafqat Mehmood",
-        "Name in Urdu": "شفقت محمود",
-        "Address": "Boi Ghat, Tehsil Hassanabdal, District Attock",
-        "Symbol": "GOAT",
-        "Party": "Independent",
-        "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Abdul Shakoor",
-        "Name in Urdu": "عبدالشکور",
-        "Address": "P/O Khalabat Township Burg, Tehsil Ghazi, District Haripur",
-        "Symbol": "JEEP",
-        "Party": "Pakistan Islamic Republican Party",
-        "SymbolNo": 149,
-        "symbol_url": "https://symbols.azaadvote.com/Jeep.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Abdul Mateen",
-        "Name in Urdu": "عبدالمتین",
-        "Address": "Dhangi, Najafpur, Tehsil and District Haripur",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Marazi Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Omar Ayub Khan",
-        "Name in Urdu": "عمر ایوب خان",
-        "Address": "H #26/06 Rehana, Tehsil & District Haripur",
-        "Symbol": "LAPTOP",
-        "Party": "Independent",
-        "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Ghazan Iqbal Khan",
-        "Name in Urdu": "غزن اقبال خان",
-        "Address": "Moh Khurawaja PO Haripur Darwesh Tehsil and District Haripur",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Ghulam Mujtaba",
-        "Name in Urdu": "غلام مجتبیٰ",
-        "Address": "Moh Saeedabad Kot Najibullah Tehsil and District Haripur",
-        "Symbol": "RACKET",
-        "Party": "Independent",
-        "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Faiza Bibi Rasheed",
-        "Name in Urdu": "فیزا بی بی رشید",
-        "Address": "P/O Jamrood Tehsil Jamrood District Khyber Agency",
-        "Symbol": "CHIRAGH LAMP",
-        "Party": "Qaumi Watan Party",
-        "SymbolNo": 58,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Muhammad Ayub",
-        "Name in Urdu": "محمد ایوب",
-        "Address": "Moh: Khoo Haripur",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Muhammad Saleh",
-        "Name in Urdu": "محمد صالح",
-        "Address": "Moh: Darbar Shareef P/O Haripur Chohar Tehsil and District Haripur",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-18/NA-18-page-00001.jpg"
-    ]
-  },
-  "NA-21": {
-    "Constituency No": "NA-21",
-    "Constituency Name": "Mardan-I",
-    "Returning Officer": "O/o Additional Deputy Commissioner, District kacheri Mardan/RO NA-21, Mardan-04",
-    "NumPages": 1,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Mohallah Sardar Gahri Palo Dheri Mardan",
-        "Name in Urdu": "احمد علی",
-        "Address": "Dheri Mardan",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Hathyani Takht Bhai Hathyani",
-        "Name in Urdu": "اسد علی",
-        "Address": "Takht Bhai",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Pair Shoti Baram Baoda Kashmir Abad Khan Qilla Mardan.",
-        "Name in Urdu": "اعظم خان",
-        "Address": "Kashmir Abad Khan Qilla Mardan",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan(F)",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Mohallah Ameer Zada Khan Rustam, Mardan.",
-        "Name in Urdu": "امیر حمزہ خان",
-        "Address": "Rustam, Mardan",
-        "Symbol": "KEY WITH LOCK",
-        "Party": "Independent",
-        "SymbolNo": 156,
-        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Katilang P/O Alo, Mardan Pakistan",
-        "Name in Urdu": "پیر ولی شاہ محل",
-        "Address": "Katilang Mardan",
-        "Symbol": "SICKLE",
-        "Party": "Independent",
-        "SymbolNo": 246,
-        "symbol_url": "https://symbols.azaadvote.com/sickle.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Shirki Baba P/O Katilang Mardan",
-        "Name in Urdu": "شاہ چار باغ",
-        "Address": "Katilang Mardan",
-        "Symbol": "POMEGRANATE",
-        "Party": "Independent",
-        "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Tahfeed Colony Malakand Road Mardan",
-        "Name in Urdu": "عباد الرحمن",
-        "Address": "Malakand Road Mardan",
-        "Symbol": "SCALE",
-        "Party": "Jamiat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Khurram Rahman Abad P/O Ikram P/O",
-        "Name in Urdu": "کامران",
-        "Address": "Ikram P/O",
-        "Symbol": "FRIDGE",
-        "Party": "Independent",
-        "SymbolNo": 13,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Khur Abad P/O Khas Mardan",
-        "Name in Urdu": "انجینئر افتخار",
-        "Address": "Khur Abad P/O Khas Mardan",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Saifoor Abad P/O Hoti Mardan",
-        "Name in Urdu": "محبوب علی",
-        "Address": "Hoti Mardan",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Chengai Baba Rustam",
-        "Name in Urdu": "محمد علی",
-        "Address": "Rustam",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Markazi Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-21/NA-21-page-00001.jpg"
-    ]
-  },
-  "NA-26": {
-    "Constituency No": "NA-26",
-    "Constituency Name": "Mohmand",
-    "Returning Officer": "Shakeel Ahmad",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Bilal Rehman",
-        "Name in Urdu": "بلال رحمان",
-        "Address": "Shati Kor P/O Mina Mandai Navi Kalli, Tehsil Haleemzai District Mohmand",
-        "Symbol": "BED",
-        "Party": "Independent",
-        "SymbolNo": 23,
-        "symbol_url": "https://symbols.azaadvote.com/bed.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Zar Khan",
-        "Name in Urdu": "زر خان",
-        "Address": "Zargar Abad Safi Masood P/O Lakarai,Tehsil Upper Mohmand District Mohmand",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Sajid Khan Son Of Taj Gul",
-        "Name in Urdu": "ساجد خان بن تاج گل",
-        "Address": "Yousaf Khel Ghallanai Khaas, P/O Ghallanai, Tehsil Haleemzai, District Mohmand",
-        "Symbol": "SWALLOW",
-        "Party": "Independent",
-        "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Sajid Khan Son Of Sultan",
-        "Name in Urdu": "ساجد خان بن سلطان",
-        "Address": "P/O Ghallanai Khaas , Tehsil Haleemzai District Mohmand",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Abdul Waheed Khan",
-        "Name in Urdu": "عبدالوحید خان",
-        "Address": "Village Major Killy, ekka Ghund District Mohmand",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Muhammad Israr",
-        "Name in Urdu": "محمد اسرار",
-        "Address": "Masood Shawa Farsh P/O Lakarai Tehsil Upper Mohmand",
-        "Symbol": "MATCH BOX",
-        "Party": "Independent",
-        "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Muhammad Siraj",
-        "Name in Urdu": "محمد سراج",
-        "Address": "Kocha Ahmad Khan P/O Chowk Yadgar, House No.2269, Muhalla Chunngyan, Peshawar",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Markazi Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Muhammad Saeed",
-        "Name in Urdu": "محمد سعید",
-        "Address": "Ghazi Baig, Tehsil Haleemzai, District Mohmand",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Muhammad Arif Son Of Abdur Razag",
-        "Name in Urdu": "محمد عارف بن عبدالرزاق",
-        "Address": "Irfan Kor,P/O Ghazi Baig, Tehsil,Upper Mohmand,District Mohmand",
-        "Symbol": "SUITCASE",
-        "Party": "Independent",
-        "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Muhammad Arif Son Of Mir Azam Khan",
-        "Name in Urdu": "محمد عارف بن میر عظم خان",
-        "Address": "Halmizai, Adin Khel, P/O Ghallanai, Tehsil Halmizai, District Mohmand",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Nisar Ahmad",
-        "Name in Urdu": "نثار احمد",
-        "Address": "Major Hujam Killy P/O Ekka Ghund, Tehsil Ekka Ghund District Mohmand",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Noor Islami Safi",
-        "Name in Urdu": "نور اسلام صافی",
-        "Address": "Ghabari P/O Jakari , Qalagai Tehsil Safi,District Mohmand",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-26/NA-26-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-26/NA-26-page-00002.jpg"
-    ]
-  },
-  "NA-28": {
-    "Constituency No": "NA-28",
-    "Constituency Name": "Peshawar-I",
-    "Returning Officer": "Niaz Mohammad",
-    "NumPages": 1,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Arbab Khudadad Khan",
-        "Name in Urdu": "ارباب خداداد خان",
-        "Address": "Budhi, Peshawar",
-        "Symbol": "WHEEL BARROW",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/wheel-barrow.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Ejaz Khan",
-        "Name in Urdu": "اعجاز خان",
-        "Address": "Shaghai Kpjdkiayan, PO Khas, Peshawar",
-        "Symbol": "LUNCH BOX",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/lunch-box.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Imtiaz Khan",
-        "Name in Urdu": "امتیاز خان",
-        "Address": "Boda Kander Khel, PO Mathra Peshawar",
-        "Symbol": "SPIDER",
-        "Party": "Pakistan Defence Qaomi Moment Rabita Ulama-e-Islam",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/spider.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Sana Ullah",
-        "Name in Urdu": "ثنا الله",
-        "Address": "Dab Naguman,PO Daudzai, Peshawar",
-        "Symbol": "RING",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Hashmat Khan",
-        "Name in Urdu": "حشمت خان",
-        "Address": "Nissata Ali Zai,PO Charpariza Peshawar",
-        "Symbol": "SCALE",
-        "Party": "Jamate-Islami Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Sajid Nawaz",
-        "Name in Urdu": "ساجد نواز",
-        "Address": "Ghari Ameed Khan, PO Pirbala, Peshawar",
-        "Symbol": "KEY CHAIN",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/key-chain.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Saeed Ullah",
-        "Name in Urdu": "سعید الله",
-        "Address": "Kandy Bala, PO Nahaqi Daudzai",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Imran Khattak",
-        "Name in Urdu": "عمران خٹک",
-        "Address": "Farman Manzil, H# 3, Warsak Road",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Kiramatullah Khan",
-        "Name in Urdu": "کرامت اللہ خان",
-        "Address": "PO Chaghar Matti, Peshawar",
-        "Symbol": "ARROW",
-        "Party": "PPP",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Muhammad Jan Muhammad",
-        "Name in Urdu": "محمد جان محمد",
-        "Address": "Asy korona, PO Zari Kore, Peshawar",
-        "Symbol": "SUN FLOWER",
-        "Party": "Tehreek Jawanan e Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/sun-flower.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Muhammad Fayaz Khan",
-        "Name in Urdu": "محمد فیاض خان",
-        "Address": "Sheikh Kaly, PO Mathra Peshawar",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Noor Alam Khan",
-        "Name in Urdu": "نور عالم خان",
-        "Address": "Haryana Payan, PO Charpariza, Peshawar",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Hidayat Ullah",
-        "Name in Urdu": "ھدایت الله",
-        "Address": "Muslim Abad, Ram Kashan, PO Bakshi Pul",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-28/NA-28-page-00001.jpg"
-    ]
-  },
-  "NA-29": {
-    "Constituency No": "NA-29",
-    "Constituency Name": "Peshawar-II",
-    "Returning Officer": "Mr. Mubashir Khurshid Nadeem",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Akhunzada Irfan Ullah Shah",
-        "Name in Urdu": "اخونزادہ عرفان اللہ شاہ",
-        "Address": "House # 2, Street # 4, Faqir Abad No.2 Post Office City Railway Station, Mohallah Zarah Colony, Distt & Tehsil Peshawar",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Arbab Amir Ayub",
-        "Name in Urdu": "ارباب امیر ایوب",
-        "Address": "Arbab Bangla Mera Kachori, Post Office Urmor Payan, Mera Kachori, Distt & Tehsil Peshawar",
-        "Symbol": "BOWL",
-        "Party": "Independent",
-        "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Saqib Ullah Khan",
-        "Name in Urdu": "ثاقب اللہ خان",
-        "Address": "Hidayat Abad, G.T Road Chamkani, Distt & Tehsil Peshawar",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Sobia Shahid",
-        "Name in Urdu": "صوبیہ شاہد",
-        "Address": "House # 111, Street # 8, Phase-2 Hayatabad, Sector H/3 Distt & Tehsil Peshawar",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Jamil Badshah",
-        "Name in Urdu": "جمیل بادشاہ",
-        "Address": "Phandu Bala, Zarani Mohallah Azmat Abad, Post Office Phandu Bala, Distt & Tehsil Peshawar",
-        "Symbol": "CHAIR",
-        "Party": "Pakistan Marzai Muslim League",
-        "SymbolNo": 55,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Riaz Ahmed Jan",
-        "Name in Urdu": "ریاض احمد جان",
-        "Address": "Qadeha Khel, Post Office Khas, Chamkani, Distt & Tehsil Peshawar",
-        "Symbol": "TRACTOR",
-        "Party": "Pakistan Muslim League",
-        "SymbolNo": 292,
-        "symbol_url": "https://symbols.azaadvote.com/tractor.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Sardar Wali Ahmadzai",
-        "Name in Urdu": "سردار ولی احمدزئ",
-        "Address": "Zahir Abad, Mohallah Ahmad Zai, Urmor Road Mera Kachori, Distt & Tehsil Peshawar",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Saeed Khan",
-        "Name in Urdu": "سعید خان",
-        "Address": "House # 415, Street #16, Ring Road Doran Pur Officer Colony Distt & Tehsil Peshawar",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Syed Sagheer Abbas",
-        "Name in Urdu": "سید صغیر عباس",
-        "Address": "Wadpaga, Distt & Tehsil Peshawar",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Tahir Nadeem",
-        "Name in Urdu": "طاہر ندیم",
-        "Address": "Lala Kalay, Post Office Ternab Farm, Distt & Tehsil Peshawar",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Ghulam Mohyuddin Malik",
-        "Name in Urdu": "غلام محی الدین ملک",
-        "Address": "Tube Well Korona, Nasir Pur, Distt & Tehsil Peshawar",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Farhan Qadeer",
-        "Name in Urdu": "فرحان قدیر",
-        "Address": "MPCSH, House # 132, Street No.8, Sector E-11/1, Islamabad",
-        "Symbol": "LUNCH BOX",
-        "Party": "Independent",
-        "SymbolNo": 170,
-        "symbol_url": "https://symbols.azaadvote.com/lunch-box.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Muhammad Shafiq",
-        "Name in Urdu": "محمد شفیق",
-        "Address": "Mohallah Haji Abad, Umer Zai, Distt & Tehsil Charsadda",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Malik Amjad Aziz Khan",
-        "Name in Urdu": "ملک امجد عزیز خان",
-        "Address": "Hujra Malik Amjad Khan, Wadpaga Road Distt & Tehsil Peshawar",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-29/NA-29-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-29/NA-29-page-00002.jpg"
-    ]
-  },
-  "NA-34": {
-    "Constituency No": "NA-34",
-    "Constituency Name": "NOWSHERA-II",
-    "Returning Officer": "",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Ibn E Amin",
-        "Name in Urdu": "ابن امین",
-        "Address": "Near Habib Bank Akbarpura, Tehsil Pabbi NSR",
-        "Symbol": "SHEEP",
-        "Party": "Independent",
-        "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Ishfaq Ahmad",
-        "Name in Urdu": "اشفاق احمد",
-        "Address": "Mohallah Zorab Baba Tehsil Pabbi NSR",
-        "Symbol": "BATTERY",
-        "Party": "Independent",
-        "SymbolNo": 21,
-        "symbol_url": "https://symbols.azaadvote.com/battery.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Ikram Ullah",
-        "Name in Urdu": "اکرام اللہ",
-        "Address": "Kandi Bala Taru Jabba Qasim, Tehsil Pabbi NSR",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Amjad Hussain",
-        "Name in Urdu": "امجد حسین",
-        "Address": "Mohallah Kandi Payan Pashtun Garhi Tehsil Pabbi NSR",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Pervaiz Khan Khattak",
-        "Name in Urdu": "پرویز خان خٹک",
-        "Address": "Mohallah Adamkhel Khesari Khas NSR",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Pirzada Nabi Amin",
-        "Name in Urdu": "پیرزادہ نبی امین",
-        "Address": "Mohallah Piran, Manki Sharif, Tehsil District Nowshera",
-        "Symbol": "KETTLE",
-        "Party": "Independent",
-        "SymbolNo": 153,
-        "symbol_url": "https://symbols.azaadvote.com/kettle.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Haji Akbar",
-        "Name in Urdu": "حاجی اکبر",
-        "Address": "Mohallah Babakhel Jabba Tar Jabba Khattak Tehsil Pabbi NSR",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Zulfiqar Ali",
-        "Name in Urdu": "زلفیقار علی",
-        "Address": "Mohallah Miana Pashtun Garhi Tehsil Pabbi NSR",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Shah Faisal",
-        "Name in Urdu": "شاہ فیصل",
-        "Address": "Mohallah Hassankhel Dagri Banda, Tehsil Pabbi NSR",
-        "Symbol": "LAPTOP",
-        "Party": "Independent",
-        "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Imran Khattak",
-        "Name in Urdu": "عمران خٹک",
-        "Address": "Mohallah Badrashi Khel, Khas Manki Sharif NSR",
-        "Symbol": "TURBAN",
-        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTI(P))",
-        "SymbolNo": 305,
-        "symbol_url": "https://symbols.azaadvote.com/turban.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Muhammad Idrees Khattak",
-        "Name in Urdu": "محمد ادریس خٹک",
-        "Address": "Malik Mir Dag Ismailkhel Tehsil Pabbi NSR",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Muhammad Saad Khattak",
-        "Name in Urdu": "محمد سعد خٹک",
-        "Address": "Mohallah Tekhadaran Dag Ismail Khel Pabbi Nowshera",
-        "Symbol": "FLOWER POT",
-        "Party": "Pakistan Aam Admi Movement",
-        "SymbolNo": 107,
-        "symbol_url": "https://symbols.azaadvote.com/flower-pot.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Muhammad Sikandar Asad",
-        "Name in Urdu": "محمد سکندر اسد",
-        "Address": "Mohallah Kandi Payan Pushtoon Garhi Tehsil Nowshera",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Muhammad Kashif",
-        "Name in Urdu": "محمد کاشف",
-        "Address": "Mohallah Taizai Tehsil Pabbi Nowshera",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Mufti Muhammad Sajjad",
-        "Name in Urdu": "مفتی محمد سجاد",
-        "Address": "Mohallah Mir Dag Ismail Khel Tehsil Pabbi Nowshera",
-        "Symbol": "BADGE",
-        "Party": "Independent",
-        "SymbolNo": 16,
-        "symbol_url": "https://symbols.azaadvote.com/badge.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Mian Babar Shah Kaka Khel",
-        "Name in Urdu": "میاں بابر شاہ کاکا خیل",
-        "Address": "Al-Jameel House Peshawar Road Nowshera",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 17,
-        "Name in English": "Nadia Ambreen Khattak",
-        "Name in Urdu": "نادیہ امبرین خٹک",
-        "Address": "Mohallah Abbas Khel Dag Ismail Khel Tehsil Pabbi Nowshera",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Nisar Ahmad Khattak",
-        "Name in Urdu": "نثار احمد خٹک",
-        "Address": "House No 54 Armour Colony Nowshera",
-        "Symbol": "PEN",
-        "Party": "Barabri Party Pakistan",
-        "SymbolNo": 195,
-        "symbol_url": "https://symbols.azaadvote.com/pen.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-34/NA-34-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-34/NA-34-page-00002.jpg"
-    ]
-  },
-  "NA-41": {
-    "Constituency No": "NA-41",
-    "Constituency Name": "Lakki Marwat",
-    "Returning Officer": "Najeeb Ullah",
-    "NumPages": 3,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Akhtar Munir Marwat",
-        "Name in Urdu": "اختر منیر مروت",
-        "Address": "Mohallah Mina Khel Lakki Marwat",
-        "Symbol": "GOAT",
-        "Party": "Independent",
-        "SymbolNo": 123,
-        "symbol_url": "https://symbols.azaadvote.com/goat.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Asjad Mahmood",
-        "Name in Urdu": "اصجد محمود",
-        "Address": "Mohallah Shahbaz Khel PO Abdul Khel Tehsil Pahar Pur District Dera Ismail Khan",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Ishfaq Ahmad Khan",
-        "Name in Urdu": "اشفاق احمد خان",
-        "Address": "Mohallah Mina Khel Lakki Tehsil and District Lakki Marwat",
-        "Symbol": "CALCULATOR",
-        "Party": "Independent",
-        "SymbolNo": 47,
-        "symbol_url": "https://symbols.azaadvote.com/calculator.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Ishfaq Muhammad",
-        "Name in Urdu": "اشفاق محمد",
-        "Address": "Mohallah Piran Gul Abad Kachi Qamar",
-        "Symbol": "LUNCH BOX",
-        "Party": "Independent",
-        "SymbolNo": 170,
-        "symbol_url": "https://symbols.azaadvote.com/lunch-box.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Amir Nawaz Khan",
-        "Name in Urdu": "امیر نواز خان",
-        "Address": "Ahmad Khel House Mohallah Saeed Khel Lakki Marwat",
-        "Symbol": "AIR COOLER",
-        "Party": "Independent",
-        "SymbolNo": 4,
-        "symbol_url": "https://symbols.azaadvote.com/air-cooler.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Inam Ullah Khan Son Of Muhammad Qasim Khan",
-        "Name in Urdu": "انعام اللہ خان ولد محمد قاسم خان",
-        "Address": "Mohallah Khoidad Khel Lakki Marwat",
-        "Symbol": "LAPTOP",
-        "Party": "Independent",
-        "SymbolNo": 163,
-        "symbol_url": "https://symbols.azaadvote.com/laptop.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Inam Ullah Khan Son Of Mirza Ali Khan",
-        "Name in Urdu": "انعام اللہ خان ولد مرزا علی خان",
-        "Address": "Village & PO Begu Khel Taraf Akku Khel Tehsil and District Lakki Marwat",
-        "Symbol": "SLATE",
-        "Party": "Independent",
-        "SymbolNo": 248,
-        "symbol_url": "https://symbols.azaadvote.com/Slate.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Sana Ullah Khan",
-        "Name in Urdu": "ثنا اللہ خان",
-        "Address": "Adamzai PO Tajori Tehsil & District Lakki Marwat",
-        "Symbol": "WATER COOLER",
-        "Party": "Independent",
-        "SymbolNo": 317,
-        "symbol_url": "https://symbols.azaadvote.com/water-cooler.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Daud Khan",
-        "Name in Urdu": "داود خان",
-        "Address": "Kotka Atlas Khan PO Serai Naurang District Lakki Marwat",
-        "Symbol": "STILL CAMERA",
-        "Party": "Independent",
-        "SymbolNo": 261,
-        "symbol_url": "https://symbols.azaadvote.com/still-camera.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Rafi Ullah Khan",
-        "Name in Urdu": "رفیع اللہ خان",
-        "Address": "Ahmad khel House Mohallah Saeed Khel Lakki Marwat.",
-        "Symbol": "COMPUTER",
-        "Party": "Independent",
-        "SymbolNo": 67,
-        "symbol_url": "https://symbols.azaadvote.com/computer.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Rafi Ullah Khan Marwat",
-        "Name in Urdu": "رفیع اللہ خان مروت",
-        "Address": "House No. 9, Gali No. 2, Mohallah Cambo Colony, Lahore",
-        "Symbol": "GAS CYLINDER",
-        "Party": "Independent",
-        "SymbolNo": 116,
-        "symbol_url": "https://symbols.azaadvote.com/gas-cylinder.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Riaz Ullah Khan",
-        "Name in Urdu": "ریاض اللہ خان",
-        "Address": "Kotka Hayat Ullah PO Seria Naurang District Lakki Marwat",
-        "Symbol": "TEAPOT",
-        "Party": "Independent",
-        "SymbolNo": 279,
-        "symbol_url": "https://symbols.azaadvote.com/teapot.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Salim Saif Ullah Khan",
-        "Name in Urdu": "سلیم سیف اللہ خان",
-        "Address": "Village Ghazni Khel, Tehsil Ghazni Khel",
-        "Symbol": "TRANSFORMER",
-        "Party": "Independent",
-        "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Syed Muhammad Ali Shah",
-        "Name in Urdu": "سید محمد علی شاہ",
-        "Address": "Dara Pezu Tehsil & District Lakki Marwat",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Sher Afzal Khan",
-        "Name in Urdu": "شیر افضل خان",
-        "Address": "Mohalla Abu Samand Khel, PO Khas Begg Khel Tari Tachu Khel Tehsil & District Lakki Marwat",
-        "Symbol": "FLAMINGO",
-        "Party": "Independent",
-        "SymbolNo": 106,
-        "symbol_url": "https://symbols.azaadvote.com/flamingo.png"
-      },
-      {
-        "SerialNo": 16,
-        "Name in English": "Salah Uddin",
-        "Name in Urdu": "صلاح الدین",
-        "Address": "PO Begukhel , Begu Khel Tari Achu Khel Tehsil & District Lakki Marwat.",
-        "Symbol": "PRESSURE COOKER",
-        "Party": "Independent",
-        "SymbolNo": 209,
-        "symbol_url": "https://symbols.azaadvote.com/pressure-cooker.png"
-      },
-      {
-        "SerialNo": 17,
-        "Name in English": "Tariq Saeed",
-        "Name in Urdu": "طارق سعید",
-        "Address": "PO Serai Naurang Nar Sahibzad Maidad Khel Tehsil Serai Naurang District Lakki Marwat",
-        "Symbol": "RADIO",
-        "Party": "Independent",
-        "SymbolNo": 215,
-        "symbol_url": "https://symbols.azaadvote.com/radio.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Zafar Ullah Khan",
-        "Name in Urdu": "ظفر اللہ خان",
-        "Address": "Ahmad Khel House Mohallah Saeed Khel Lakki Marwat",
-        "Symbol": "CLOCK",
-        "Party": "Independent",
-        "SymbolNo": 60,
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
-      },
-      {
-        "SerialNo": 19,
-        "Name in English": "Zahoor Ud Din",
-        "Name in Urdu": "ظہور الدین",
-        "Address": "Gabar Shadi Khel PO Tajori Tati Possa Kali Tehsil & District FR Lakki Marwat",
-        "Symbol": "TAP",
-        "Party": "Independent",
-        "SymbolNo": 277,
-        "symbol_url": "https://symbols.azaadvote.com/tap.png"
-      },
-      {
-        "SerialNo": 20,
-        "Name in English": "Abdul Qadeer Khan",
-        "Name in Urdu": "عبدالقادر خان",
-        "Address": "Mohallah Ismail Khel Village & PO Abba Khel Tehsil and District Lakki Marwat",
-        "Symbol": "POMEGRANATE",
-        "Party": "Independent",
-        "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
-      },
-      {
-        "SerialNo": 21,
-        "Name in English": "Abdullah",
-        "Name in Urdu": "عبداللہ",
-        "Address": "Mohallah Bangikhel And Landkwan Tehsil and District Lakki Marwat",
-        "Symbol": "CHARPAI",
-        "Party": "Independent",
-        "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
-      },
-      {
-        "SerialNo": 22,
-        "Name in English": "Abdul Waheed Khan",
-        "Name in Urdu": "عبدالوحید خان",
-        "Address": "Hajji Khel Village & PO Begu Khel Tari Mehardad Khel Tehsil and District Lakki Marwat",
-        "Symbol": "RING",
-        "Party": "Rabita Jamiat Ulma-o-Islam (RJUI)",
-        "SymbolNo": 220,
-        "symbol_url": "https://symbols.azaadvote.com/ring.png"
-      },
-      {
-        "SerialNo": 23,
-        "Name in English": "Adnan Khan",
-        "Name in Urdu": "عدنان خان",
-        "Address": "Shah Alam Khel Village & PO Abba Khel Tehsil & District Lakki Marwat",
-        "Symbol": "HAND PUMP",
-        "Party": "Independent",
-        "SymbolNo": 130,
-        "symbol_url": "https://symbols.azaadvote.com/hand-pump.png"
-      },
-      {
-        "SerialNo": 24,
-        "Name in English": "Irfan Ullah",
-        "Name in Urdu": "عرفان اللہ",
-        "Address": "Kot Kashmir Tehsil & District Lakki Marwat",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 25,
-        "Name in English": "Imran Ullah Khan",
-        "Name in Urdu": "عمران اللہ خان",
-        "Address": "Mohallah Khoidad Khel Lakki Marwat",
-        "Symbol": "SWALLOW",
-        "Party": "Independent",
-        "SymbolNo": 267,
-        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
-      },
-      {
-        "SerialNo": 26,
-        "Name in English": "Ghulam Akhbar",
-        "Name in Urdu": "غلام اخبر",
-        "Address": "PO Lakki Sarkati Michan Khel Tehsil & District Lakki Marwat",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 27,
-        "Name in English": "Qudrat Ullah Khan",
-        "Name in Urdu": "قدرت اللہ خان",
-        "Address": "Bizar Khel PO Esak Khel Tehsil & District Lakki Marwat.",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
-      },
-      {
-        "SerialNo": 28,
-        "Name in English": "Muhammad Iqbal",
-        "Name in Urdu": "محمد اقبال",
-        "Address": "Mohalla Saeed Khel Lakki Marwat",
-        "Symbol": "BED",
-        "Party": "Independent",
-        "SymbolNo": 23,
-        "symbol_url": "https://symbols.azaadvote.com/bed.png"
-      },
-      {
-        "SerialNo": 29,
-        "Name in English": "Muhammad Riaz Khan",
-        "Name in Urdu": "محمد ریاض خان",
-        "Address": "Gandi Khan Khel Tehsil Naurang District Lakki Marwat",
-        "Symbol": "LANTERN",
-        "Party": "Awami National Party",
-        "SymbolNo": 162,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
-      },
-      {
-        "SerialNo": 30,
-        "Name in English": "Muhammad Arif Khan",
-        "Name in Urdu": "محمد عارف خان",
-        "Address": "PO Esak Khel Langar Khel Hati Khan Tehsil and District Lakki Marwat",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 31,
-        "Name in English": "Muhammad Fawad Raza Zakori",
-        "Name in Urdu": "محمد فواد رضا زاکوری",
-        "Address": "Khanga Aaliya Zakori Sharif House # 1651/2 Dera Ismail Khan",
-        "Symbol": "FRIDGE",
-        "Party": "Independent",
-        "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
-      },
-      {
-        "SerialNo": 32,
-        "Name in English": "Masood Ur Rehman",
-        "Name in Urdu": "مسعود الرحمان",
-        "Address": "Gabar Bagh PO Tajori Tor Ragzai Kalay FR Lakki Marwat",
-        "Symbol": "SUITCASE",
-        "Party": "Independent",
-        "SymbolNo": 264,
-        "symbol_url": "https://symbols.azaadvote.com/Suitcase.png"
-      },
-      {
-        "SerialNo": 33,
-        "Name in English": "Malik Noor Aslam Khan",
-        "Name in Urdu": "ملک نور اسلم خان",
-        "Address": "PO Masha Mansoor Tehsil and District Lakki Marwat",
-        "Symbol": "CRICKET STUMPS",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      },
-      {
-        "SerialNo": 34,
-        "Name in English": "Mansoor Kamal Marwat",
-        "Name in Urdu": "منصور کمال مروت",
-        "Address": "Mina Khel Lakki Marwat",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 35,
-        "Name in English": "Naila Khan",
-        "Name in Urdu": "نائلہ خان",
-        "Address": "PO Ghazni Khel Taji Burrad Tehsil Ghazni Khel District Lakki Marwat",
-        "Symbol": "HAND BAG",
-        "Party": "Independent",
-        "SymbolNo": 131,
-        "symbol_url": "https://symbols.azaadvote.com/hand-bag.png"
-      },
-      {
-        "SerialNo": 36,
-        "Name in English": "Najib Ullah Khan",
-        "Name in Urdu": "نجیب الله خان",
-        "Address": "Mohalla Barat Khel Landiwah Tehsil and District Lakki Marwat",
-        "Symbol": "BRICK",
-        "Party": "Independent",
-        "SymbolNo": 35,
-        "symbol_url": "https://symbols.azaadvote.com/brick.png"
-      },
-      {
-        "SerialNo": 37,
-        "Name in English": "Noor Saleem Malik",
-        "Name in Urdu": "نور سلیم ملک",
-        "Address": "Malakano Kor PO Masha Mansoor Tehsil and District Lakki Marwat.",
-        "Symbol": "PHOTOSTAT MACHINE",
-        "Party": "Independent",
-        "SymbolNo": 200,
-        "symbol_url": "https://symbols.azaadvote.com/Photostat-Machine.png"
-      },
-      {
-        "SerialNo": 38,
-        "Name in English": "Nawab Ali Khan",
-        "Name in Urdu": "نواب علی خان",
-        "Address": "Mohalla Baday Khel Village & PO Titter Khel Gul Jan Tehsil & District Lakki Marwat",
-        "Symbol": "QUEEN",
-        "Party": "Independent",
-        "SymbolNo": 211,
-        "symbol_url": "https://symbols.azaadvote.com/queen.png"
-      },
-      {
-        "SerialNo": 39,
-        "Name in English": "Haroon Naimat Ullah",
-        "Name in Urdu": "ہارون نعمت الله",
-        "Address": "Khero Khel Pacca Tehsil and District Lakki Marwat",
-        "Symbol": "BOWL",
-        "Party": "Independent",
-        "SymbolNo": 34,
-        "symbol_url": "https://symbols.azaadvote.com/bowl.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-41/NA-41-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-41/NA-41-page-00002.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-41/NA-41-page-00003.jpg"
-    ]
-  },
   "NA-44": {
     "Constituency No": "NA-44",
     "Constituency Name": "Dera Ismail Khan-I",
@@ -7269,7 +7473,7 @@
         "SerialNo": 1,
         "Name in English": "Akhtar Saeed",
         "Name in Urdu": "اختر سعید",
-        "Address": "Kotaka Kakai jan, Sara e Naurang, Tehsil and Dist. Lakki Marwat",
+        "Address": "Kotaka Kakai Jan, Sara e Naurang, Tehsil and Dist. Laki Marwat",
         "Symbol": "CLOCK",
         "Party": "Independent",
         "SymbolNo": 60,
@@ -7308,7 +7512,7 @@
       {
         "SerialNo": 5,
         "Name in English": "Sirhaan Ahmed Khan",
-        "Name in Urdu": "سرحان احمد خان",
+        "Name in Urdu": "سرہان احمد خان",
         "Address": "The Mall Road, house no. 11, Dera Ismail Khan",
         "Symbol": "AUDIO CASSETTE",
         "Party": "Independent",
@@ -7319,16 +7523,16 @@
         "SerialNo": 6,
         "Name in English": "Syed Muhammad Jawad Asghar Shah",
         "Name in Urdu": "سید محمد جواد اصغر شاہ",
-        "Address": "Sadat Noor Mehal, Po Bilot Sharif, Bilot Pakha, Tehsil Paharpur, Dist. Dera Ismail Khan",
+        "Address": "Sadat Noor Mehal, Po Bilot Sharif, Bilot Paka, Tehsil Paharpur, Dist. Dera Ismail Khan",
         "Symbol": "TURBAN",
-        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTI(P))",
+        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTIP)",
         "SymbolNo": 305,
         "symbol_url": "https://symbols.azaadvote.com/turban.png"
       },
       {
         "SerialNo": 7,
         "Name in English": "Sherullah Khan",
-        "Name in Urdu": "شیراللہ خان",
+        "Name in Urdu": "شیر اللہ خان",
         "Address": "Kam Sarobi, Bora khel, PO Miran Shah, Dist. North Waziristan",
         "Symbol": "LANTERN",
         "Party": "Awami National Party",
@@ -7338,7 +7542,7 @@
       {
         "SerialNo": 8,
         "Name in English": "Zamir Hussain",
-        "Name in Urdu": "زمیر حسین",
+        "Name in Urdu": "ضمیر حسین",
         "Address": "Jhoke Noon, PO Bilot Sharif, Paharpur, Tehsil Paharpur, Dist. Dera Ismail Khan",
         "Symbol": "DOVE",
         "Party": "Independent",
@@ -7350,10 +7554,13 @@
         "Name in English": "Ali Amin Khan",
         "Name in Urdu": "علی امین خان",
         "Address": "Al Ameen House, Opposite Session Court, Dera Ismail Khan",
-        "Symbol": "RADIO",
+        "Symbol": "QUEEN",
         "Party": "Independent",
-        "SymbolNo": 215,
-        "symbol_url": "https://symbols.azaadvote.com/radio.png"
+        "SymbolNo": 211,
+        "symbol_url": "https://symbols.azaadvote.com/queen.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKT8muE50UaBb567I0V"
+        }
       },
       {
         "SerialNo": 10,
@@ -7361,7 +7568,7 @@
         "Name in Urdu": "فضل الرحمن",
         "Address": "Mohala Shebaz Khel, PO Abdul Khel, Abdul Khel, Tehsil Paharpur, Dist. Dera Ismail Khan",
         "Symbol": "BOOK",
-        "Party": "Jamiat Ulama-e-Islam Pakistan",
+        "Party": "Jamiat Ulema-e-Islam Pakistan",
         "SymbolNo": 31,
         "symbol_url": "https://symbols.azaadvote.com/book.png"
       },
@@ -7389,7 +7596,7 @@
         "SerialNo": 13,
         "Name in English": "Muhammad Tanveer",
         "Name in Urdu": "محمد تنویر",
-        "Address": "Mohala Seth Ashraf, Kucha Jandri Wala, Dera Ismail Khan",
+        "Address": "Mohala Seth Ashraf, Kucha Jandi Wala, Dera Ismail Khan",
         "Symbol": "TRANSFORMER",
         "Party": "Independent",
         "SymbolNo": 294,
@@ -7397,8 +7604,8 @@
       },
       {
         "SerialNo": 14,
-        "Name in English": "Muhammad Shafiq Ul Hai",
-        "Name in Urdu": "محمد شفیق الحی",
+        "Name in English": "Muhammad Shafiq Ul Haq",
+        "Name in Urdu": "محمد شفیق الحق",
         "Address": "Kucha Sardar Abdul Hai Khan, House no. 1357/C, Mohala Hayatullah Dera Ismail Khan",
         "Symbol": "CRANE",
         "Party": "Tehreek Labbaik Pakistan",
@@ -7409,7 +7616,7 @@
         "SerialNo": 15,
         "Name in English": "Muhammad Ali Raza",
         "Name in Urdu": "محمد علی رضا",
-        "Address": "PO Bilot Sharif, Bilot Pakka, Tehsil Paharpur Dist. Dera Ismail Khan",
+        "Address": "PO Bilott Sharif, Bilott Pakka, Tehsil Parpur Dist. Dera Ismail Khan",
         "Symbol": "TSHIRT",
         "Party": "Independent",
         "SymbolNo": 301,
@@ -7429,7 +7636,7 @@
         "SerialNo": 17,
         "Name in English": "Malik Muhammad Ayaz",
         "Name in Urdu": "ملک محمد ایاز",
-        "Address": "Basti Ustrana Norhern, Near Malik House, Dera Ismail Khan",
+        "Address": "Basti Ustrana Northern, Near Malik House, Dera Ismail Khan",
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
@@ -7467,8 +7674,8 @@
       }
     ],
     "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-44/NA-44-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-44/NA-44-page-00002.jpg"
+      "Revised/Khyber Pakhtunkhwa/NA-44 FORM-33 (REVISED) 23.01.24/NA-44 FORM-33 (REVISED) 23.01.24-page-00001.jpg",
+      "Revised/Khyber Pakhtunkhwa/NA-44 FORM-33 (REVISED) 23.01.24/NA-44 FORM-33 (REVISED) 23.01.24-page-00002.jpg"
     ]
   },
   "NA-45": {
@@ -7515,7 +7722,10 @@
         "Symbol": "AEROPLANE",
         "Party": "Independent",
         "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKbM8X77qVOaWgvHv2Q"
+        }
       },
       {
         "SerialNo": 5,
@@ -7600,168 +7810,6 @@
     ],
     "PageFiles": [
       "Revised/Khyber Pakhtunkhwa/NA-45/NA-45-page-00001.jpg"
-    ]
-  },
-  "NA-9": {
-    "Constituency No": "NA-9",
-    "Constituency Name": "Malakand",
-    "Returning Officer": "Muhammad Umair",
-    "NumPages": 2,
-    "Candidates": [
-      {
-        "SerialNo": 1,
-        "Name in English": "Babu Shah Zaman",
-        "Name in Urdu": "بابو شاہ زمان",
-        "Address": "MOH:Gazi Abad P.O amandara Bakthela ,Tehsil Batkhela Distt:Malakand",
-        "Symbol": "POMEGRANATE",
-        "Party": "Independent",
-        "SymbolNo": 208,
-        "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
-      },
-      {
-        "SerialNo": 2,
-        "Name in English": "Jamal Ud Din",
-        "Name in Urdu": "جمال الدین",
-        "Address": "P.O Shakot ,Sakakot Dargai Tehsil Dargai Distt:Malakand",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami",
-        "SymbolNo": 232,
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 3,
-        "Name in English": "Junaid Akbar",
-        "Name in Urdu": "جنید اکبر",
-        "Address": "Moh: Amjad Shaheed Colony P.O Thana,Thana Jadeed ,Tehsil Batkhela District Malakand.",
-        "Symbol": "RACKET",
-        "Party": "Independent",
-        "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Rashid Ahmad",
-        "Name in Urdu": "راشد احمد",
-        "Address": "Moh:Said Abad,Dehri Alladand,Tehsil .Batkhela Distt:Malakand",
-        "Symbol": "FRIDGE",
-        "Party": "Independent",
-        "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Sabz Ali",
-        "Name in Urdu": "سبز علی",
-        "Address": "Moh:Alikhel,Purana sakha kot,P/O Sakhakot, Tehsil:Dargai,District:Malakand.",
-        "Symbol": "CHARPAI",
-        "Party": "Independent",
-        "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Sajjad Ahmad",
-        "Name in Urdu": "سجاد احمد",
-        "Address": "Moh: Mubarak Khel ,Totakan Tehsil Batkhela Distt: Malakand.",
-        "Symbol": "TIGER",
-        "Party": "Pakistan Muslim League (N)",
-        "SymbolNo": 284,
-        "symbol_url": "https://symbols.azaadvote.com/tiger.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Syed Ahmad Ali Shah",
-        "Name in Urdu": "سید احمد علی شاہ",
-        "Address": "Badraga Tehsil Dargai Distt:Malakand",
-        "Symbol": "ARROW",
-        "Party": "Pakistan Peoples Party Parliamentarians",
-        "SymbolNo": 12,
-        "symbol_url": "https://symbols.azaadvote.com/arrow.png"
-      },
-      {
-        "SerialNo": 8,
-        "Name in English": "Shahid Ullah",
-        "Name in Urdu": "شاہد اللہ",
-        "Address": "Moh:Chapai thana, Tehsil Batkhela Dista: Malakand",
-        "Symbol": "CRANE",
-        "Party": "Tehreek Labbaik Pakistan",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
-        "SerialNo": 9,
-        "Name in English": "Irfan Muazam",
-        "Name in Urdu": "عرفان معظم",
-        "Address": "Moh: Shafi Koroona Piran P.O Makaland Tehsil Batkhela Distt:Malakand",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 10,
-        "Name in English": "Fazal Muhammad",
-        "Name in Urdu": "فضل محمد",
-        "Address": "Jabban, Tehsil.Dargai , District: Malakand.",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Kifayat Ullah",
-        "Name in Urdu": "کفایت اللہ",
-        "Address": "Moh: Kifyat Abad Nehar Kinara Batkhela Tehsil Batkhela Distt: Malakand",
-        "Symbol": "BOOK",
-        "Party": "Jamiat Ulema-e-Islam Pakistan",
-        "SymbolNo": 31,
-        "symbol_url": "https://symbols.azaadvote.com/book.png"
-      },
-      {
-        "SerialNo": 12,
-        "Name in English": "Luqman Khan",
-        "Name in Urdu": "لقمان خان",
-        "Address": "Permanant Add:Umar ali Kallay p.o khas Badraga Tehsil Dargai Distt: Malakand Present Addr:kak Jan P.o Pir Saddi pirsaddo Tehsil Takht Bhai Distt: Malakand",
-        "Symbol": "RAILWAY ENGINE",
-        "Party": "Pakistan Nazriyati Party",
-        "SymbolNo": 216,
-        "symbol_url": "https://symbols.azaadvote.com/railway-engine.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Muhammad Zeeshan",
-        "Name in Urdu": "محمد زیشان",
-        "Address": "Moh:Quaid Abad Chapai P.O Thana ,Thana Bandagai Tehsil Batkhela Distt:Malakand",
-        "Symbol": "TURBAN",
-        "Party": "Pakistan Tehreek-e-Insaf Parliamentarian (PTIIP)",
-        "SymbolNo": 305,
-        "symbol_url": "https://symbols.azaadvote.com/turban.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Mansoor Sadiq",
-        "Name in Urdu": "منصور صادق",
-        "Address": "Baba Khel , Thana Khas P/O Thana , Tehsil Swat Ranezai",
-        "Symbol": "MEDAL",
-        "Party": "Independent",
-        "SymbolNo": 173,
-        "symbol_url": "https://symbols.azaadvote.com/medal.png"
-      },
-      {
-        "SerialNo": 15,
-        "Name in English": "Nazia Hassan",
-        "Name in Urdu": "نازیہ حسن",
-        "Address": "Moh:Allah Akbar Dheri,Tehsil Batkhela Distt: Malakand",
-        "Symbol": "TRANSFORMER",
-        "Party": "Independent",
-        "SymbolNo": 294,
-        "symbol_url": "https://symbols.azaadvote.com/transformer.png"
-      }
-    ],
-    "PageFiles": [
-      "Revised/Khyber Pakhtunkhwa/NA-9/NA-9-page-00001.jpg",
-      "Revised/Khyber Pakhtunkhwa/NA-9/NA-9-page-00002.jpg"
     ]
   }
 }
