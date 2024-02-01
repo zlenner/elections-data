@@ -1000,7 +1000,7 @@
       {
         "SerialNo": 16,
         "Name in English": "SYED MUHAMMAD ALI BOKHARI",
-        "Name in Urdu": "سید محمد علی بوخاری",
+        "Name in Urdu": "سید محمد علی بخاری",
         "Address": "MALPUR, P.O. KHIAS, HOUSE NO. 90, STREET NO. 05, ISLAMABAD",
         "Symbol": "PARACHUTE",
         "Party": "INDEPENDENT",
@@ -1824,7 +1824,7 @@
       {
         "SerialNo": 23,
         "Name in English": "Muhammad Latasob Satti",
-        "Name in Urdu": "محمد لاتعصب ستی",
+        "Name in Urdu": "محمد لطاسب ستی",
         "Address": "P/O Khas Ner Prindla Tehsil Kotli Sattian Distt Rawalpindi",
         "Symbol": "VIOLIN",
         "Party": "Independent",
@@ -6209,7 +6209,7 @@
       {
         "SerialNo": 3,
         "Name in English": "Hafiz Hamid Raza",
-        "Name in Urdu": "حافظ حمید رضا",
+        "Name in Urdu": "حافظ حامد رضا",
         "Address": "Near Police Station Haj Pur, House No 340/341 Mohalla Shah Saida Sialkot",
         "Symbol": "DOVE",
         "Party": "Independent",
@@ -12273,7 +12273,7 @@
       {
         "SerialNo": 17,
         "Name in English": "MUHAMMAD SAAD ULLAH",
-        "Name in Urdu": "",
+        "Name in Urdu": "محمد سعد اللہ",
         "Address": "CHAK NO.655 GB TANDLIANWALA",
         "Symbol": "SOFA",
         "Party": "Independent",
@@ -15796,10 +15796,10 @@
         "Name in English": "Muhammad Arshad Sahi",
         "Name in Urdu": "محمد ارشد صاحی",
         "Address": "Sahi Road Sahi Palace Mohallah Ghosia Ward No.8 Shahkot District Nankana Sahib",
-        "Symbol": "CHAPATI",
+        "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/Tawa.png"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
       },
       {
         "SerialNo": 10,
@@ -18271,7 +18271,7 @@
       {
         "SerialNo": 2,
         "Name in English": "Afzaal Azeem Phat",
-        "Name in Urdu": "افضال عظیم فات",
+        "Name in Urdu": "افضال عظیم پاہٹ",
         "Address": "Palat House, Mohallah Asal Suleman Khan Niazi, Tehsil Lahore Cantt., District Lahore.",
         "Symbol": "RADIO",
         "Party": "Independent",
@@ -20395,8 +20395,8 @@
       },
       {
         "SerialNo": 11,
-        "Name in English": "Arum Uddin Zahid",
-        "Name in Urdu": "ارم الدین زاہد",
+        "Name in English": "Azim Uddin Zahid",
+        "Name in Urdu": "عظیم الدین زاہد",
         "Address": "Dera Doctor Arum Labhak, PO Khas Thesil Pattoki Tehsil Chunian District Kasur",
         "Symbol": "BOWL",
         "Party": "Independent",
@@ -20855,10 +20855,10 @@
         "Name in English": "Malik Muhammad Akram Bhatti",
         "Name in Urdu": "ملک محمد اکرم بھٹی",
         "Address": "Chuchak Bazida P/O Khas Bazeeda Teh. Renala Dist Okara",
-        "Symbol": "CHAIR",
+        "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/chair.png"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
       },
       {
         "SerialNo": 14,
@@ -21934,8 +21934,8 @@
       },
       {
         "SerialNo": 7,
-        "Name in English": "Raja Talija Saeed",
-        "Name in Urdu": "راجہ طلعت سعید",
+        "Name in English": "Raja Talia Saeed",
+        "Name in Urdu": "راجہ طالح سعید",
         "Address": "Chak sher jilani Arifwala",
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
@@ -29010,7 +29010,7 @@
       {
         "SerialNo": 13,
         "Name in English": "Fiaz Hussain",
-        "Name in Urdu": "",
+        "Name in Urdu": "فیاض حسین",
         "Address": "",
         "Symbol": "RACKET",
         "Party": "Independent",
