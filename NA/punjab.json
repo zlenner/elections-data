@@ -7001,7 +7001,7 @@
       {
         "SerialNo": 13,
         "Name in English": "Ali Asjad Malhi",
-        "Name in Urdu": "علی اسجد مالہی",
+        "Name in Urdu": "علی اسجد ملہی",
         "Address": "House No. 24-R mohallah phase 2 DHA Lahore Cantt, Lahore",
         "Symbol": "WELL",
         "Party": "Independent",
@@ -10978,36 +10978,49 @@
         "SerialNo": 13,
         "Name in English": "Farhan Khan",
         "Name in Urdu": "فرحان خان",
-        "Address": "CHARPAI",
-        "Symbol": "GATE",
+        "Address": "",
+        "Symbol": "CHARPAI",
         "Party": "Independent",
-        "SymbolNo": 117,
-        "symbol_url": "https://symbols.azaadvote.com/gate.png"
+        "SymbolNo": 56,
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
       },
       {
         "SerialNo": 14,
         "Name in English": "Gull Meer Khan",
         "Name in Urdu": "گل میر خان",
-        "Address": "SULAIMAN KHEL",
-        "Symbol": "CORN",
-        "Party": "QABAIL MOVEMENT",
-        "SymbolNo": 69,
-        "symbol_url": "https://symbols.azaadvote.com/corn.png"
+        "Address": "",
+        "Symbol": "GATE",
+        "Party": "SULAIMAN KHEL QABAIL MOVEMENT",
+        "SymbolNo": 117,
+        "symbol_url": "https://symbols.azaadvote.com/gate.png"
       },
       {
         "SerialNo": 15,
         "Name in English": "Muhammad Arshad",
         "Name in Urdu": "محمد ارشاد",
-        "Address": "KISSAN ITTEHAD AWAMI PARTY",
-        "Symbol": "KEY WITH LOCK",
-        "Party": "Independent",
-        "SymbolNo": 156,
-        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png"
+        "Address": "",
+        "Symbol": "CORN",
+        "Party": "KISSAN ITTEHAD AWAMI PARTY",
+        "SymbolNo": 16956,
+        "symbol_url": "https://symbols.azaadvote.com/corn.png"
       },
       {
         "SerialNo": 16,
         "Name in English": "Muhammad Arshad Awan",
         "Name in Urdu": "محمد ارشاد اعوان",
+        "Address": "",
+        "Symbol": "KEY WITH LOCK",
+        "Party": "Independent",
+        "SymbolNo": 156,
+        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLKroCF6smweHNs7a2V"
+        }
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "M Sana Ullah Khan Mastikhel",
+        "Name in Urdu": "ایم سنااللہ خان مستی خیل",
         "Address": "",
         "Symbol": "LETTER BOX",
         "Party": "Independent",
@@ -11018,24 +11031,14 @@
         }
       },
       {
-        "SerialNo": 17,
-        "Name in English": "M Sana Ullah Khan Mastikhel",
-        "Name in Urdu": "ایم سنااللہ خان مستی خیل",
-        "Address": "",
-        "Symbol": "CRANE",
-        "Party": "TEHREEK LABBAIK PAKISTAN",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
-      },
-      {
         "SerialNo": 18,
         "Name in English": "Muhammad Younas",
         "Name in Urdu": "محمد یونس",
         "Address": "",
-        "Symbol": "BEAR",
-        "Party": "Independent",
+        "Symbol": "CRANE",
+        "Party": "TEHREEK LABBAIK PAKISTAN",
         "SymbolNo": 22,
-        "symbol_url": "https://symbols.azaadvote.com/bear.png"
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
       },
       {
         "SerialNo": 19,
@@ -11860,8 +11863,8 @@
     "Candidates": [
       {
         "SerialNo": 1,
-        "Name in English": "SHEIKH KHALID MAHMOOD",
-        "Name in Urdu": "شیخ خالد محمود",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "Faisalabad Road, H.No#229, Mohallah Gulam Muhammadabad, District Faisalabad",
         "Symbol": "LAPTOP",
         "Party": "Independent",
@@ -11870,28 +11873,28 @@
       },
       {
         "SerialNo": 2,
-        "Name in English": "SHAHADAT ALI KHAN",
-        "Name in Urdu": "شہادت علی خان",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "P/O KINOKE M.G.P.H CHAK NO. 68 GB, LADHANA, TEHSIL JARANWALA DISTRICT FAISALABAD",
         "Symbol": "SHEEP",
-        "Party": "Justice Party",
+        "Party": "",
         "SymbolNo": 121,
         "symbol_url": "https://symbols.azaadvote.com/sheep.png"
       },
       {
         "SerialNo": 3,
-        "Name in English": "SYED TAHIR ABBAS SHAH",
-        "Name in Urdu": "سید طاہر عباس شاہ",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "P/O Chak 239 GB, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "DOLPHIN",
-        "Party": "Pakistan Human Party",
+        "Party": "Independent",
         "SymbolNo": 83,
         "symbol_url": "https://symbols.azaadvote.com/dolphin.png"
       },
       {
         "SerialNo": 4,
-        "Name in English": "RANA MUHAMMAD SHAHID IQBAL KHAN",
-        "Name in Urdu": "رانا محمد شاہد اقبال خان",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "House No. 8 Railway Road Near GTS Faisalabad Tehsil Faisalabad District Faisalabad",
         "Symbol": "MEDAL",
         "Party": "Independent",
@@ -11900,11 +11903,11 @@
       },
       {
         "SerialNo": 5,
-        "Name in English": "HAFIZ MUHAMMAD AMEER",
-        "Name in Urdu": "حافظ محمد امیر",
+        "Name in English": "Rai Haider Kharal",
+        "Name in Urdu": "رائے حیدر کھرل",
         "Address": "P/O Chak No 393 GB Koot Baku, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "RADIO",
-        "Party": "Save Judiciary Party",
+        "Party": "",
         "SymbolNo": 215,
         "symbol_url": "https://symbols.azaadvote.com/radio.png",
         "pti_backed": {
@@ -11913,48 +11916,48 @@
       },
       {
         "SerialNo": 6,
-        "Name in English": "ZULFIQAR ALI KHAN",
-        "Name in Urdu": "ذوالفقار علی خان",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "P/O Chak No 68/M GB Chak Dulat Talwala District Faisalabad Town Block A",
         "Symbol": "FIST",
-        "Party": "Pakistan Citizen Movement",
+        "Party": "",
         "SymbolNo": 105,
         "symbol_url": "https://symbols.azaadvote.com/fist.png"
       },
       {
         "SerialNo": 7,
-        "Name in English": "SARFRAZ AHMED",
-        "Name in Urdu": "سرفراز احمد",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "House No. 450 Mohallah Satellite Town Block A Sargodha",
         "Symbol": "ALPHABET 'K'",
-        "Party": "Awam League",
+        "Party": "",
         "SymbolNo": 2,
         "symbol_url": "https://symbols.azaadvote.com/alphabet-k.png"
       },
       {
         "SerialNo": 8,
-        "Name in English": "SHEIKH MUHAMMAD ASHFAQ",
-        "Name in Urdu": "شیخ محمد اشفاق",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "Chak No 124 GB Hafiz Abad P/O Tehsil Jaranwala, District Faisalabad",
         "Symbol": "CRANE",
-        "Party": "Pakistan",
+        "Party": "TEHREEK LABBAIK PAKISTAN",
         "SymbolNo": 71,
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       },
       {
         "SerialNo": 9,
-        "Name in English": "ZULFIQAR DOGAR",
-        "Name in Urdu": "ذوالفقار ڈوگر",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "House No 8 Near GTS Railway Road Faisalabad Tehsil Faisalabad District Faisalabad",
-        "Symbol": "CHIRAG",
-        "Party": "Pakistan People's Party",
+        "Symbol": "CHARPAI",
+        "Party": "",
         "SymbolNo": 51,
-        "symbol_url": "https://symbols.azaadvote.com/Chiragh (Lamp).png"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
       },
       {
         "SerialNo": 10,
-        "Name in English": "ABDUL HAMEED KHAN",
-        "Name in Urdu": "عبدالحمید خان",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "P/O Chak No 192 GB Tehsil Jaranwala, District Faisalabad",
         "Symbol": "SCALE",
         "Party": "Independent",
@@ -11963,8 +11966,8 @@
       },
       {
         "SerialNo": 11,
-        "Name in English": "ILFAN SHAHID WASEER",
-        "Name in Urdu": "علفان شاہد وسیر",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "ST No. 2 Ward No 8 Bilal Gunj Jaranwala District Faisalabad",
         "Symbol": "CLOCK",
         "Party": "Independent",
@@ -11973,8 +11976,8 @@
       },
       {
         "SerialNo": 12,
-        "Name in English": "IMRAN HUSSAIN",
-        "Name in Urdu": "عمران حسین",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "P/O Chak No 236 GB Kot Daska Sial, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "TSHIRT",
         "Party": "Independent",
@@ -11983,8 +11986,8 @@
       },
       {
         "SerialNo": 13,
-        "Name in English": "CH MUHAMMAD ANWAR",
-        "Name in Urdu": "چوہدری محمد انور",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "Chak No. 592 GB Zaidanwala Tehsil Jaranwala District Faisalabad",
         "Symbol": "SHUTTLE COCK",
         "Party": "Independent",
@@ -11993,8 +11996,8 @@
       },
       {
         "SerialNo": 14,
-        "Name in English": "KHALID MAHMOOD",
-        "Name in Urdu": "خالد محمود",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "Mohallah No 7 ST No 4 Newaz Colony Tehsil Jaranwala District Faisalabad",
         "Symbol": "CHAIR",
         "Party": "Independent",
@@ -12004,7 +12007,7 @@
       {
         "SerialNo": 15,
         "Name in English": "Muhammad Ashraf Chaudhry",
-        "Name in Urdu": "محمد اشرف چودھری",
+        "Name in Urdu": "",
         "Address": "P/O Chak 65 GB Makand Pura, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "DOVE",
         "Party": "Independent",
@@ -12014,7 +12017,7 @@
       {
         "SerialNo": 16,
         "Name in English": "Muhammad Akram Chaudhry",
-        "Name in Urdu": "محمد اکرم چودھری",
+        "Name in Urdu": "",
         "Address": "P/O Chak 65 GB Makand Tehsil Jaranwala, District Faisalabad",
         "Symbol": "BEAR",
         "Party": "Independent",
@@ -12023,8 +12026,8 @@
       },
       {
         "SerialNo": 17,
-        "Name in English": "Muhammad Shahbaz Khan",
-        "Name in Urdu": "محمد شہباز خان",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "Koot Hadyat Khan, PO Lundianwala, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
@@ -12034,7 +12037,7 @@
       {
         "SerialNo": 18,
         "Name in English": "Muhammad Tufail Badar",
-        "Name in Urdu": "محمد طفیل بدر",
+        "Name in Urdu": "",
         "Address": "P/O Chak No 65 GB Makand Pura, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "STILL CAMERA",
         "Party": "Independent",
@@ -12043,8 +12046,8 @@
       },
       {
         "SerialNo": 19,
-        "Name in English": "Muhammad Amir Hafeez",
-        "Name in Urdu": "محمد امیر حفیظ",
+        "Name in English": "",
+        "Name in Urdu": "",
         "Address": "P/O Chak No 562 GB Zafarwal, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "TABLE TENNIS BAT",
         "Party": "Independent",
@@ -12054,7 +12057,7 @@
       {
         "SerialNo": 20,
         "Name in English": "Muhammad Mehmood Bashir",
-        "Name in Urdu": "محمد محمود بشیر",
+        "Name in Urdu": "",
         "Address": "P/O Awagat Chak No 65 GB Makand Pura, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "GOAT",
         "Party": "Independent",
@@ -12064,7 +12067,7 @@
       {
         "SerialNo": 21,
         "Name in English": "Muneer Ahmad",
-        "Name in Urdu": "منیر احمد",
+        "Name in Urdu": "",
         "Address": "P/O CHAK NO 562 GB ZAFARWAL, TEHSIL JARANWALA, DISTRICT FAISALABAD",
         "Symbol": "WELL",
         "Party": "Independent",
@@ -12074,17 +12077,17 @@
       {
         "SerialNo": 22,
         "Name in English": "Nasir Abbas",
-        "Name in Urdu": "ناصر عباس",
+        "Name in Urdu": "",
         "Address": "P/O Chak No 274 GB, Tehsil Jaranwala, District Faisalabad",
         "Symbol": "BATSMAN",
-        "Party": "Independent",
+        "Party": "Pakistan Tehreek-e-Insaf (Nazriati)",
         "SymbolNo": 20,
         "symbol_url": "https://symbols.azaadvote.com/batsman.png"
       },
       {
         "SerialNo": 23,
         "Name in English": "Nawab Sher",
-        "Name in Urdu": "نواب شیر",
+        "Name in Urdu": "",
         "Address": "ST No 2, Waseer House, Mohallah Bilal Gunj Jaranwala, District Faisalabad",
         "Symbol": "TIGER",
         "Party": "Pakistan Muslim League (N)",
@@ -12094,7 +12097,7 @@
       {
         "SerialNo": 24,
         "Name in English": "Haroon Tauqir Ahmad Khan",
-        "Name in Urdu": "ہارون توقیر احمد خان",
+        "Name in Urdu": "",
         "Address": "ST No 4 Mohallah Park Jaranwala, District Faisalabad",
         "Symbol": "HUKKAH",
         "Party": "Independent",
@@ -15802,7 +15805,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG5qYBC1FuAXraORq14"
+        }
       },
       {
         "SerialNo": 10,
@@ -20861,7 +20867,10 @@
         "Symbol": "CHARPAI",
         "Party": "Independent",
         "SymbolNo": 56,
-        "symbol_url": "https://symbols.azaadvote.com/charpai.png"
+        "symbol_url": "https://symbols.azaadvote.com/charpai.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFjBH47IUYMEtJzri31"
+        }
       },
       {
         "SerialNo": 14,
