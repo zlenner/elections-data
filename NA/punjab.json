@@ -13027,8 +13027,8 @@
       },
       {
         "SerialNo": 5,
-        "Name in English": "Qazi Aqib Niaz",
-        "Name in Urdu": "قاضی عاقب نیاز",
+        "Name in English": "Rana Atif",
+        "Name in Urdu": "رانا عاطف",  
         "Address": "H. No. 260-C, Madina Town, Colony No. 2 Faisalabad.",
         "Symbol": "BOTTLE",
         "Party": "Independent",
@@ -20565,7 +20565,10 @@
         "Symbol": "TAWA",
         "Party": "Independent",
         "SymbolNo": 278,
-        "symbol_url": "https://symbols.azaadvote.com/Tawa.png"
+        "symbol_url": "https://symbols.azaadvote.com/tawa.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLPfF6CRs1vmBgsvk1I"
+        }
       },
       {
         "SerialNo": 8,
@@ -25515,7 +25518,10 @@
         "Symbol": "GEYSER",
         "Party": "Independent",
         "SymbolNo": 120,
-        "symbol_url": "https://symbols.azaadvote.com/geyser.png"
+        "symbol_url": "https://symbols.azaadvote.com/geyser.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKYkB0AojYxJCDxYi3x"
+        }
       },
       {
         "SerialNo": 12,
