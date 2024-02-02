@@ -11012,10 +11012,7 @@
         "Symbol": "KEY WITH LOCK",
         "Party": "Independent",
         "SymbolNo": 156,
-        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png",
-        "pti_backed": {
-          "whatsapp_channel": "https://whatsapp.com/channel/0029VaLKroCF6smweHNs7a2V"
-        }
+        "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png"
       },
       {
         "SerialNo": 17,
