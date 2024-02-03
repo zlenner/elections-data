@@ -568,10 +568,7 @@
         "Symbol": "TENT",
         "Party": "Majlis Wahdat-e-Muslimeen Pakistan",
         "SymbolNo": 282,
-        "symbol_url": "https://symbols.azaadvote.com/tent.png",
-        "pti_backed": {
-          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFeQ90D38CNXx1BGH3Z"
-        }
+        "symbol_url": "https://symbols.azaadvote.com/tent.png"
       }
     ],
     "PageFiles": [
@@ -1900,7 +1897,7 @@
       {
         "SerialNo": 6,
         "Name in English": "Jameel Ahmed Lund Baloch",
-        "Name in Urdu": "جمیل احمد لنڈ بلوچ",
+        "Name in Urdu": "جمیل احمد لند بلوچ",
         "Address": "Village Walidad Khan Lund Setharja Taluka Tharimirwah District Khairpur",
         "Symbol": "RADIO",
         "Party": "Independent",
@@ -3369,8 +3366,8 @@
       },
       {
         "SerialNo": 2,
-        "Name in English": "Syed Mumtaz Ali Shah",
-        "Name in Urdu": "سید ممتاز علی شاہ",
+        "Name in English": "Syed Muntaz Ali Shah",
+        "Name in Urdu": "سید منتظ علی شاہ",
         "Address": "House No.10/A Mohallah Settlite town Mirpurkhas",
         "Symbol": "HAND PUMP",
         "Party": "Independent",
@@ -3754,10 +3751,7 @@
         "Symbol": "TROWEL KRANDI",
         "Party": "Independent",
         "SymbolNo": 299,
-        "symbol_url": "https://symbols.azaadvote.com/Trowel-(Krandi).png",
-        "pti_backed": {
-          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKlHkW9cDDY3q2M6s3J"
-        }
+        "symbol_url": "https://symbols.azaadvote.com/Trowel-(Krandi).png"
       },
       {
         "SerialNo": 9,
@@ -3767,7 +3761,10 @@
         "Symbol": "PEACOCK",
         "Party": "Independent",
         "SymbolNo": 194,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
+        "symbol_url": "https://symbols.azaadvote.com/peacock.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaKlHkW9cDDY3q2M6s3J"
+        }
       },
       {
         "SerialNo": 10,
@@ -4347,8 +4344,8 @@
       },
       {
         "SerialNo": 5,
-        "Name in English": "Muhrram Khan",
-        "Name in Urdu": "محرم خان",
+        "Name in English": "Mithuran Khan",
+        "Name in Urdu": "میتھران خان",
         "Address": "PO Mosa Khel, Toheesar Distt: Mosa Khel Belochistan",
         "Symbol": "BOTTLE",
         "Party": "Independent",
@@ -4751,7 +4748,7 @@
       },
       {
         "SerialNo": 33,
-        "Name in English": "Mustasnir Billah",
+        "Name in English": "Mutasnir Billah",
         "Name in Urdu": "مستنصر باللہ",
         "Address": "H.No: 24 Mohallah Kohisaar Housing Scheme Phase 1, Block A, Latifabad, District Hyderabad",
         "Symbol": "SHEEP",
@@ -6145,7 +6142,7 @@
       {
         "SerialNo": 4,
         "Name in English": "Zulfiqar Ali Mallah",
-        "Name in Urdu": "ذوالفقار علی ملاح",
+        "Name in Urdu": "ظفر علی ملاح",
         "Address": "Sita Village Taluka Dadu",
         "Symbol": "DOLPHIN",
         "Party": "Independent",

@@ -33,7 +33,10 @@
         "Symbol": "RACKET",
         "Party": "Independent",
         "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.png"
+        "symbol_url": "https://symbols.azaadvote.com/racket.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaFKkLhJ3juu2cjI4h45"
+        }
       },
       {
         "SerialNo": 4,
@@ -896,7 +899,10 @@
         "Symbol": "HEN",
         "Party": "Independent",
         "SymbolNo": 135,
-        "symbol_url": "https://symbols.azaadvote.com/hen.png"
+        "symbol_url": "https://symbols.azaadvote.com/hen.png",
+        "pti_backed": {
+          "whatsapp_channel": "https://whatsapp.com/channel/0029VaG4j4qJkK7HM1bv5B1b"
+        }
       },
       {
         "SerialNo": 2,
