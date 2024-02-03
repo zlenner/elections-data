@@ -28125,20 +28125,20 @@
         "Name in English": "Bilal Akram Khan",
         "Name in Urdu": "بلال اکرم خان",
         "Address": "Saif Nagar Ward No.1 Khan Garh Tehsil and District Muzaffargarh",
-        "Symbol": "HUT",
+        "Symbol": "HUKKAH",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/Hut.png"
+        "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
       },
       {
         "SerialNo": 4,
         "Name in English": "Bilal Hussain",
         "Name in Urdu": "بلال حسین",
         "Address": "P/O Bangal Wali Mahal Khokhar Shumali Tehsil & District Muzaffargarh",
-        "Symbol": "WALL CLOCK",
+        "Symbol": "SWALLOW",
         "Party": "Independent",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/clock.png"
+        "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
       },
       {
         "SerialNo": 5,
@@ -28152,8 +28152,8 @@
       },
       {
         "SerialNo": 6,
-        "Name in English": "Kothi Nawab Zada Saeed Ullah Khan",
-        "Name in Urdu": "کوٹھی نوابزادہ سعید اللہ خان",
+        "Name in English": "Humaira Ahmad",
+        "Name in Urdu": "حمیرا احمد",
         "Address": "Kothi Nawab Zada Saeed Ullah Khan Ai Pur Road Khan Garh Tehsil & District M.Garh",
         "Symbol": "QUEEN",
         "Party": "Independent",
@@ -28162,8 +28162,8 @@
       },
       {
         "SerialNo": 7,
-        "Name in English": "Humair Ahmad",
-        "Name in Urdu": "ہمیر احمد",
+        "Name in English": "Syeda Shehr Bano Bukhari",
+        "Name in Urdu": "سیدہ شہر بانو بخاری",
         "Address": "MPA House Mohalla Kandhi Shareef District Muzaffargarh",
         "Symbol": "TOOTH BRUSH",
         "Party": "Independent",
@@ -28172,8 +28172,8 @@
       },
       {
         "SerialNo": 8,
-        "Name in English": "Syeda Shehr Bano Bukhari",
-        "Name in Urdu": "سیدہ شہر بانو بخاری",
+        "Name in English": "Shahista Kanwal",
+        "Name in Urdu": "شائستہ کنول",
         "Address": "P/O Khas Shehr Mustaqil Tehsil Kot Adu District M Garh",
         "Symbol": "CLOCK",
         "Party": "Independent",
@@ -28182,48 +28182,48 @@
       },
       {
         "SerialNo": 9,
-        "Name in English": "Shahista Kanwal",
-        "Name in Urdu": "شائستہ کنول",
+        "Name in English": "Samad Raza",
+        "Name in Urdu": "صمد رضا",
         "Address": "Chah Dasti P/O Mismail Chan Chak Mehna Tehsil & District Muzaffargarh",
         "Symbol": "TANDOOR",
-        "Party": "TEHREEK LABBAIK PAKISTAN",
+        "Party": "Independent",
         "SymbolNo": "",
         "symbol_url": "https://symbols.azaadvote.com/Tandoor.png"
       },
       {
         "SerialNo": 10,
-        "Name in English": "Syed Raza",
-        "Name in Urdu": "سید رضا",
+        "Name in English": "Abdul Wahab",
+        "Name in Urdu": "عبدالوہاب",
         "Address": "Basti Gulab Wala Ahmadi Filling Station Rohillanwali Tehsil & District Muzaffargarh",
         "Symbol": "CRANE",
-        "Party": "Independent",
+        "Party": "TEHREEK LABBAIK PAKISTAN",
         "SymbolNo": "",
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       },
       {
         "SerialNo": 11,
-        "Name in English": "Abdul Wahab",
-        "Name in Urdu": "عبدالوہاب",
-        "Address": "Chak No.1 Wala P/O Mandal Tehsil and District Muzaffargarh",
-        "Symbol": "ICE CREAM",
-        "Party": "Independent",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/Tambourine.png"
-      },
-      {
-        "SerialNo": 12,
         "Name in English": "Muhammad Shahid",
         "Name in Urdu": "محمد شاہد",
-        "Address": "Ward No.05 House No.102 Mahala Shiekhan Muzaffargarh",
+        "Address": "Chak No.1 Wala P/O Mandal Tehsil and District Muzaffargarh",
         "Symbol": "CRICKET STUMPS",
         "Party": "Independent",
         "SymbolNo": "",
         "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
       },
       {
+        "SerialNo": 12,
+        "Name in English": "Muhammad Azeem Ayyob Qureshi",
+        "Name in Urdu": "محمد عظیم ایوب قریشی",
+        "Address": "Ward No.05 House No.102 Mahala Shiekhan Muzaffargarh",
+        "Symbol": "DOLPHIN",
+        "Party": "Independent",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/dolphin.png"
+      },
+      {
         "SerialNo": 13,
-        "Name in English": "Muhammad Ayoub Qureshi",
-        "Name in Urdu": "محمد ایوب قریشی",
+        "Name in English": "Muhammad Ghayour",
+        "Name in Urdu": "محمد غیور",
         "Address": "Chah Lohar wala Mouza Esan Wala P/O Rehliwala Tehsil and District Muzaffargarh",
         "Symbol": "BEAR",
         "Party": "Independent",
@@ -28232,8 +28232,8 @@
       },
       {
         "SerialNo": 14,
-        "Name in English": "Muhammad Gayoor",
-        "Name in Urdu": "محمد گیور",
+        "Name in English": "Makhdoomzada S B A Sultan",
+        "Name in Urdu": "مخدومزادہ ایس بی اے سلطان",
         "Address": "MPA House Mohalla kandhi Shareef",
         "Symbol": "TIGER",
         "Party": "PAKISTAN MUSLIM LEAGUE(N)",
@@ -28242,8 +28242,8 @@
       },
       {
         "SerialNo": 15,
-        "Name in English": "Mahkoomzada S B A Sultan",
-        "Name in Urdu": "محکومزادہ ایس بی اے سلطان",
+        "Name in English": "Mustafa Ahmad",
+        "Name in Urdu": "مصطفی احمد",
         "Address": "Kothi Nawab Zada Saeed Ullah Khan Ai Pur Road Ward No.2 Tehsil & District M.Garh",
         "Symbol": "PARROT",
         "Party": "Independent",
@@ -28252,18 +28252,18 @@
       },
       {
         "SerialNo": 16,
-        "Name in English": "Mustafa Ahmad",
-        "Name in Urdu": "مصطفی احمد",
+        "Name in English": "Malik Anayt Ullah Khokhar",
+        "Name in Urdu": "ملک عنایت اللہ کھوکھر",
         "Address": "Khokhar P/O Khan Garh Tehsil and District Muzaffargarh",
-        "Symbol": "TREE",
+        "Symbol": "TYRE",
         "Party": "AMUN TARQQI PARTY",
         "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/tree.png"
+        "symbol_url": "https://symbols.azaadvote.com/tyre.png"
       },
       {
         "SerialNo": 17,
-        "Name in English": "Malik Anayt Ullah Khokhar",
-        "Name in Urdu": "ملک انایت اللہ کھوکھر",
+        "Name in English": "Mian Muhammad Imran",
+        "Name in Urdu": "میاں محمد عمران",
         "Address": "P/O Shah Jamal Meel Tehsil and District Muzaffargarh",
         "Symbol": "LAPTOP",
         "Party": "Independent",
@@ -28272,8 +28272,8 @@
       },
       {
         "SerialNo": 18,
-        "Name in English": "Mian Muhammad Imran",
-        "Name in Urdu": "میاں محمد عمران",
+        "Name in English": "Nazia",
+        "Name in Urdu": "نازیہ",
         "Address": "Shadman Collony P/O Misali School chak Mehtan Tehsil & District Muzaffargarh",
         "Symbol": "STUDY TABLE WITH CHAIR",
         "Party": "Independent",
@@ -28282,8 +28282,8 @@
       },
       {
         "SerialNo": 19,
-        "Name in English": "Nazia",
-        "Name in Urdu": "نازیہ",
+        "Name in English": "Nawabzada Iftakhar Ahmad Khan Babar",
+        "Name in Urdu": "نوابزادہ افتخار احمد خان بابر",
         "Address": "Kothi nawab sahib GT Road Khan Garh Tehsil & District M.Garh",
         "Symbol": "ARROW",
         "Party": "PAKISTAN PEOPLES PARTY PARLIAMENTARIANS",
@@ -28292,7 +28292,7 @@
       },
       {
         "SerialNo": 20,
-        "Name in English": "Nawabzada Iftakhar Ahmad Khan Babar",
+        "Name in English": "Nawabzada Muhammad Ahmad Khan Babar",
         "Name in Urdu": "نوابزادہ محمد احمد خان بابر",
         "Address": "Kothi Nawabzada Saeed Ullah Khan Ward No.2 Khan Garh Tehsil & District M.Garh",
         "Symbol": "TAP",
