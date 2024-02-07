@@ -756,15 +756,15 @@
       ]
     },
     "PK-7-Swat-V": {
-      "Constituency No": "PK-7-Swat-V",
-      "Constituency Name": "",
+      "Constituency No": "PK-7",
+      "Constituency Name": "Swat-V",
       "Returning Officer": "Dr. SARDAR UL MULK",
       "NumPages": 1,
       "Candidates": [
         {
           "SerialNo": 1,
-          "Name in English": "",
-          "Name in Urdu": "افضل حسین",
+          "Name in English": "Arshad Hussain",
+          "Name in Urdu": "ارشد حسین",
           "Address": "Mohalla Ibrahimkhel Odigram Tehsil Babuzai Swat",
           "Symbol": "RACKET",
           "Party": "Independent",
@@ -773,8 +773,8 @@
         },
         {
           "SerialNo": 2,
-          "Name in English": "",
-          "Name in Urdu": "اسرار الحق",
+          "Name in English": "Amjad Ali",
+          "Name in Urdu": "امجد علی",
           "Address": "Mohalla Madina Colony Zarkhela Tehsil Barikot Swat",
           "Symbol": "TAWA",
           "Party": "Independent",
