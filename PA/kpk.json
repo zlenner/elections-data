@@ -755,7 +755,7 @@
         "Revised/Khyber Pakhtunkhwa/PK 6/PK 6-page-00001.jpg"
       ]
     },
-    "PK-7-Swat-V": {
+    "PK-7": {
       "Constituency No": "PK-7",
       "Constituency Name": "Swat-V",
       "Returning Officer": "Dr. SARDAR UL MULK",
@@ -783,8 +783,8 @@
         },
         {
           "SerialNo": 3,
-          "Name in English": "",
-          "Name in Urdu": "خان بہادر خان",
+          "Name in English": "Tilawat Khan",
+          "Name in Urdu": "تلاوت خان",
           "Address": "Mohalla Bar Palaw PO Shamozai Barikot Swat",
           "Symbol": "TIGER",
           "Party": "Pakistan Muslim League (N)",
@@ -793,8 +793,8 @@
         },
         {
           "SerialNo": 4,
-          "Name in English": "",
-          "Name in Urdu": "حبیب اللہ خان",
+          "Name in English": "Habib ur Rehman",
+          "Name in Urdu": "حبیب الرحمان",
           "Address": "Dedawar Zarkhela Barikot Swat",
           "Symbol": "CHAIR",
           "Party": "Pakistan Markazi Muslim league",
@@ -803,8 +803,8 @@
         },
         {
           "SerialNo": 5,
-          "Name in English": "",
-          "Name in Urdu": "حمیرا شاہد",
+          "Name in English": "Habib Ali Shah",
+          "Name in Urdu": "حبیب علی شاہ",
           "Address": "Mohalla Jalabad Odigram Tehsil Babuzai District Swat",
           "Symbol": "TURBAN",
           "Party": "Pakistan Tehreek-e-Insaf Parliamentarian",
@@ -813,8 +813,8 @@
         },
         {
           "SerialNo": 6,
-          "Name in English": "",
-          "Name in Urdu": "رحمت علی خان",
+          "Name in English": "Riaz Ahmed",
+          "Name in Urdu": "ریاض احمد",
           "Address": "Mohalla Khoidad Khel Odigram Babuzai",
           "Symbol": "SCALE",
           "Party": "Jumat Islami pakistan",
@@ -823,8 +823,8 @@
         },
         {
           "SerialNo": 7,
-          "Name in English": "",
-          "Name in Urdu": "شکیل خان",
+          "Name in English": "Shahid Khan",
+          "Name in Urdu": "شاہد خان",
           "Address": "Mohalla Muttakhel Qambar Babuzai Swat",
           "Symbol": "PEACOCK",
           "Party": "Independent",
@@ -833,8 +833,8 @@
         },
         {
           "SerialNo": 8,
-          "Name in English": "",
-          "Name in Urdu": "شیرین بادشاہ",
+          "Name in English": "شاہی نواب",
+          "Name in Urdu": "Shahi Nawab",
           "Address": "Najigram Barikot Swat",
           "Symbol": "BOOK",
           "Party": "JUI Pakistan",
@@ -843,8 +843,8 @@
         },
         {
           "SerialNo": 9,
-          "Name in English": "",
-          "Name in Urdu": "فیاض خان",
+          "Name in English": "Sheer Shah",
+          "Name in Urdu": "شیر شاہ",
           "Address": "Tariqabad Gogdara Babuzai Swat",
           "Symbol": "LANTERN",
           "Party": "Awami National Party",
@@ -853,8 +853,8 @@
         },
         {
           "SerialNo": 10,
-          "Name in English": "",
-          "Name in Urdu": "عبداللہ خان",
+          "Name in English": "Adalat Khan",
+          "Name in Urdu": "عدالت خان",
           "Address": "Mohalla Malrakheil Rahimabad Qambar Swat",
           "Symbol": "TAMBOURINE",
           "Party": "Independent",
@@ -863,8 +863,8 @@
         },
         {
           "SerialNo": 11,
-          "Name in English": "",
-          "Name in Urdu": "محمد علی خان",
+          "Name in English": "Mukthar Raza",
+          "Name in Urdu": "مختار رضا",
           "Address": "Mohalla Fatehkhankhel Aboha Barikot Swat",
           "Symbol": "ARROW",
           "Party": "PPP Parliamentarian",
@@ -873,8 +873,8 @@
         },
         {
           "SerialNo": 12,
-          "Name in English": "",
-          "Name in Urdu": "محمد زبیر",
+          "Name in English": "Noor Muhammad",
+          "Name in Urdu": "نور محمد",
           "Address": "Mohalla Barpalao Garri Shamozai Barikot Swat",
           "Symbol": "CRANE",
           "Party": "Tehreek Labaik Pakistan",
@@ -883,8 +883,8 @@
         },
         {
           "SerialNo": 13,
-          "Name in English": "",
-          "Name in Urdu": "پیرنور الحق قادری",
+          "Name in English": "Hadayat ullah Khan",
+          "Name in Urdu": "ہدایت اللہ خان",
           "Address": "Mohalla Maira khel Rahimabad Qambar Swat.",
           "Symbol": "DOVE",
           "Party": "Independent",
