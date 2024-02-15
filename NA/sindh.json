@@ -7997,16 +7997,6 @@
     "Candidates": [
       {
         "SerialNo": 1,
-        "Name in English": "Muhammad Osama Razi",
-        "Name in Urdu": "محمد اسامہ رضی",
-        "Address": "Muhammad Razi Khan",
-        "Symbol": "SCALE",
-        "Party": "Jamaat-e-Islami Pakistan (JI)",
-        "SymbolNo": "",
-        "symbol_url": "https://symbols.azaadvote.com/scale.png"
-      },
-      {
-        "SerialNo": 2,
         "Name in English": "Osama Bin Iqbal",
         "Name in Urdu": "اسامہ بن اقبال",
         "Address": "Muhammad Iqbal Anwar",
@@ -8016,57 +8006,7 @@
         "symbol_url": "https://symbols.azaadvote.com/key-with-lock.png"
       },
       {
-        "SerialNo": 3,
-        "Name in English": "Syed Azhar Fakhar Uddin",
-        "Name in Urdu": "سید اظہر فخرالدین",
-        "Address": "Syed Ahmed Fakhar Uddin",
-        "Symbol": "AEROPLANE",
-        "Party": "Independent",
-        "SymbolNo": 2,
-        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
-      },
-      {
-        "SerialNo": 4,
-        "Name in English": "Muhammad Ashraf Jabbar",
-        "Name in Urdu": "محمد اشرف جبار",
-        "Address": "Abdul Jabbar Qureshi",
-        "Symbol": "WICKET",
-        "Party": "Independent",
-        "SymbolNo": 73,
-        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
-      },
-      {
-        "SerialNo": 5,
-        "Name in English": "Muhammad Asghar",
-        "Name in Urdu": "محمد اصغر",
-        "Address": "Muktar Ahmed",
-        "Symbol": "COMPUTER",
-        "Party": "Independent",
-        "SymbolNo": 67,
-        "symbol_url": "https://symbols.azaadvote.com/computer.png"
-      },
-      {
-        "SerialNo": 6,
-        "Name in English": "Irum Nousheen Riaz",
-        "Name in Urdu": "ایرم نوشین ریاض",
-        "Address": "Kashif Jalal Malik",
-        "Symbol": "FEATHER",
-        "Party": "Independent",
-        "SymbolNo": 102,
-        "symbol_url": "https://symbols.azaadvote.com/feather.png"
-      },
-      {
-        "SerialNo": 7,
-        "Name in English": "Muhammad Owais Rabbani",
-        "Name in Urdu": "محمد اویس ربانی",
-        "Address": "Akhtar Parvaz",
-        "Symbol": "PARACHUTE",
-        "Party": "Independent",
-        "SymbolNo": 192,
-        "symbol_url": "https://symbols.azaadvote.com/parachute.png"
-      },
-      {
-        "SerialNo": 8,
+        "SerialNo": 2,
         "Name in English": "Babar Siraj Mirza",
         "Name in Urdu": "بابر سراج مرزا",
         "Address": "Siraj Saeed Mirza",
@@ -8076,7 +8016,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Candle.png"
       },
       {
-        "SerialNo": 9,
+        "SerialNo": 3,
         "Name in English": "Parveen Bashir",
         "Name in Urdu": "پروین بشیر",
         "Address": "Bashir Ahmed",
@@ -8086,7 +8026,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tiger.png"
       },
       {
-        "SerialNo": 10,
+        "SerialNo": 4,
         "Name in English": "Jamil Ahmed",
         "Name in Urdu": "جمیل احمد",
         "Address": "Bashir Ahmed",
@@ -8096,7 +8036,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Swallow.png"
       },
       {
-        "SerialNo": 11,
+        "SerialNo": 5,
         "Name in English": "Hassan Sabir",
         "Name in Urdu": "حسن صابر",
         "Address": "Sabir Mehmood Bhatti",
@@ -8106,37 +8046,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Kite.png"
       },
       {
-        "SerialNo": 12,
-        "Name in English": "Shaikh Khalid Sultan",
-        "Name in Urdu": "شیخ خالد سلطان",
-        "Address": "Shaikh Sultan Ahmed",
-        "Symbol": "MATCH BOX",
-        "Party": "Independent",
-        "SymbolNo": 172,
-        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
-      },
-      {
-        "SerialNo": 13,
-        "Name in English": "Khurshid Hassan Khan Afridi",
-        "Name in Urdu": "خورشید حسن خان آفریدی",
-        "Address": "S H Khan Afridi",
-        "Symbol": "DOVE",
-        "Party": "Independent",
-        "SymbolNo": 88,
-        "symbol_url": "https://symbols.azaadvote.com/dove.png"
-      },
-      {
-        "SerialNo": 14,
-        "Name in English": "Daud Ahmed Fakhri",
-        "Name in Urdu": "داؤد احمد فاخری",
-        "Address": "Mehmood Ahmed",
-        "Symbol": "TORCH",
-        "Party": "Pakistan Conservative Party (PCP)",
-        "SymbolNo": 289,
-        "symbol_url": "https://symbols.azaadvote.com/torch.png"
-      },
-      {
-        "SerialNo": 15,
+        "SerialNo": 6,
         "Name in English": "Khalid",
         "Name in Urdu": "خالد",
         "Address": "Latif",
@@ -8146,7 +8056,27 @@
         "symbol_url": "https://symbols.azaadvote.com/teapot.png"
       },
       {
-        "SerialNo": 16,
+        "SerialNo": 7,
+        "Name in English": "Khurshid Hassan Khan Afridi",
+        "Name in Urdu": "خورشید حسن خان آفریدی",
+        "Address": "S H Khan Afridi",
+        "Symbol": "DOVE",
+        "Party": "Independent",
+        "SymbolNo": 88,
+        "symbol_url": "https://symbols.azaadvote.com/dove.png"
+      },
+      {
+        "SerialNo": 8,
+        "Name in English": "Daud Ahmed Fakhri",
+        "Name in Urdu": "داؤد احمد فاخری",
+        "Address": "Mehmood Ahmed",
+        "Symbol": "TORCH",
+        "Party": "Pakistan Conservative Party (PCP)",
+        "SymbolNo": 289,
+        "symbol_url": "https://symbols.azaadvote.com/torch.png"
+      },
+      {
+        "SerialNo": 9,
         "Name in English": "Sabeen Malik",
         "Name in Urdu": "سبین ملک",
         "Address": "Malik Muhammad Ashiq",
@@ -8156,7 +8086,7 @@
         "symbol_url": "https://symbols.azaadvote.com/spider.png"
       },
       {
-        "SerialNo": 17,
+        "SerialNo": 10,
         "Name in English": "Sadia Qaiser",
         "Name in Urdu": "سعدیہ قیصر",
         "Address": "Qaiser Ali Khan Ghouri",
@@ -8166,17 +8096,47 @@
         "symbol_url": "https://symbols.azaadvote.com/queen.png"
       },
       {
-        "SerialNo": 18,
-        "Name in English": "Shakil Ahmed",
-        "Name in Urdu": "شکیل احمد",
-        "Address": "Muhammad Shafiq",
-        "Symbol": "IRON",
-        "Party": "Pakistan Rah-e-Haq Party (PRHP)",
-        "SymbolNo": 147,
-        "symbol_url": "https://symbols.azaadvote.com/Iron.png"
+        "SerialNo": 11,
+        "Name in English": "Syed Azhar Fakhar Uddin",
+        "Name in Urdu": "سید اظہر فخرالدین",
+        "Address": "Syed Ahmed Fakhar Uddin",
+        "Symbol": "AEROPLANE",
+        "Party": "Independent",
+        "SymbolNo": 2,
+        "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
       },
       {
-        "SerialNo": 19,
+        "SerialNo": 12,
+        "Name in English": "Syed Firdous Shamim Naqvi",
+        "Name in Urdu": "سید فردوس شمیم نقوی",
+        "Address": "Syed Shamim Ul Hassan Naqvi",
+        "Symbol": "BRICK",
+        "Party": "Independent",
+        "SymbolNo": 35,
+        "symbol_url": "https://symbols.azaadvote.com/brick.png"
+      },
+      {
+        "SerialNo": 13,
+        "Name in English": "Syed Muhammad Umer Feroz",
+        "Name in Urdu": "سید محمد عمر فیروز",
+        "Address": "Feroz Shah Qasmi",
+        "Symbol": "STILL CAMERA",
+        "Party": "Independent",
+        "SymbolNo": 261,
+        "symbol_url": "https://symbols.azaadvote.com/still-camera.png"
+      },
+      {
+        "SerialNo": 14,
+        "Name in English": "Syed Mushtaq Hussain",
+        "Name in Urdu": "سید مشتاق حسین",
+        "Address": "Syed Afaq Hussain",
+        "Symbol": "STAR",
+        "Party": "Grand Democratic Alliance",
+        "SymbolNo": 259,
+        "symbol_url": "https://symbols.azaadvote.com/star.png"
+      },
+      {
+        "SerialNo": 15,
         "Name in English": "Shafiq Naseem",
         "Name in Urdu": "شفیق نسیم",
         "Address": "Muhammad Naseem Ansari",
@@ -8186,7 +8146,27 @@
         "symbol_url": "https://symbols.azaadvote.com/alphabet-a.png"
       },
       {
-        "SerialNo": 20,
+        "SerialNo": 16,
+        "Name in English": "Shakil Ahmed",
+        "Name in Urdu": "شکیل احمد",
+        "Address": "Muhammad Shafiq",
+        "Symbol": "IRON",
+        "Party": "Pakistan Rah-e-Haq Party (PRHP)",
+        "SymbolNo": 147,
+        "symbol_url": "https://symbols.azaadvote.com/Iron.png"
+      },
+      {
+        "SerialNo": 17,
+        "Name in English": "Shaikh Khalid Sultan",
+        "Name in Urdu": "شیخ خالد سلطان",
+        "Address": "Shaikh Sultan Ahmed",
+        "Symbol": "MATCH BOX",
+        "Party": "Independent",
+        "SymbolNo": 172,
+        "symbol_url": "https://symbols.azaadvote.com/matchbox.png"
+      },
+      {
+        "SerialNo": 18,
         "Name in English": "Abdul Rasheed",
         "Name in Urdu": "عبدل رشید",
         "Address": "Mehraban Shah",
@@ -8194,6 +8174,26 @@
         "Party": "Independent",
         "SymbolNo": 163,
         "symbol_url": "https://symbols.azaadvote.com/laptop.png"
+      },
+      {
+        "SerialNo": 19,
+        "Name in English": "Abdul Kadir Khanzada",
+        "Name in Urdu": "عبدالقادر خانزاده",
+        "Address": "Bashir Khan",
+        "Symbol": "HANGER",
+        "Party": "Independent",
+        "SymbolNo": 132,
+        "symbol_url": "https://symbols.azaadvote.com/hanger.png"
+      },
+      {
+        "SerialNo": 20,
+        "Name in English": "Imran Saif Khan Ghauri",
+        "Name in Urdu": "عمران سیف خان غوری",
+        "Address": "Saif Ullah Khan Ghauri",
+        "Symbol": "RACKET",
+        "Party": "Independent",
+        "SymbolNo": 214,
+        "symbol_url": "https://symbols.azaadvote.com/racket.png"
       },
       {
         "SerialNo": 21,
@@ -8207,56 +8207,6 @@
       },
       {
         "SerialNo": 22,
-        "Name in English": "Imran Saif Khan Ghauri",
-        "Name in Urdu": "عمران سیف خان غوری",
-        "Address": "Saif Ullah Khan Ghauri",
-        "Symbol": "RACKET",
-        "Party": "Independent",
-        "SymbolNo": 214,
-        "symbol_url": "https://symbols.azaadvote.com/racket.png"
-      },
-      {
-        "SerialNo": 23,
-        "Name in English": "Muhammad Alamgir Khan",
-        "Name in Urdu": "محمد عالمگیر خان",
-        "Address": "Dilawar Khan",
-        "Symbol": "BRINJAL",
-        "Party": "Independent",
-        "SymbolNo": 37,
-        "symbol_url": "https://symbols.azaadvote.com/brinjal.png"
-      },
-      {
-        "SerialNo": 24,
-        "Name in English": "Abdul Kadir Khanzada",
-        "Name in Urdu": "عبدالقادر خانزاده",
-        "Address": "Bashir Khan",
-        "Symbol": "HANGER",
-        "Party": "Independent",
-        "SymbolNo": 132,
-        "symbol_url": "https://symbols.azaadvote.com/hanger.png"
-      },
-      {
-        "SerialNo": 25,
-        "Name in English": "Syed Muhammad Umer Feroz",
-        "Name in Urdu": "سید محمد عمر فیروز",
-        "Address": "Feroz Shah Qasmi",
-        "Symbol": "STILL CAMERA",
-        "Party": "Independent",
-        "SymbolNo": 261,
-        "symbol_url": "https://symbols.azaadvote.com/still-camera.png"
-      },
-      {
-        "SerialNo": 26,
-        "Name in English": "Syed Firdous Shamim Naqvi",
-        "Name in Urdu": "سید فردوس شمیم نقوی",
-        "Address": "Syed Shamim Ul Hassan Naqvi",
-        "Symbol": "BRICK",
-        "Party": "Independent",
-        "SymbolNo": 35,
-        "symbol_url": "https://symbols.azaadvote.com/brick.png"
-      },
-      {
-        "SerialNo": 27,
         "Name in English": "Fizza Zehsan",
         "Name in Urdu": "فضہ زیشان",
         "Address": "Zishan Akbar",
@@ -8266,37 +8216,17 @@
         "symbol_url": "https://symbols.azaadvote.com/letter-box.png"
       },
       {
-        "SerialNo": 28,
-        "Name in English": "Muhammad Luqman",
-        "Name in Urdu": "محمد لقمان",
-        "Address": "Muhammad Usman",
-        "Symbol": "CRANE",
-        "Party": "Independent",
-        "SymbolNo": 71,
-        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+        "SerialNo": 23,
+        "Name in English": "Faisal Mujeeb",
+        "Name in Urdu": "فیصل مجیب",
+        "Address": "Faisal Mujeeb",
+        "Symbol": "",
+        "Party": "",
+        "SymbolNo": "",
+        "symbol_url": ""
       },
       {
-        "SerialNo": 29,
-        "Name in English": "Laila Parveen Iqbal",
-        "Name in Urdu": "لیلی پروین اقبال",
-        "Address": "Muhammad Iqbal",
-        "Symbol": "LIGHTER",
-        "Party": "Pakistan TLP",
-        "SymbolNo": 166,
-        "symbol_url": "https://symbols.azaadvote.com/lighter.png"
-      },
-      {
-        "SerialNo": 30,
-        "Name in English": "Syed Mushtaq Hussain",
-        "Name in Urdu": "سید مشتاق حسین",
-        "Address": "Syed Afaq Hussain",
-        "Symbol": "STAR",
-        "Party": "Grand Democratic Alliance",
-        "SymbolNo": 259,
-        "symbol_url": "https://symbols.azaadvote.com/star.png"
-      },
-      {
-        "SerialNo": 31,
+        "SerialNo": 24,
         "Name in English": "Majid Maqsood",
         "Name in Urdu": "ماجد مقصود",
         "Address": "Maqsood Ahmed",
@@ -8306,7 +8236,7 @@
         "symbol_url": "https://symbols.azaadvote.com/alphabet-s.png"
       },
       {
-        "SerialNo": 32,
+        "SerialNo": 25,
         "Name in English": "Mitha Khan",
         "Name in Urdu": "میٹھا خان",
         "Address": "Muhammad Khan",
@@ -8316,7 +8246,67 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       },
       {
-        "SerialNo": 33,
+        "SerialNo": 26,
+        "Name in English": "Muhammad Osama Razi",
+        "Name in Urdu": "محمد اسامہ رضی",
+        "Address": "Muhammad Razi Khan",
+        "Symbol": "SCALE",
+        "Party": "Jamaat-e-Islami Pakistan (JI)",
+        "SymbolNo": "",
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 27,
+        "Name in English": "Muhammad Ashraf Jabbar",
+        "Name in Urdu": "محمد اشرف جبار",
+        "Address": "Abdul Jabbar Qureshi",
+        "Symbol": "WICKET",
+        "Party": "Independent",
+        "SymbolNo": 73,
+        "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
+      },
+      {
+        "SerialNo": 28,
+        "Name in English": "Muhammad Asghar",
+        "Name in Urdu": "محمد اصغر",
+        "Address": "Muktar Ahmed",
+        "Symbol": "COMPUTER",
+        "Party": "Independent",
+        "SymbolNo": 67,
+        "symbol_url": "https://symbols.azaadvote.com/computer.png"
+      },
+      {
+        "SerialNo": 29,
+        "Name in English": "Muhammad Owais Rabbani",
+        "Name in Urdu": "محمد اویس ربانی",
+        "Address": "Akhtar Parvaz",
+        "Symbol": "PARACHUTE",
+        "Party": "Independent",
+        "SymbolNo": 192,
+        "symbol_url": "https://symbols.azaadvote.com/parachute.png"
+      },
+      {
+        "SerialNo": 30,
+        "Name in English": "Muhammad Alamgir Khan",
+        "Name in Urdu": "محمد عالمگیر خان",
+        "Address": "Dilawar Khan",
+        "Symbol": "BRINJAL",
+        "Party": "Independent",
+        "SymbolNo": 37,
+        "symbol_url": "https://symbols.azaadvote.com/brinjal.png"
+      },
+      {
+        "SerialNo": 31,
+        "Name in English": "Muhammad Luqman",
+        "Name in Urdu": "محمد لقمان",
+        "Address": "Muhammad Usman",
+        "Symbol": "CRANE",
+        "Party": "Independent",
+        "SymbolNo": 71,
+        "symbol_url": "https://symbols.azaadvote.com/crane.png"
+      },
+      {
+        "SerialNo": 32,
         "Name in English": "Muhammad Muzammil Qureshi",
         "Name in Urdu": "محمد مزمل قریشی",
         "Address": "Abdul Azim Qureshi",
@@ -8326,7 +8316,7 @@
         "symbol_url": "https://symbols.azaadvote.com/arrow.png"
       },
       {
-        "SerialNo": 34,
+        "SerialNo": 33,
         "Name in English": "Manzoor Hussain",
         "Name in Urdu": "منظور حسین",
         "Address": "Noat Muhammad",
@@ -8336,7 +8326,7 @@
         "symbol_url": "https://symbols.azaadvote.com/dolphin.png"
       },
       {
-        "SerialNo": 35,
+        "SerialNo": 34,
         "Name in English": "Noor Uddin",
         "Name in Urdu": "نور الدين",
         "Address": "Ali Bukhsh",
