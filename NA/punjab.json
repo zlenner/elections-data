@@ -23588,16 +23588,6 @@
       },
       {
         "SerialNo": 2,
-        "Name in English": "Rana Mahmood Ul Hassan",
-        "Name in Urdu": "رانا محمود الحسن",
-        "Address": "Old Bahawalpur Road, Street No.1, Mohallah Qasim Pur Colony Multan.",
-        "Symbol": "SHEEP",
-        "Party": "Independent",
-        "SymbolNo": 241,
-        "symbol_url": "https://symbols.azaadvote.com/sheep.png"
-      },
-      {
-        "SerialNo": 3,
         "Name in English": "Rao Muhammad Mustaqeem",
         "Name in Urdu": "راؤ محمد مستقیم",
         "Address": "Fatima Jinnah Town, Dunia Pur Road, P.O. Mumtazabad, Arzari Qulam Yaseen, Tehsil & District Multan.",
@@ -23607,7 +23597,7 @@
         "symbol_url": "https://symbols.azaadvote.com/bear.png"
       },
       {
-        "SerialNo": 4,
+        "SerialNo": 3,
         "Name in English": "Saeed Ahmed Khalid",
         "Name in Urdu": "سعید احمد خالد",
         "Address": "Post Office Makhdoom Rashid Chak No,3 MR Tehsil Multan Saddar Multan",
@@ -23617,7 +23607,7 @@
         "symbol_url": "https://symbols.azaadvote.com/chair.png"
       },
       {
-        "SerialNo": 5,
+        "SerialNo": 4,
         "Name in English": "Syed Ali Musa Gilani",
         "Name in Urdu": "سید علی موسیٰ گیلانی",
         "Address": "Gilani House House#1 Mohalla Ghous-Ul-Azam Road Multan",
@@ -23627,7 +23617,7 @@
         "symbol_url": "https://symbols.azaadvote.com/arrow.png"
       },
       {
-        "SerialNo": 6,
+        "SerialNo": 5,
         "Name in English": "Arif Mansoor Hayat",
         "Name in Urdu": "عارف منصور حیات",
         "Address": "Sher Shah Road House # 200 Street # 2 Mohallah Askriya Colony Phase II Multan Cantt Tehsil & District Multan",
@@ -23637,7 +23627,7 @@
         "symbol_url": "https://symbols.azaadvote.com/racket.png"
       },
       {
-        "SerialNo": 7,
+        "SerialNo": 6,
         "Name in English": "Abdul Ghaffar",
         "Name in Urdu": "عبد الغفار",
         "Address": "Near Arif Motors Kharneval Road, House No.779, Mohallah Mehmoodabad Colony Multan.",
@@ -23647,7 +23637,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tiger.png"
       },
       {
-        "SerialNo": 8,
+        "SerialNo": 7,
         "Name in English": "Muhammad Bilal",
         "Name in Urdu": "محمد بلال",
         "Address": "Basti Kareem Abad, P.O. Ram Kali, Dera Budhoo Malik Tehsil & District Multan",
@@ -23657,7 +23647,7 @@
         "symbol_url": "https://symbols.azaadvote.com/scale.png"
       },
       {
-        "SerialNo": 9,
+        "SerialNo": 8,
         "Name in English": "Muhammad Ramzan",
         "Name in Urdu": "محمد رمضان",
         "Address": "Post Office Khas Chak No.1 MR Tehsil Multan Saddar Dist. Multan",
@@ -23667,7 +23657,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
       },
       {
-        "SerialNo": 10,
+        "SerialNo": 9,
         "Name in English": "Meher Bano Qureshi",
         "Name in Urdu": "مہر بانو قریشی",
         "Address": "Bab Al Quresh House No.445 Multan",
@@ -23675,16 +23665,6 @@
         "Party": "Independent",
         "SymbolNo": 286,
         "symbol_url": "https://symbols.azaadvote.com/tongs.png"
-      },
-      {
-        "SerialNo": 11,
-        "Name in English": "Naseer Ahmad",
-        "Name in Urdu": "نصیر احمد",
-        "Address": "Grass Mandi House No. 574/2 Street no. 5 Multan Cantt, Tehsil & District Multan",
-        "Symbol": "PEACOCK",
-        "Party": "Independent",
-        "SymbolNo": 189,
-        "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
     "PageFiles": [
