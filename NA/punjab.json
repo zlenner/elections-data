@@ -1212,10 +1212,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Iron.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-007.jpg",
-      "NA_Form-33-008.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-007.jpg", "NA_Form-33-008.jpg"]
   },
   "NA-49": {
     "Constituency No": "NA-49",
@@ -1575,10 +1572,7 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-011.jpg",
-      "NA_Form-33-012.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-011.jpg", "NA_Form-33-012.jpg"]
   },
   "NA-51": {
     "Constituency No": "NA-51",
@@ -2059,10 +2053,7 @@
         "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-015.jpg",
-      "NA_Form-33-016.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-015.jpg", "NA_Form-33-016.jpg"]
   },
   "NA-53": {
     "Constituency No": "NA-53",
@@ -3239,10 +3230,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-025.jpg",
-      "NA_Form-33-026.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-025.jpg", "NA_Form-33-026.jpg"]
   },
   "NA-57": {
     "Constituency No": "NA-57",
@@ -3511,10 +3499,7 @@
         "symbol_url": "https://symbols.azaadvote.com/bear.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-027.jpg",
-      "NA_Form-33-028.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-027.jpg", "NA_Form-33-028.jpg"]
   },
   "NA-58": {
     "Constituency No": "NA-58",
@@ -3733,10 +3718,7 @@
         "symbol_url": "https://symbols.azaadvote.com/battery.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-029.jpg",
-      "NA_Form-33-030.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-029.jpg", "NA_Form-33-030.jpg"]
   },
   "NA-59": {
     "Constituency No": "NA-59",
@@ -3965,9 +3947,7 @@
         "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-031.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-031.jpg"]
   },
   "NA-60": {
     "Constituency No": "NA-60",
@@ -4560,10 +4540,7 @@
         "symbol_url": "https://symbols.azaadvote.com/bottle.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-036.jpg",
-      "NA_Form-33-037.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-036.jpg", "NA_Form-33-037.jpg"]
   },
   "NA-63": {
     "Constituency No": "NA-63",
@@ -4712,9 +4689,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tiger.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-038.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-038.jpg"]
   },
   "NA-64": {
     "Constituency No": "NA-64",
@@ -4734,8 +4709,8 @@
       },
       {
         "SerialNo": 2,
-        "Name in English": "Chaudhry Saik Hussain",
-        "Name in Urdu": "چودھری سیک حسین",
+        "Name in English": "Chaudhry Salik Hussain",
+        "Name in Urdu": "چودھری سالک حسین",
         "Address": "Zahoor Elahi House Mohallah Emanabad Road Gujrat",
         "Symbol": "TRACTOR",
         "Party": "Pakistan Muslim League",
@@ -4774,6 +4749,16 @@
       },
       {
         "SerialNo": 6,
+        "Name in English": "Zahra Ikhlas",
+        "Name in Urdu": "زاہرا اخلاص",
+        "Address": "Kunjah House Sargodha Road P/O Kunjah Tehsil & District Gujrat",
+        "Symbol": "QUEEN",
+        "Party": "Independent",
+        "SymbolNo": 211,
+        "symbol_url": "https://symbols.azaadvote.com/scale.png"
+      },
+      {
+        "SerialNo": 7,
         "Name in English": "Sajid Sharif",
         "Name in Urdu": "ساجد شریف",
         "Address": "Village & P/O Bathu Tehsil Kharian District Gujrat",
@@ -4783,7 +4768,7 @@
         "symbol_url": "https://symbols.azaadvote.com/scale.png"
       },
       {
-        "SerialNo": 7,
+        "SerialNo": 8,
         "Name in English": "Abdul Rashid",
         "Name in Urdu": "عبدالرشید",
         "Address": "Village & P/O Ping Hassana Tehsil & District Gujrat",
@@ -4793,7 +4778,7 @@
         "symbol_url": "https://symbols.azaadvote.com/book.png"
       },
       {
-        "SerialNo": 8,
+        "SerialNo": 9,
         "Name in English": "Usman Saeed",
         "Name in Urdu": "عثمان سعید",
         "Address": "Ali pour Road Shadman Jaura House District Gujrat",
@@ -4803,7 +4788,7 @@
         "symbol_url": "https://symbols.azaadvote.com/calculator.png"
       },
       {
-        "SerialNo": 9,
+        "SerialNo": 10,
         "Name in English": "Azeem Ullah Waraich",
         "Name in Urdu": "عظیم اللہ وڑائچ",
         "Address": "Village & P.O. Gora Tehsil & District 22. Bear",
@@ -4813,7 +4798,7 @@
         "symbol_url": "https://symbols.azaadvote.com/bear.png"
       },
       {
-        "SerialNo": 10,
+        "SerialNo": 11,
         "Name in English": "Imran Zafar",
         "Name in Urdu": "عمران ظفر",
         "Address": "Ahmed Street Shah Jahangir Road House # B-2/793/0 Gujrat",
@@ -4823,7 +4808,7 @@
         "symbol_url": "https://symbols.azaadvote.com/laptop.png"
       },
       {
-        "SerialNo": 11,
+        "SerialNo": 12,
         "Name in English": "Majid Rasheed",
         "Name in Urdu": "ماجد رشید",
         "Address": "House #147 Block C Cenal City Main Cenal Bank Road Lohare",
@@ -4833,7 +4818,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Hud-Hud.png"
       },
       {
-        "SerialNo": 12,
+        "SerialNo": 13,
         "Name in English": "Mubeen Arshad",
         "Name in Urdu": "مبین ارشاد",
         "Address": "Shah Jahangir Road Mohallah Muslim Gunj Gujrat",
@@ -4843,7 +4828,7 @@
         "symbol_url": "https://symbols.azaadvote.com/arrow.png"
       },
       {
-        "SerialNo": 13,
+        "SerialNo": 14,
         "Name in English": "Muhammad Arshad Khokhar",
         "Name in Urdu": "محمد ارشاد کھوکھر",
         "Address": "Ghulam House near masjid bilal-ghani baghdadi jail pur jattan Tehsil & District Gujrat",
@@ -4853,7 +4838,7 @@
         "symbol_url": "https://symbols.azaadvote.com/mic.png"
       },
       {
-        "SerialNo": 14,
+        "SerialNo": 15,
         "Name in English": "Muhammad Afzal Gondal",
         "Name in Urdu": "محمد افضل گوندل",
         "Address": "By pass Dheerkey Kalan Tehsil & District Gujrat",
@@ -4863,7 +4848,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
       },
       {
-        "SerialNo": 15,
+        "SerialNo": 16,
         "Name in English": "Muhammad Sajjad",
         "Name in Urdu": "محمد سجاد",
         "Address": "P.O. Naseera Chak Lashkri Tehsil Kharian District Gujrat",
@@ -4873,7 +4858,7 @@
         "symbol_url": "https://symbols.azaadvote.com/chair.png"
       },
       {
-        "SerialNo": 16,
+        "SerialNo": 17,
         "Name in English": "Muhammad Yousaf",
         "Name in Urdu": "محمد یوسف",
         "Address": "Sughra manzil street#2 mohallah asghar town-lalan nagar Gujrat",
@@ -4881,11 +4866,19 @@
         "Party": "Pakistan Awami Tehreek",
         "SymbolNo": 179,
         "symbol_url": "https://symbols.azaadvote.com/moter-bike.png"
+      },
+      {
+        "SerialNo": 18,
+        "Name in English": "Qaisara Eahli",
+        "Name in Urdu": "قیصرہ اہلی",
+        "Address": "Kunjah, Dist. Gujrat",
+        "Symbol": "FRIDGE",
+        "Party": "Independent",
+        "SymbolNo": 113,
+        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-039.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-039.jpg"]
   },
   "NA-65": {
     "Constituency No": "NA-65",
@@ -5104,10 +5097,7 @@
         "symbol_url": "https://symbols.azaadvote.com/cow.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-040.jpg",
-      "NA_Form-33-041.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-040.jpg", "NA_Form-33-041.jpg"]
   },
   "NA-66": {
     "Constituency No": "NA-66",
@@ -5386,10 +5376,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tiger.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-042.jpg",
-      "NA_Form-33-043.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-042.jpg", "NA_Form-33-043.jpg"]
   },
   "NA-67": {
     "Constituency No": "NA-67",
@@ -5648,10 +5635,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Kite.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-044.jpg",
-      "NA_Form-33-045.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-044.jpg", "NA_Form-33-045.jpg"]
   },
   "NA-68": {
     "Constituency No": "NA-68",
@@ -5900,10 +5884,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Cannon.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-046.jpg",
-      "NA_Form-33-047.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-046.jpg", "NA_Form-33-047.jpg"]
   },
   "NA-69": {
     "Constituency No": "NA-69",
@@ -6112,10 +6093,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Cannon.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-048.jpg",
-      "NA_Form-33-049.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-048.jpg", "NA_Form-33-049.jpg"]
   },
   "NA-70": {
     "Constituency No": "NA-70",
@@ -6364,10 +6342,7 @@
         "symbol_url": "https://symbols.azaadvote.com/computer.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-050.jpg",
-      "NA_Form-33-051.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-050.jpg", "NA_Form-33-051.jpg"]
   },
   "NA-71": {
     "Constituency No": "NA-71",
@@ -6556,10 +6531,7 @@
         "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-052.jpg",
-      "NA_Form-33-053.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-052.jpg", "NA_Form-33-053.jpg"]
   },
   "NA-72": {
     "Constituency No": "NA-72",
@@ -8592,10 +8564,7 @@
         "symbol_url": "https://symbols.azaadvote.com/table.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-069.jpg",
-      "NA_Form-33-070.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-069.jpg", "NA_Form-33-070.jpg"]
   },
   "NA-80": {
     "Constituency No": "NA-80",
@@ -9127,10 +9096,7 @@
         "symbol_url": "https://symbols.azaadvote.com/study-table-with-chair.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-074.jpg",
-      "NA_Form-33-075.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-074.jpg", "NA_Form-33-075.jpg"]
   },
   "NA-82": {
     "Constituency No": "NA-82",
@@ -9259,9 +9225,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hand-pump.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-076.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-076.jpg"]
   },
   "NA-83": {
     "Constituency No": "NA-83",
@@ -9410,10 +9374,7 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-077.jpg",
-      "NA_Form-33-078.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-077.jpg", "NA_Form-33-078.jpg"]
   },
   "NA-84": {
     "Constituency No": "NA-84",
@@ -9692,10 +9653,7 @@
         "symbol_url": "https://symbols.azaadvote.com/medal.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-079.jpg",
-      "NA_Form-33-080.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-079.jpg", "NA_Form-33-080.jpg"]
   },
   "NA-85": {
     "Constituency No": "NA-85",
@@ -9914,10 +9872,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-081.jpg",
-      "NA_Form-33-082.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-081.jpg", "NA_Form-33-082.jpg"]
   },
   "NA-86": {
     "Constituency No": "NA-86",
@@ -10086,10 +10041,7 @@
         "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-083.jpg",
-      "NA_Form-33-084.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-083.jpg", "NA_Form-33-084.jpg"]
   },
   "NA-87": {
     "Constituency No": "NA-87",
@@ -10218,9 +10170,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-085.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-085.jpg"]
   },
   "NA-88": {
     "Constituency No": "NA-88",
@@ -10369,9 +10319,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-086.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-086.jpg"]
   },
   "NA-89": {
     "Constituency No": "NA-89",
@@ -10550,9 +10498,7 @@
         "symbol_url": "https://symbols.azaadvote.com/arrow.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-087.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-087.jpg"]
   },
   "NA-90": {
     "Constituency No": "NA-90",
@@ -10721,9 +10667,7 @@
         "symbol_url": "https://symbols.azaadvote.com/dove.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-088.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-088.jpg"]
   },
   "NA-91": {
     "Constituency No": "NA-91",
@@ -10922,10 +10866,7 @@
         "symbol_url": "https://symbols.azaadvote.com/bear.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-089.jpg",
-      "NA_Form-33-090.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-089.jpg", "NA_Form-33-090.jpg"]
   },
   "NA-92": {
     "Constituency No": "NA-92",
@@ -11074,10 +11015,7 @@
         "symbol_url": "https://symbols.azaadvote.com/scale.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-091.jpg",
-      "NA_Form-33-092.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-091.jpg", "NA_Form-33-092.jpg"]
   },
   "NA-93": {
     "Constituency No": "NA-93",
@@ -11226,9 +11164,7 @@
         "symbol_url": "https://symbols.azaadvote.com/pen.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-093.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-093.jpg"]
   },
   "NA-94": {
     "Constituency No": "NA-94",
@@ -11447,10 +11383,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Rabab.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-094.jpg",
-      "NA_Form-33-095.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-094.jpg", "NA_Form-33-095.jpg"]
   },
   "NA-95": {
     "Constituency No": "NA-95",
@@ -11709,10 +11642,7 @@
         "symbol_url": "https://symbols.azaadvote.com/letter-box.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-096.jpg",
-      "NA_Form-33-097.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-096.jpg", "NA_Form-33-097.jpg"]
   },
   "NA-96": {
     "Constituency No": "NA-96",
@@ -11961,10 +11891,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-098.jpg",
-      "NA_Form-33-099.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-098.jpg", "NA_Form-33-099.jpg"]
   },
   "NA-97": {
     "Constituency No": "NA-97",
@@ -12183,9 +12110,7 @@
         "symbol_url": "https://symbols.azaadvote.com/eagle.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-100.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-100.jpg"]
   },
   "NA-98": {
     "Constituency No": "NA-98",
@@ -13160,10 +13085,7 @@
         "symbol_url": "https://symbols.azaadvote.com/key-chain.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-107.jpg",
-      "NA_Form-33-108.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-107.jpg", "NA_Form-33-108.jpg"]
   },
   "NA-102": {
     "Constituency No": "NA-102",
@@ -14510,10 +14432,7 @@
         "symbol_url": "https://symbols.azaadvote.com/water-tank.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-117.jpg",
-      "NA_Form-33-118.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-117.jpg", "NA_Form-33-118.jpg"]
   },
   "NA-106": {
     "Constituency No": "NA-106",
@@ -14682,10 +14601,7 @@
         "symbol_url": "https://symbols.azaadvote.com/badge.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-119.jpg",
-      "NA_Form-33-120.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-119.jpg", "NA_Form-33-120.jpg"]
   },
   "NA-107": {
     "Constituency No": "NA-107",
@@ -14954,10 +14870,7 @@
         "symbol_url": "https://symbols.azaadvote.com/screw-driver.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-121.jpg",
-      "NA_Form-33-122.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-121.jpg", "NA_Form-33-122.jpg"]
   },
   "NA-108": {
     "Constituency No": "NA-108",
@@ -15136,10 +15049,7 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-123.jpg",
-      "NA_Form-33-124.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-123.jpg", "NA_Form-33-124.jpg"]
   },
   "NA-109": {
     "Constituency No": "NA-109",
@@ -15358,10 +15268,7 @@
         "symbol_url": "https://symbols.azaadvote.com/charpai.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-125.jpg",
-      "NA_Form-33-126.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-125.jpg", "NA_Form-33-126.jpg"]
   },
   "NA-110": {
     "Constituency No": "NA-110",
@@ -15520,10 +15427,7 @@
         "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-127.jpg",
-      "NA_Form-33-128.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-127.jpg", "NA_Form-33-128.jpg"]
   },
   "NA-111": {
     "Constituency No": "NA-111",
@@ -16046,10 +15950,7 @@
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-132.jpg",
-      "NA_Form-33-133.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-132.jpg", "NA_Form-33-133.jpg"]
   },
   "NA-114": {
     "Constituency No": "NA-114",
@@ -16550,10 +16451,7 @@
         "symbol_url": "https://symbols.azaadvote.com/chair.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-136.jpg",
-      "NA_Form-33-137.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-136.jpg", "NA_Form-33-137.jpg"]
   },
   "NA-116": {
     "Constituency No": "NA-116",
@@ -17024,10 +16922,7 @@
         "symbol_url": "https://symbols.azaadvote.com/pomegranate.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-140.jpg",
-      "NA_Form-33-141.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-140.jpg", "NA_Form-33-141.jpg"]
   },
   "NA-118": {
     "Constituency No": "NA-118",
@@ -17166,10 +17061,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hen.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-142.jpg",
-      "NA_Form-33-143.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-142.jpg", "NA_Form-33-143.jpg"]
   },
   "NA-119": {
     "Constituency No": "NA-119",
@@ -17368,10 +17260,7 @@
         "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-144.jpg",
-      "NA_Form-33-145.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-144.jpg", "NA_Form-33-145.jpg"]
   },
   "NA-120": {
     "Constituency No": "NA-120",
@@ -17650,10 +17539,7 @@
         "symbol_url": "https://symbols.azaadvote.com/alphabet-g.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-146.jpg",
-      "NA_Form-33-147.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-146.jpg", "NA_Form-33-147.jpg"]
   },
   "NA-121": {
     "Constituency No": "NA-121",
@@ -17812,10 +17698,7 @@
         "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-148.jpg",
-      "NA_Form-33-149.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-148.jpg", "NA_Form-33-149.jpg"]
   },
   "NA-122": {
     "Constituency No": "NA-122",
@@ -18034,10 +17917,7 @@
         "symbol_url": "https://symbols.azaadvote.com/calculator.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-150.jpg",
-      "NA_Form-33-151.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-150.jpg", "NA_Form-33-151.jpg"]
   },
   "NA-123": {
     "Constituency No": "NA-123",
@@ -18206,10 +18086,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tiger.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-152.jpg",
-      "NA_Form-33-153.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-152.jpg", "NA_Form-33-153.jpg"]
   },
   "NA-124": {
     "Constituency No": "NA-124",
@@ -18348,9 +18225,7 @@
         "symbol_url": "https://symbols.azaadvote.com/medal.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-154.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-154.jpg"]
   },
   "NA-125": {
     "Constituency No": "NA-125",
@@ -18549,10 +18424,7 @@
         "symbol_url": "https://symbols.azaadvote.com/book.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-155.jpg",
-      "NA_Form-33-156.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-155.jpg", "NA_Form-33-156.jpg"]
   },
   "NA-126": {
     "Constituency No": "NA-126",
@@ -18751,10 +18623,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-157.jpg",
-      "NA_Form-33-158.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-157.jpg", "NA_Form-33-158.jpg"]
   },
   "NA-127": {
     "Constituency No": "NA-127",
@@ -19013,9 +18882,7 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-159.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-159.jpg"]
   },
   "NA-128": {
     "Constituency No": "NA-128",
@@ -19446,10 +19313,7 @@
         "symbol_url": "https://symbols.azaadvote.com/cricket-stumps.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-162.jpg",
-      "NA_Form-33-163.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-162.jpg", "NA_Form-33-163.jpg"]
   },
   "NA-130": {
     "Constituency No": "NA-130",
@@ -19638,10 +19502,7 @@
         "symbol_url": "https://symbols.azaadvote.com/laptop.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-164.jpg",
-      "NA_Form-33-165.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-164.jpg", "NA_Form-33-165.jpg"]
   },
   "NA-131": {
     "Constituency No": "NA-131",
@@ -19830,10 +19691,7 @@
         "symbol_url": "https://symbols.azaadvote.com/fork.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-166.jpg",
-      "NA_Form-33-167.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-166.jpg", "NA_Form-33-167.jpg"]
   },
   "NA-132": {
     "Constituency No": "NA-132",
@@ -20254,10 +20112,7 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-170.jpg",
-      "NA_Form-33-171.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-170.jpg", "NA_Form-33-171.jpg"]
   },
   "NA-134": {
     "Constituency No": "NA-134",
@@ -20496,10 +20351,7 @@
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-172.jpg",
-      "NA_Form-33-173.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-172.jpg", "NA_Form-33-173.jpg"]
   },
   "NA-135": {
     "Constituency No": "NA-135",
@@ -20668,9 +20520,7 @@
         "symbol_url": "https://symbols.azaadvote.com/laptop.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-174.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-174.jpg"]
   },
   "NA-136": {
     "Constituency No": "NA-136",
@@ -20869,10 +20719,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-175.jpg",
-      "NA_Form-33-176.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-175.jpg", "NA_Form-33-176.jpg"]
   },
   "NA-137": {
     "Constituency No": "NA-137",
@@ -21434,10 +21281,7 @@
         "symbol_url": "https://symbols.azaadvote.com/chair.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-180.jpg",
-      "NA_Form-33-181.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-180.jpg", "NA_Form-33-181.jpg"]
   },
   "NA-139": {
     "Constituency No": "NA-139",
@@ -21858,10 +21702,7 @@
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-184.jpg",
-      "NA_Form-33-185.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-184.jpg", "NA_Form-33-185.jpg"]
   },
   "NA-141": {
     "Constituency No": "NA-141",
@@ -22090,9 +21931,7 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-186.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-186.jpg"]
   },
   "NA-142": {
     "Constituency No": "NA-142",
@@ -22221,9 +22060,7 @@
         "symbol_url": "https://symbols.azaadvote.com/aeroplane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-187.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-187.jpg"]
   },
   "NA-143": {
     "Constituency No": "NA-143",
@@ -22402,10 +22239,7 @@
         "symbol_url": "https://symbols.azaadvote.com/saw.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-188.jpg",
-      "NA_Form-33-189.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-188.jpg", "NA_Form-33-189.jpg"]
   },
   "NA-144": {
     "Constituency No": "NA-144",
@@ -22544,9 +22378,7 @@
         "symbol_url": "https://symbols.azaadvote.com/scale.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-190.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-190.jpg"]
   },
   "NA-145": {
     "Constituency No": "NA-145",
@@ -22695,10 +22527,7 @@
         "symbol_url": "https://symbols.azaadvote.com/geyser.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-191.jpg",
-      "NA_Form-33-192.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-191.jpg", "NA_Form-33-192.jpg"]
   },
   "NA-146": {
     "Constituency No": "NA-146",
@@ -22907,10 +22736,7 @@
         "symbol_url": "https://symbols.azaadvote.com/moter-bike.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-193.jpg",
-      "NA_Form-33-194.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-193.jpg", "NA_Form-33-194.jpg"]
   },
   "NA-147": {
     "Constituency No": "NA-147",
@@ -23059,10 +22885,7 @@
         "symbol_url": "https://symbols.azaadvote.com/brush.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-195.jpg",
-      "NA_Form-33-196.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-195.jpg", "NA_Form-33-196.jpg"]
   },
   "NA-148": {
     "Constituency No": "NA-148",
@@ -23201,10 +23024,7 @@
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-197.jpg",
-      "NA_Form-33-198.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-197.jpg", "NA_Form-33-198.jpg"]
   },
   "NA-149": {
     "Constituency No": "NA-149",
@@ -23393,10 +23213,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-199.jpg",
-      "NA_Form-33-200.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-199.jpg", "NA_Form-33-200.jpg"]
   },
   "NA-150": {
     "Constituency No": "NA-150",
@@ -23565,10 +23382,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-201.jpg",
-      "NA_Form-33-202.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-201.jpg", "NA_Form-33-202.jpg"]
   },
   "NA-151": {
     "Constituency No": "NA-151",
@@ -23687,9 +23501,7 @@
         "symbol_url": "https://symbols.azaadvote.com/peacock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-203.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-203.jpg"]
   },
   "NA-152": {
     "Constituency No": "NA-152",
@@ -23858,9 +23670,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tunnel.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-204.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-204.jpg"]
   },
   "NA-153": {
     "Constituency No": "NA-153",
@@ -24059,10 +23869,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Tambourine.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-205.jpg",
-      "NA_Form-33-206.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-205.jpg", "NA_Form-33-206.jpg"]
   },
   "NA-154": {
     "Constituency No": "NA-154",
@@ -24171,9 +23978,7 @@
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-207.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-207.jpg"]
   },
   "NA-155": {
     "Constituency No": "NA-155",
@@ -24352,10 +24157,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Hammer.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-208.jpg",
-      "NA_Form-33-209.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-208.jpg", "NA_Form-33-209.jpg"]
   },
   "NA-156": {
     "Constituency No": "NA-156",
@@ -24635,10 +24437,7 @@
         "symbol_url": "https://symbols.azaadvote.com/crane.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-211.jpg",
-      "NA_Form-33-212.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-211.jpg", "NA_Form-33-212.jpg"]
   },
   "NA-158": {
     "Constituency No": "NA-158",
@@ -24797,10 +24596,7 @@
         "symbol_url": "https://symbols.azaadvote.com/bowl.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-213.jpg",
-      "NA_Form-33-214.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-213.jpg", "NA_Form-33-214.jpg"]
   },
   "NA-159": {
     "Constituency No": "NA-159",
@@ -25090,9 +24886,7 @@
         "symbol_url": "https://symbols.azaadvote.com/racket.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-216.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-216.jpg"]
   },
   "NA-161": {
     "Constituency No": "NA-161",
@@ -25321,10 +25115,7 @@
         "symbol_url": "https://symbols.azaadvote.com/bottle.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-217.jpg",
-      "NA_Form-33-218.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-217.jpg", "NA_Form-33-218.jpg"]
   },
   "NA-162": {
     "Constituency No": "NA-162",
@@ -25513,10 +25304,7 @@
         "symbol_url": "https://symbols.azaadvote.com/arrow.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-219.jpg",
-      "NA_Form-33-220.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-219.jpg", "NA_Form-33-220.jpg"]
   },
   "NA-163": {
     "Constituency No": "NA-163",
@@ -25705,10 +25493,7 @@
         "symbol_url": "https://symbols.azaadvote.com/book.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-221.jpg",
-      "NA_Form-33-222.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-221.jpg", "NA_Form-33-222.jpg"]
   },
   "NA-164": {
     "Constituency No": "NA-164",
@@ -25847,9 +25632,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tiger.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-223.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-223.jpg"]
   },
   "NA-165": {
     "Constituency No": "NA-165",
@@ -26008,10 +25791,7 @@
         "symbol_url": "https://symbols.azaadvote.com/clock.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-224.jpg",
-      "NA_Form-33-225.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-224.jpg", "NA_Form-33-225.jpg"]
   },
   "NA-166": {
     "Constituency No": "NA-166",
@@ -26140,9 +25920,7 @@
         "symbol_url": "https://symbols.azaadvote.com/chair.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-226.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-226.jpg"]
   },
   "NA-167": {
     "Constituency No": "NA-167",
@@ -26261,9 +26039,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hand-pump.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-227.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-227.jpg"]
   },
   "NA-168": {
     "Constituency No": "NA-168",
@@ -26532,10 +26308,7 @@
         "symbol_url": "https://symbols.azaadvote.com/table.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-228.jpg",
-      "NA_Form-33-229.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-228.jpg", "NA_Form-33-229.jpg"]
   },
   "NA-169": {
     "Constituency No": "NA-169",
@@ -26694,10 +26467,7 @@
         "symbol_url": "https://symbols.azaadvote.com/sheep.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-230.jpg",
-      "NA_Form-33-231.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-230.jpg", "NA_Form-33-231.jpg"]
   },
   "NA-170": {
     "Constituency No": "NA-170",
@@ -26856,10 +26626,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-232.jpg",
-      "NA_Form-33-233.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-232.jpg", "NA_Form-33-233.jpg"]
   },
   "NA-171": {
     "Constituency No": "NA-171",
@@ -26978,9 +26745,7 @@
         "symbol_url": "https://symbols.azaadvote.com/laptop.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-234.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-234.jpg"]
   },
   "NA-172": {
     "Constituency No": "NA-172",
@@ -27714,10 +27479,7 @@
         "symbol_url": "https://symbols.azaadvote.com/teapot.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-240.jpg",
-      "NA_Form-33-241.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-240.jpg", "NA_Form-33-241.jpg"]
   },
   "NA-176": {
     "Constituency No": "NA-176",
@@ -27936,9 +27698,7 @@
         "symbol_url": "https://symbols.azaadvote.com/charpai.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-242.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-242.jpg"]
   },
   "NA-177": {
     "Constituency No": "NA-177",
@@ -28177,10 +27937,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tawa.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-243.jpg",
-      "NA_Form-33-244.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-243.jpg", "NA_Form-33-244.jpg"]
   },
   "NA-178": {
     "Constituency No": "NA-178",
@@ -28289,9 +28046,7 @@
         "symbol_url": "https://symbols.azaadvote.com/study-table-with-chair.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-245.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-245.jpg"]
   },
   "NA-179": {
     "Constituency No": "NA-179",
@@ -28530,10 +28285,7 @@
         "symbol_url": "https://symbols.azaadvote.com/tiger.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-246.jpg",
-      "NA_Form-33-247.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-246.jpg", "NA_Form-33-247.jpg"]
   },
   "NA-180": {
     "Constituency No": "NA-180",
@@ -28812,9 +28564,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Swing.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-248.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-248.jpg"]
   },
   "NA-181": {
     "Constituency No": "NA-181",
@@ -28963,9 +28713,7 @@
         "symbol_url": "https://symbols.azaadvote.com/Tooth-Brush.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-249.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-249.jpg"]
   },
   "NA-182": {
     "Constituency No": "NA-182",
@@ -29134,9 +28882,7 @@
         "symbol_url": "https://symbols.azaadvote.com/charpai.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-250.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-250.jpg"]
   },
   "NA-183": {
     "Constituency No": "NA-183",
@@ -29345,10 +29091,7 @@
         "symbol_url": "https://symbols.azaadvote.com/scale.png"
       }
     ],
-    "PageFiles": [
-      "NA_Form-33-251.jpg",
-      "NA_Form-33-252.jpg"
-    ]
+    "PageFiles": ["NA_Form-33-251.jpg", "NA_Form-33-252.jpg"]
   },
   "NA-184": {
     "Constituency No": "NA-184",
