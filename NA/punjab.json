@@ -4809,6 +4809,16 @@
       },
       {
         "SerialNo": 12,
+        "Name in English": "Qaisara Elahi",
+        "Name in Urdu": "قیصرہ اہلی",
+        "Address": "Kunjah, Dist. Gujrat",
+        "Symbol": "FRIDGE",
+        "Party": "Independent",
+        "SymbolNo": 113,
+        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
+      },
+      {
+        "SerialNo": 13,
         "Name in English": "Majid Rasheed",
         "Name in Urdu": "ماجد رشید",
         "Address": "House #147 Block C Cenal City Main Cenal Bank Road Lohare",
@@ -4818,9 +4828,9 @@
         "symbol_url": "https://symbols.azaadvote.com/Hud-Hud.png"
       },
       {
-        "SerialNo": 13,
+        "SerialNo": 14,
         "Name in English": "Mubeen Arshad",
-        "Name in Urdu": "مبین ارشاد",
+        "Name in Urdu": "موبین ارشد",
         "Address": "Shah Jahangir Road Mohallah Muslim Gunj Gujrat",
         "Symbol": "ARROW",
         "Party": "Pakistan Peoples Party Parliamentarians",
@@ -4828,9 +4838,9 @@
         "symbol_url": "https://symbols.azaadvote.com/arrow.png"
       },
       {
-        "SerialNo": 14,
+        "SerialNo": 15,
         "Name in English": "Muhammad Arshad Khokhar",
-        "Name in Urdu": "محمد ارشاد کھوکھر",
+        "Name in Urdu": "محمد ارشد کھوکھر",
         "Address": "Ghulam House near masjid bilal-ghani baghdadi jail pur jattan Tehsil & District Gujrat",
         "Symbol": "MIC",
         "Party": "Independent",
@@ -4838,7 +4848,7 @@
         "symbol_url": "https://symbols.azaadvote.com/mic.png"
       },
       {
-        "SerialNo": 15,
+        "SerialNo": 16,
         "Name in English": "Muhammad Afzal Gondal",
         "Name in Urdu": "محمد افضل گوندل",
         "Address": "By pass Dheerkey Kalan Tehsil & District Gujrat",
@@ -4848,7 +4858,7 @@
         "symbol_url": "https://symbols.azaadvote.com/hukkah.png"
       },
       {
-        "SerialNo": 16,
+        "SerialNo": 17,
         "Name in English": "Muhammad Sajjad",
         "Name in Urdu": "محمد سجاد",
         "Address": "P.O. Naseera Chak Lashkri Tehsil Kharian District Gujrat",
@@ -4858,7 +4868,7 @@
         "symbol_url": "https://symbols.azaadvote.com/chair.png"
       },
       {
-        "SerialNo": 17,
+        "SerialNo": 18,
         "Name in English": "Muhammad Yousaf",
         "Name in Urdu": "محمد یوسف",
         "Address": "Sughra manzil street#2 mohallah asghar town-lalan nagar Gujrat",
@@ -4866,16 +4876,6 @@
         "Party": "Pakistan Awami Tehreek",
         "SymbolNo": 179,
         "symbol_url": "https://symbols.azaadvote.com/moter-bike.png"
-      },
-      {
-        "SerialNo": 18,
-        "Name in English": "Qaisara Eahli",
-        "Name in Urdu": "قیصرہ اہلی",
-        "Address": "Kunjah, Dist. Gujrat",
-        "Symbol": "FRIDGE",
-        "Party": "Independent",
-        "SymbolNo": 113,
-        "symbol_url": "https://symbols.azaadvote.com/fridge.png"
       }
     ],
     "PageFiles": ["NA_Form-33-039.jpg"]
